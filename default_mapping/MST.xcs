@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TBXXCS SYSTEM "tbxxcsdtd.dtd">
+<TBXXCS lang="en" name="MST" version="1.0">
+  <!-- Last updated: 2011-12-02. Strict subset of the data categories of TBX-Default, reformatted for legibility. Picklist values not in use have been commented out to clarify the relationship with the TBX-Default lists.-->
+  <header>
+    <title>TBX XCS (extensible constraint specification) file for output from MultiTerm Standard Templates (Filename: MST.xcs)</title>
+  </header>
+  <languages>
+    <langInfo>
+      <langCode>EN</langCode>
+      <langName>English</langName>
+    </langInfo>
+    <langInfo>
+      <langCode>ES</langCode>
+      <langName>Spanish</langName>
+    </langInfo>
+  </languages>
+  <datCatSet>
+    <!--Data-category constraint specifications are arranged in alphabetial order by the value of the name attribute. -->
+    <termNoteSpec datcatId="ISO12620A-020903" name="administrativeStatus">
+      <contents datatype="picklist">
+        admittedTerm-admn-sts
+        deprecatedTerm-admn-sts
+        legalTerm-admn-sts
+        preferredTerm-admn-sts
+        regulatedTerm-admn-sts
+        standardizedTerm-admn-sts
+        supersededTerm-admn-sts
+      </contents>
+    </termNoteSpec>
+    <termNoteSpec name="antonymTerm" datcatId="ISO12620A-10180601">
+        <contents datatype="basicText" targetType="term"/>
+    </termNoteSpec>
+    <descripSpec datcatId="ISO12620A-0503" name="context">
+      <contents/>
+      <levels>term</levels>
+    </descripSpec>
+    <descripSpec datcatId="ISO12620A-0501" name="definition">
+      <contents/>
+      <levels>
+        langSet
+        <!--termEntry-->
+        <!--term-->
+      </levels>
+    </descripSpec>
+    <termNoteSpec datcatId="ISO12620A-020202" name="grammaticalGender">
+      <contents datatype="picklist" forTermComp="yes">
+        feminine
+        masculine
+        neuter
+        otherGender
+      </contents>
+    </termNoteSpec>
+    <termNoteSpec datcatId="ISO12620A-020203" name="grammaticalNumber">
+      <contents datatype="picklist" forTermComp="yes">
+        dual
+        mass
+        otherNumber
+        plural
+        singular
+      </contents>
+    </termNoteSpec>
+    <termNoteSpec datcatId="ISO12620A-020902" name="language-planningQualifier">
+      <contents datatype="picklist">
+        newTerm
+        nonstandardizedTerm
+        proposedTerm
+        recommendedTerm
+      </contents>
+    </termNoteSpec>
+    <termNoteSpec datcatId="ISO12620A-020201" name="partOfSpeech">
+      <contents datatype="picklist" forTermComp="yes">
+        adjective
+        <!--adverb-->
+        noun
+        other
+        <!--properNoun--> 
+        verb
+      </contents>
+    </termNoteSpec>
+    <termNoteSpec datcatId="ISO12620A-020303" name="register">
+      <contents datatype="picklist">
+        bench-levelRegister
+        <!--colloquialRegister-->
+        in-houseRegister
+        neutralRegister
+        technicalRegister
+        slangRegister
+        vulgarRegister
+      </contents>
+    </termNoteSpec>
+    <transacNoteSpec datcatId="ISO12620A-100202" name="responsibility">
+      <contents targetType="respPerson"/>
+    </transacNoteSpec>
+    <adminSpec datcatId="ISO12620A-1019" name="source">
+      <contents/>
+    </adminSpec>
+    <descripSpec datcatId="ISO12620A-04" name="subjectField">
+      <contents datatype="plainText"/>
+      <levels>termEntry</levels>
+    </descripSpec>
+    <termNoteSpec datcatId="ISO12620A-0201" name="termType">
+      <contents datatype="picklist">
+        abbreviation
+        acronym
+        <!--for MultiTerm's 'antonym', see antonymTerm above-->
+        <!--clippedTerm-->
+        commonName
+        <!--entryTerm-->
+        equation
+        formula
+        fullForm
+        <!--initialism-->
+        internationalScientificTerm
+        internationalism
+        <!--logicalExpression-->
+        phraseologicalUnit
+        partNumber
+        shortForm
+        <!--shortcut-->
+        sku
+        symbol
+        <!--synonym-->
+        <!--synonymousPhrase-->
+        <!--standardText-->
+        <!--string-->
+        transliteratedForm
+        transcribedForm
+        variant <!--i.e., orthographical-->
+      </contents>
+    </termNoteSpec>
+    <transacSpec datcatId="ISO12620A-1001" name="transactionType">
+      <contents datatype="picklist">
+        <!--approval-->
+        <!--check-->
+        <!--exportation-->
+        <!--importation-->
+        <!--input-->
+        modification
+        origination
+        <!--proposal-->
+        <!--standardization-->
+        <!--userAccess-->
+        <!--withdrawal-->
+      </contents>
+    </transacSpec>
+  </datCatSet>
+</TBXXCS>
+

@@ -1,0 +1,216 @@
+[
+	"TBX for MultiTerm Standard Templates",
+	"MST.xcs",
+	{
+		"language" : {
+			"Definition" : [[[
+				"@auxInfo",
+				"<descrip type='definition' />",
+				"null",
+				"content"
+			]]],
+			"Note" : [[[
+				"@auxInfo",
+				"<note />",
+				"null",
+				"content"
+			]]]
+		},
+		"concept" : {
+			"Subject" : [[[
+				"@auxInfo",
+				"<descrip type='subjectField' />",
+				"null",
+				"content"
+			]]],
+			"Status" : [[[
+				"@auxInfo",
+				"<note />",
+				"category tag",
+				"content"
+			]]],
+			"Source" : [[[
+				"@auxInfo",
+				"<admin type='source' />",
+				"null",
+				"content"
+			]]],
+			"Note" : [[[
+				"@auxInfo",
+				"<note />",
+				"null",
+				"content"
+			]]]
+		},
+		"term" : {
+			"Status" : [
+				[
+					[
+						"@unhandled",
+						"<admin type='Status' />",
+						"null",
+				"content"
+					],
+					[
+						"new",
+						"nonstandardized",
+						"proposed",
+						"recommended"
+					],
+					[
+						"admitted",
+						"deprecated",
+						"legal",
+						"preferred",
+						"regulated",
+						"standardized",
+						"superseded"
+					]
+				],
+				[
+					"@termNote",
+					"<termNote type='language-planningQualifier' />",
+					{
+						"nonstandardized" : "nonstandardizedTerm",
+						"proposed" : "proposedTerm",
+						"new" : "newTerm",
+						"recommended" : "recommendedTerm"
+					},
+					"content"
+				],
+				[
+					"@termNote",
+					"<termNote type='administrativeStatus' />",
+					{
+						"deprecated" : "deprecatedTerm-admn-sts",
+						"regulated" : "regulatedTerm-admn-sts",
+						"admitted" : "admittedTerm-admn-sts",
+						"standardized" : "standardizedTerm-admn-sts",
+						"legal" : "legalTerm-admn-sts",
+						"superseded" : "supersededTerm-admn-sts",
+						"preferred" : "preferredTerm-admn-sts"
+					},
+					"content"
+				]
+			],
+			"Note" : [[[
+				"@auxInfo",
+				"<note />",
+				"null",
+				"content"
+			]]],
+			"Context" : [[[
+				"@auxInfo",
+				"<descrip type='context' />",
+				"null",
+				"content"
+			]]],
+			"Grammatical Gender" : [[[
+				"@termNote",
+				"<termNote type='grammaticalGender' />",
+				{
+					"other" : "otherGender"
+				},
+				"content"
+			]]],
+			"Grammatical Number" : [[[
+				"@termNote",
+				"<termNote type='grammaticalNumber' />",
+				{
+					"other" : "otherNumber"
+				},
+				"content"
+			]]],
+			"Usage Register" : [[[
+				"@termNote",
+				"<termNote type='register' />",
+				{
+					"slang" : "slangRegister",
+					"in-house" : "in-houseRegister",
+					"bench-level" : "bench-levelRegister",
+					"vulgar" : "vulgarRegister",
+					"technical" : "technicalRegister",
+					"neutral" : "neutralRegister"
+				},
+				"content"
+			]]],
+			"Part of Speech" : [[[
+				"@termNote",
+				"<termNote type='partOfSpeech' />",
+				"null",
+				"content"
+			]]],
+			"Source" : [[[
+				"@auxInfo",
+				"<admin type='source' />",
+				"null",
+				"content"
+			]]],
+			"Category" : [
+				[
+					[
+						"@unhandled",
+						"<termNote type='unknownTermType' />",
+						"null",
+						"content"
+					],
+					[
+						"abbreviation",
+						"acronym",
+						"equation",
+						"formula",
+						"internationalism",
+						"symbol"
+					],
+					[
+						"common name",
+						"full form",
+						"international scientific term",
+						"part number",
+						"short form",
+						"transcribed form",
+						"transliterated form"
+					],
+					[
+						"phraseologism",
+						"stock keeping unit",
+						"orthographical variant"
+					],
+					[
+						"antonym"
+					]
+				],
+				[
+					"@termNote",
+					"<termNote type='termType' />",
+					"null",
+					"content"
+				],
+				[
+					"@termNote",
+					"<termNote type='termType' />",
+					"camel case",
+					"content"
+				],
+				[
+					"@termNote",
+					"<termNote type='termType' />",
+					{
+						"stock keeping unit" : "sku",
+						"phraseologism" : "phraseologicalUnit",
+						"orthographical variant" : "variant"
+					},
+					"content"
+				],
+				[
+					"@termNote",
+					"<termNote type='antonymTerm' />",
+					"null",
+					"null"
+				]
+			]
+		}
+	},
+	{},
+	{}
+]
