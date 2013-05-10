@@ -1,0 +1,4929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif SYSTEM "TBXcoreStructV02.dtd">
+<martif type="TBX" xml:lang="en">
+	<martifHeader>
+		<fileDesc>
+			<sourceDesc>
+				<p>auto-converted from MultiTerm XML</p>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p type="DCSName">TBXXCS.XCS</p>
+		</encodingDesc>
+	</martifHeader>
+	<text>
+		<body>
+			<termEntry id="_1">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-16T14:48:53</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T15:37:49</date>
+				</transacGrp>
+				<descrip type="subjectField">Fruit</descrip>
+				<xref target="apple.jpg" type="xGraphic"/>
+				<admin type="source">This image is from:
+https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcT1xIO0KpMHG9VGdQ2EBaD3hM-oZuedS3Un7zcQFCJGLpivkp8R</admin>
+				<langSet xml:lang="EN">
+					<note>This note is on the language level but only applies to this concept entry.</note>
+					<tig>
+						<term>Apple</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T14:48:53</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T14:48:53</date>
+						</transacGrp>
+						<note>Apples are delicious and come in many varieties.</note>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<note>same as the note under English.  This is the language level but only applies to this particular concept entry</note>
+					<tig>
+						<term>Maçã</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T14:48:53</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T14:48:53</date>
+						</transacGrp>
+						<note>apples are delicious and in my final database this entry will be in portuguese</note>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_3">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-16T14:49:29</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T15:59:11</date>
+				</transacGrp>
+				<descrip type="subjectField">Fruit</descrip>
+				<xref target="pear.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcQFvxDgPZCbK_JAgR0prRZ_M2EYeOk2cxNh4BQTgFaNzx3SBk1-oA</admin>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Pear</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T14:49:29</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T14:49:29</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Pera</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T14:49:29</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T14:49:29</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_4">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-16T15:08:50</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T15:52:32</date>
+				</transacGrp>
+				<descrip type="subjectField">Fruit</descrip>
+				<xref target="oranges.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcRd0jSmBl0b1k71ZmhkxU-69tJ4W03JQa9eNM70fXtFphJTEk7Q</admin>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Orange</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:08:50</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:08:50</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Laranja</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:08:50</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:08:50</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_5">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-16T15:09:30</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:12:24</date>
+				</transacGrp>
+				<descrip type="subjectField">Fruit</descrip>
+				<xref target="strawberry.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn1.google.com/images?q=tbn:ANd9GcQHdzi4K7xhO4piDkQkoBozU2qMwhAM_gYHv2eNUITSAs2WTvEEdQ</admin>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Strawberry</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:09:30</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:09:30</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Morango</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:09:30</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:09:30</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_6">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-16T15:12:52</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T15:49:19</date>
+				</transacGrp>
+				<descrip type="subjectField">Fruit</descrip>
+				<xref target="mango.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcTtvIGp0VSRg1gppgkjxippPMdYPLMNr6UiNRz6yL8jJxSSTrek</admin>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Mango</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:12:52</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:12:52</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Manga</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:12:52</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:12:52</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_7">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-16T15:13:04</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T15:45:10</date>
+				</transacGrp>
+				<descrip type="subjectField">Fruit</descrip>
+				<xref target="grapes.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn3.google.com/images?q=tbn:ANd9GcQLPT4_RIlbWTmIwtf32M8bfLf48TBJ5hg_HBY4UWhXZoiEYKacOA</admin>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Grape</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:13:04</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:13:04</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Uva</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:13:04</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:13:04</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_8">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-16T15:14:22</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T15:36:46</date>
+				</transacGrp>
+				<descrip type="subjectField">Fruit</descrip>
+				<xref target="avocado.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn3.google.com/images?q=tbn:ANd9GcT84AZwuP6yszS3IfKwWG86PincoX7qQowP_S1Dm_ogKDiX7txbnQ</admin>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Avocado</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:14:22</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:14:22</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Abacate</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:14:22</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:14:22</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_9">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-16T15:14:41</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-04-07T13:52:56</date>
+				</transacGrp>
+				<descrip type="subjectField">Fruit</descrip>
+				<xref target="banana.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn1.google.com/images?q=tbn:ANd9GcQZB7LSSQpxSFchrid4zMvctHjcmIH3spLubhvalqiBicGFPFDjkA</admin>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Banana</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:14:41</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:14:41</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Banana</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:14:41</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:14:41</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_10">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-16T15:16:28</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T15:55:02</date>
+				</transacGrp>
+				<descrip type="subjectField">Fruit</descrip>
+				<xref target="passionFruit.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn1.google.com/images?q=tbn:ANd9GcShmwSgw7SFT9d8JVmQSxpX-JzTbD5pEbha4OuMOuPqZcPR48Xd</admin>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Passion Fruit</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:16:28</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:16:28</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Maracuja</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:16:28</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:16:28</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_11">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-16T15:17:53</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T15:56:35</date>
+				</transacGrp>
+				<descrip type="subjectField">Fruit</descrip>
+				<xref target="peach.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcQ8H8Ja5u0FLvcuLBUIk9k9OW1ZguuZzR-0joQ9fRiNQUoDDNLoOw</admin>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Peach</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:17:53</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:17:53</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Pêssego</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:17:53</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:17:53</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_12">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-16T15:19:06</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:14:01</date>
+				</transacGrp>
+				<descrip type="subjectField">Fruit</descrip>
+				<xref target="tomato.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcRTCF-4HwSSINMoRTVanvifol4sBMe8Q4eoVt9V1WvnAzkOi1PX</admin>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Tomato</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:19:06</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:19:06</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Tomate</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:19:06</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:19:06</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_13">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-16T15:20:14</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T15:39:40</date>
+				</transacGrp>
+				<descrip type="subjectField">Fruit</descrip>
+				<xref target="Cherry.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn3.google.com/images?q=tbn:ANd9GcSqlKvV3f-hHHcqAhAv5Zce3KiT60G9nDSPTAEUWci-lmhvjTCD</admin>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Cherry</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:20:14</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:20:14</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Cereja</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:20:14</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:20:14</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_14">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-16T15:21:05</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T15:41:35</date>
+				</transacGrp>
+				<descrip type="subjectField">Fruit</descrip>
+				<xref target="coconut.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn3.google.com/images?q=tbn:ANd9GcRVh0WLn9hhBhWVXNuLyAGvyI5Kus1DaXxyEtYCaiy487imzmh_qw</admin>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Coconut</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:21:05</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:21:05</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Coco</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:21:05</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:21:05</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_15">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-16T15:25:40</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T15:43:45</date>
+				</transacGrp>
+				<descrip type="subjectField">Fruit</descrip>
+				<xref target="fig.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcQ2m9urD0P1lByonRTI0FsZxtAC7b06hU1HjUK3aXDrWp8PA7sLdA</admin>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Fig</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:25:40</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:25:40</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Figo</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:25:40</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:25:40</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_16">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-16T15:27:24</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T15:51:01</date>
+				</transacGrp>
+				<descrip type="subjectField">Fruit</descrip>
+				<xref target="melon.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcTcoKS0x73YuUXG3Gojh5uEQya-qr4t_5eBsGHA1daS0brRYfa8</admin>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Melon</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:27:24</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:27:24</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Melão</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:27:24</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:27:24</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_17">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-16T15:28:55</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:15:45</date>
+				</transacGrp>
+				<descrip type="subjectField">Fruit</descrip>
+				<xref target="watermelon.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcQowgHdgygUtji4bNDZx12WxMNyuXHKRHWWunJkSGOXyIVXh7Iu7g</admin>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Watermelon</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:28:55</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:28:55</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Melancia</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:28:55</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:28:55</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_18">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-16T15:29:18</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T15:47:21</date>
+				</transacGrp>
+				<descrip type="subjectField">Fruit</descrip>
+				<xref target="lemon.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcRUyOlctdIbh8_dlPua2iWp23523K7tbVGeFDBmiUK5UqEy8apWlA</admin>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Lemon</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:29:18</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:29:18</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Limão</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:29:18</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:29:18</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_19">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-16T15:31:49</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:07:29</date>
+				</transacGrp>
+				<descrip type="subjectField">Fruit</descrip>
+				<xref target="pineapple.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn1.google.com/images?q=tbn:ANd9GcRbYt6vm3gTtPYJUgg0HIpso3xiggHhPurPvnDqgcU5ncI4owVX</admin>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Pineapple</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:31:49</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:31:49</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Ananás</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:31:49</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:31:49</date>
+						</transacGrp>
+						<note>O termo ananás (em português e espanhol) é do guarani naná, e documentado em português na primeira metade do séc. XVI e em espanhol na segunda (1578), em que é empréstimo do português do Brasil ou da sua língua geral. O termo abacaxi também é um termo ameríndio</note>
+						<admin type="source">http://pt.wikipedia.org/wiki/Abacaxi</admin>
+					</tig>
+					<tig>
+						<term>Abacaxí</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:31:49</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:31:49</date>
+						</transacGrp>
+						<note>O termo abacaxi (em português) é, com forte probabilidade, oriundo do tupi ibacati, ‘bodum ou fedor de fruto’, ‘fruto fedorento’ (ibá, ‘fruto’, cati, ‘recender ou cheirar fortemente’), documentado já no início do séc. XIX.</note>
+						<admin type="source">http://pt.wikipedia.org/wiki/Abacaxi</admin>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_20">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-16T15:33:28</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:10:38</date>
+				</transacGrp>
+				<descrip type="subjectField">Fruit</descrip>
+				<xref target="raspberry.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn1.google.com/images?q=tbn:ANd9GcQ_qel76wV7Xlyvr05QUlnDfdqSGpbpIJ66PsoMD93pDKMiB05QHA</admin>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Raspberry</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:33:28</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:33:28</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Framboesa</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:33:28</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-16T15:33:28</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_21">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:23:17</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:17:23</date>
+				</transacGrp>
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="beef.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn3.google.com/images?q=tbn:ANd9GcQoQcd0DBrF2bIyx4JWl31gsIaH90Gth0FLLK1-ZBzi7JtzU9O9Vg</admin>
+				<ref type="crossReference">Entry 27: Hamburger
+Entry 28: Hot-dog
+Entry 34: Roast beef
+Entry 37: Steak</ref>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Beef</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:23:17</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:23:17</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Carne</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:23:17</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:23:17</date>
+						</transacGrp>
+						<note>Carne is also the word for &quot;meat&quot;</note>
+					</tig>
+					<tig>
+						<term>Bife</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:29:00</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:29:00</date>
+						</transacGrp>
+					</tig>
+					<tig>
+						<term>Carne de vaca</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:29:00</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:29:00</date>
+						</transacGrp>
+					</tig>
+					<tig>
+						<term>Carne de boi</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:29:00</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:29:00</date>
+						</transacGrp>
+					</tig>
+					<tig>
+						<term>Filé</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_22">
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="bacon.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcR--xISsvmL9BCb0xZiX6526ND2SgdoOuI-iGr5UkYhZPCGMIIUyQ</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:28:51</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:28:51</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Bacon</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:28:51</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:28:51</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Bacon</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:28:51</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:28:51</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_23">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:31:09</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:38:49</date>
+				</transacGrp>
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="chicken.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn1.google.com/images?q=tbn:ANd9GcSviGduqnNqKHc_hOTMQDKr-9o1Uv0O-5VOtb05JXsewDmg3DCL</admin>
+				<ref type="crossReference">Entry 24: Chicken breast
+Entry 25: Chicken wing</ref>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Chicken</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:31:09</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:31:09</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Frango</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:31:09</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:31:09</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_24">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:33:35</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:34:52</date>
+				</transacGrp>
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="chicken breast.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcRQ_8hb-VI7BF82fl09w8TsdjQb-vDPhLrRgTJomIUSsycMs1Yk9Q</admin>
+				<ref type="crossReference">Entry 23: Chicken</ref>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Chicken breast</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:33:35</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:33:35</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Peito de frango</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:33:35</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:33:35</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_25">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:38:17</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:03:56</date>
+				</transacGrp>
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="Chicken wing.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcSUDCnpsxMJY8yiY_iz3xqR2t38N8Abv_ERZGIz_8BrKbULgj4H</admin>
+				<ref type="crossReference">Entry 23: Chicken</ref>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Chicken wing</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:38:17</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:03:56</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Asa de frango</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:38:17</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:38:17</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_26">
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="ham.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcTA_a-VfnoAv1PjwuMKWwL5LPGXKjO_8EEH2hLb1XIaavVO1p9hNQ</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:40:52</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:40:52</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Ham</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:40:52</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:40:52</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Presunto</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:40:52</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:40:52</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_27">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:43:29</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:45:38</date>
+				</transacGrp>
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="hamburger.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcQah5AyeRpO2T-ebXiBXCBynTd2IgIKMla5oSILRFwzlI5UJPfDzA</admin>
+				<ref type="crossReference">Entry 25: Beef</ref>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Hamburger</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:43:29</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:43:29</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Hambúrguer</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:43:29</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:43:29</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_28">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:47:31</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:47:31</date>
+				</transacGrp>
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="hot dog.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcQvFvdH1o_CeO_Ol55QTDtvHXnXivx4nBKTgscMVzT365aFtB_A</admin>
+				<ref type="crossReference">Entry 21: Beef</ref>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Hot-Dog</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:47:31</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:47:31</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Cachorro quente</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:47:31</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:47:31</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_29">
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="lamb.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn3.google.com/images?q=tbn:ANd9GcTGW62t19_puvFRTdAnXtlcLFYuZyBzz1S6w0sQ9Vvx7zHyLxFSpA</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:51:47</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:51:47</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Lamb</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:51:47</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:51:47</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Cordeiro</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:51:47</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:51:47</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_30">
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="meatball.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcQ9SprpMBUm-hs3L3uEkMddKlIVJ_GsWdw4yEfc2Oz9I8t_wjqT</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:54:34</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:54:34</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Meatball</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:54:34</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:54:34</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Almôndega</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:54:34</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:54:34</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_31">
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="pastrami.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcQHyRCpQk929PEKn7EH3oxfKkrW_z6HS6ai_T7fojF6V9uitqyvSw</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:58:53</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T16:58:53</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Pastrami</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:58:53</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:58:53</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Pastrami</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:58:53</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T16:58:53</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_32">
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="pork.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcQXFpJAbEoeYaSPMbqmDUMdlseqMar6daLwWpi-qxuADjLcwhdY</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:00:36</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:00:36</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Pork</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:00:36</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:00:36</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Porco</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:00:36</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:00:36</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_33">
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="ribs.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcSlWbchcsV6zopH12oD9e7JwihMYyDSJo0Aa71-gMpTMyF4rIxF</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:03:38</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:03:38</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Rib</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:03:38</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:03:38</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Costela</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:03:38</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:03:38</date>
+						</transacGrp>
+					</tig>
+					<tig>
+						<term>Costelinha</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:03:38</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:03:38</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_34">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:06:07</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:07:26</date>
+				</transacGrp>
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="roast beef.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn1.google.com/images?q=tbn:ANd9GcQKlYJyAmhPRnUVc9D6STkxDdOGymIP7mZpQPwvk6oswdX9zaAF</admin>
+				<ref type="crossReference">Entry 21: Beef</ref>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Roast beef</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:06:07</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:06:07</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Carne assada</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:06:07</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:06:07</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_35">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:09:09</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:08:38</date>
+				</transacGrp>
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="salami.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcSn-52bh9q9MVhfbNNHj0Zawit9t3BsTLYvkVyQzN0rr7anTZjL</admin>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Salami</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:09:09</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:09:09</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Salame</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:09:09</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:09:09</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_36">
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="sausage.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcS-A4gr_xmBFqSJhQobZH_7CQOZGR6M1b1o-DYvTYSmuO6oR3NW-A</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:11:24</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:11:24</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Sausage</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:11:24</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:11:24</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Linguiça</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:11:24</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:11:24</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_37">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:15:30</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:19:46</date>
+				</transacGrp>
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="steak.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcRWAdgLOVBwNt4IjRy0WJubjhHaidF1q5oy6pAlvASmA0-0kqk9Qg</admin>
+				<ref type="crossReference">Entry 21: Beef</ref>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Steak</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:15:30</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:15:30</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Filé</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:15:30</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:15:30</date>
+						</transacGrp>
+					</tig>
+					<tig>
+						<term>Bife</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:19:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:19:46</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_38">
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="turkey.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn1.google.com/images?q=tbn:ANd9GcRNAtkkO7qoUshZKIHOfPOwe9XW3sx03mv1JiAFIBokr50Uf66h</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:22:02</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:22:02</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Turkey</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:22:02</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:22:02</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Peru</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:22:02</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:22:02</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_39">
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="Veal.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcQHYBNAx1EMKWRbDnJopliHbeYhMTrM7-co4ZSQceS8YtL3MnSZFQ</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:24:11</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:24:11</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Veal</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:24:11</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:24:11</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Vitela</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:24:11</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:24:11</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_40">
+				<descrip type="subjectField">Spices</descrip>
+				<xref target="Allspice.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcS7__R4eYpdt84A0jDHqwGjYQNDHLfkrxMMA_I39vkEddDH8Ktv</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:32:02</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:32:02</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Allspice</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:32:02</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:32:02</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Pimenta de Jamaica</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:32:02</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:32:02</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_41">
+				<descrip type="subjectField">Spices</descrip>
+				<xref target="aniseed.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn3.google.com/images?q=tbn:ANd9GcTHkorw6IcTXaa-shuHDM-hZcl27OHhKjmxoV-SWI0EdtSC-Pa4</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:34:34</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:34:34</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Aniseed</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:34:34</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:34:34</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Anis</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:34:34</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:34:34</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_42">
+				<admin type="source">http://www.squidoo.com/Portuguese-words#module3730235</admin>
+				<note>Spices come from this website</note>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:38:30</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:38:30</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Spice</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:38:30</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:38:30</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Tempero</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:38:30</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:38:30</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_43">
+				<descrip type="subjectField">Spices</descrip>
+				<xref target="Caraway.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn1.google.com/images?q=tbn:ANd9GcTHyY2RYxIKaVDnUqgMCvJUVD9iZRWPYCNB05rdFwJ4MusjoN0nUA</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:40:40</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:40:40</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Caraway</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:40:40</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:40:40</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Alcaravia</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:40:40</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:40:40</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_44">
+				<descrip type="subjectField">Spices</descrip>
+				<xref target="Cardamom.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcToDU3WhIf-ZmSLxju95skKxJ1K4jxttSDhJ_H8IKMqmiDYuUrmGA</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:42:47</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:42:47</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Cardamom</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:42:47</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:42:47</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Cardamomo</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:42:47</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:42:47</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_45">
+				<descrip type="subjectField">Spices</descrip>
+				<xref target="cayenne pepper.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcTK_AVbTTaGr1Wsxij2ijr58T57SqpzfrNEfmeyHAgt-4j-qDqX</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:44:36</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:44:36</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Cayenne pepper</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:44:36</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:44:36</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Pimenta de Caiena</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:44:36</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:44:36</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_46">
+				<descrip type="subjectField">Spices</descrip>
+				<xref target="chili.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcSm7XymwXCA4CPUIaeOc-RXOl4KX_9byWe9__5c7htGsPCN4LIW</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:48:32</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:48:32</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Chilli</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:48:32</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:48:32</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Piripiri</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:48:32</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:48:32</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_47">
+				<descrip type="subjectField">Spices</descrip>
+				<xref target="cinnamon.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn3.google.com/images?q=tbn:ANd9GcR18Il68Y3lKzje1VejRdZ8pyLlywKdsySTE2FBm15rlEgoGcy36g</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:50:50</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:50:50</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Cinnamon</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:50:50</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:50:50</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Canela</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:50:50</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:50:50</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_48">
+				<descrip type="subjectField">Spices</descrip>
+				<xref target="Cloves.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcQYaNFSgvT_17Xi2s5KIVuIiRd7W9rWdYEHGFzPJ46xx_2r1cjAlg</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:53:10</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:53:10</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Clove</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:53:10</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:53:10</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Cravinho</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:53:10</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:53:10</date>
+						</transacGrp>
+					</tig>
+					<tig>
+						<term>Cravo</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:53:10</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:53:10</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_49">
+				<descrip type="subjectField">Spices</descrip>
+				<xref target="coriander.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn1.google.com/images?q=tbn:ANd9GcQa4lcWAWpOCAGriWc8eqqSlM7eb3tTk7BgZnL0XPwVi88Qugjz</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:56:20</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:56:20</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Coriander</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:56:20</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:56:20</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Coentro</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:56:20</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:56:20</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_50">
+				<admin type="source">http://www.easyportuguese.com/Portuguese-Vocabulary/Food-Meats/Meats.html</admin>
+				<note>All meat entries from this site</note>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:59:51</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-03-23T17:59:51</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Meat</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:59:51</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:59:51</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Carne</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:59:51</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-03-23T17:59:51</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_51">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-04-30T16:28:19</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-04-30T16:31:39</date>
+				</transacGrp>
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="Shrimp.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcQSY21F3OA04VitnF1Ff7RCJcZSbm-QDY6S3OjmVGMQNfg_GzmH</admin>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Shrimp</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:28:19</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:28:19</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Camarão</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:28:19</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:28:19</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_52">
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="Fish.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcQ53jQZBqtFC6LOHsFP9H9IpikgqERHWHYmNzpN7Ctjtt5asT0nSQ</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-04-30T16:35:27</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-04-30T16:35:27</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Fish</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:35:27</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:35:27</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Peixe</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:35:27</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:35:27</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_53">
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="Crab.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn3.google.com/images?q=tbn:ANd9GcQ8RSylv3X4NRQ8tvZAUYXDq8INAsGaT768IZlaXqityMe0dExLxA</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-04-30T16:38:15</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-04-30T16:38:15</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Crab</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:38:15</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:38:15</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Caranguejo</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:38:15</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:38:15</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_54">
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="Oysters.jpg" type="xGraphic"/>
+				<admin type="source">http://1.bp.blogspot.com/-F641odyobAo/TuaWQ6sSx2I/AAAAAAAAAHY/wCFsityWK50/s1600/Ostras_1.jpg</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-04-30T16:42:54</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-04-30T16:42:54</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Oyster</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:42:54</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:42:54</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Ostra</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:42:54</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:42:54</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_55">
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="Lobster.jpg" type="xGraphic"/>
+				<admin type="source">http://t1.gstatic.com/images?q=tbn:ANd9GcQ4bZevckRCRcB8bTYc-SU97j29bLegtv0eBomr7PpPG26y0WE3</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-04-30T16:48:59</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-04-30T16:48:59</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Lobster</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:48:59</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:48:59</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Lagosta</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:48:59</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:48:59</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_56">
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="Mussels.jpg" type="xGraphic"/>
+				<admin type="source">http://t0.gstatic.com/images?q=tbn:ANd9GcTS73163Anepkcove_7YhJeN4XZnv-gYNTy0lbgzmy7kY1Mkjg59Q</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-04-30T16:52:12</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-04-30T16:52:12</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Mussel</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:52:12</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:52:12</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Mexilhão</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:52:12</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:52:12</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_57">
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="Cockles.jpg" type="xGraphic"/>
+				<admin type="source">http://t1.gstatic.com/images?q=tbn:ANd9GcSyJhwzgeHZbuDsYPbk4dpsikL0GjSIaFWmv3vulKtG59MYFNaX</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-04-30T16:55:29</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-04-30T16:55:29</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Cockles</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:55:29</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:55:29</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Amêijoas</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:55:29</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T16:55:29</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_58">
+				<descrip type="subjectField">Meat</descrip>
+				<xref target="Trout.jpg" type="xGraphic"/>
+				<admin type="source">http://t3.gstatic.com/images?q=tbn:ANd9GcQRuQEESsWIsdCskQaGO_hqC1ctYYLTY2ugx9mZVZpOt54CxmcoNg</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-04-30T17:00:45</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-04-30T17:00:45</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Trout</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T17:00:45</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T17:00:45</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Truta</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T17:00:45</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-04-30T17:00:45</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_59">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:11:09</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:12:02</date>
+				</transacGrp>
+				<xref target="salmon.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcQkb7A4WVhFvwJlQjkg21WBaOcoIfqRTOY6DhQieZHL_E15zPcB</admin>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Salmon</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:11:09</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:11:09</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Salmão</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:11:09</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:11:09</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_60">
+				<xref target="cod.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcQJzfNKGdxuoUfn_9plQ9wfUsv6MxAILEkB3kt6EFdM9smEFjGl</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:15:24</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:15:24</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Cod</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:15:24</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:15:24</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Bacalhau</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:15:24</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:15:24</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_61">
+				<xref target="herring.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcS1h9pTe3w5fnkrUnU9dtXsX9b9YxblBKI3hqLgUuWRX5YxrUG1_w</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:22:47</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:22:47</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Herring</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:22:47</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:22:47</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Arenque</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:22:47</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:22:47</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_62">
+				<xref target="plaice.jpg" type="xGraphic"/>
+				<admin type="source">http://www.organizaracasa.com/wp-content/uploads/2010/12/solha1.jpg</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:31:34</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:31:34</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Plaice</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:31:34</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:31:34</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Solha</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:31:34</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:31:34</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_63">
+				<xref target="Monkfish.jpg" type="xGraphic"/>
+				<admin type="source">http://t0.gstatic.com/images?q=tbn:ANd9GcTwqYu-oPkZKkhu3PMIRGGGXBa1gOg62MW7E8Q9ppIME86FHIZzNA</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:35:21</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:35:21</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Monkfish</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:35:21</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:35:21</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Tamboril</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:35:21</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:35:21</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_64">
+				<xref target="squid.jpg" type="xGraphic"/>
+				<admin type="source">http://t0.gstatic.com/images?q=tbn:ANd9GcSjJhjjFFm24Jl-Uafa8qCLk-6qjugj619smYwxkLJeiSOtwKJk</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:40:04</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:40:04</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Squid</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:40:04</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:40:04</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Lula</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:40:04</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:40:04</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_65">
+				<xref target="Octopus.jpg" type="xGraphic"/>
+				<admin type="source">http://t1.gstatic.com/images?q=tbn:ANd9GcT0wVsV_iTfSEWJs7c08hmn_4N2TAequ2LP92a5tyaehGKfIrsT</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:42:09</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:42:09</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Octopus</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:42:09</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:42:09</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Polvo</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:42:09</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:42:09</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_66">
+				<xref target="Vegetables.jpg" type="xGraphic"/>
+				<admin type="source">http://www.wiki2buy.com.br/images/5/58/Legumes.jpg</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:45:09</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:45:09</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Vegetables</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:45:09</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:45:09</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Legumes</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:45:09</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:45:09</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_67">
+				<xref target="salad.jpg" type="xGraphic"/>
+				<admin type="source">http://t3.gstatic.com/images?q=tbn:ANd9GcR3UfZqt7I_RhYQbbJH-oGoJ28o2DFdFS_ZzYSb8GDfyhWLi-Hs</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:49:51</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:49:51</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Salad</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:49:51</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:49:51</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Salada</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:49:51</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:49:51</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_68">
+				<xref target="potato.jpg" type="xGraphic"/>
+				<admin type="source">http://t3.gstatic.com/images?q=tbn:ANd9GcQhlI0fSkyY9OOnCPLnQFMO-VwXdF7oQHiKgDp7FJQOfpznTRhTFw</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:51:07</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:51:07</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Potato</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:51:07</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:51:07</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Batata</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:51:07</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:51:07</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_69">
+				<xref target="carrot.jpg" type="xGraphic"/>
+				<admin type="source">http://t1.gstatic.com/images?q=tbn:ANd9GcSXKnJLEDCSAE2BdaaWEQPdjhxc9IyVylRqAS7wV2ip1IY6P8Ot</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:57:49</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:57:49</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Carrot</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:57:49</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:57:49</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Cenoura</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:57:49</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:57:49</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_70">
+				<xref target="peas.jpg" type="xGraphic"/>
+				<admin type="source">http://t0.gstatic.com/images?q=tbn:ANd9GcSTjFh8QPw3W8-LFWMISx8jCgOEU3v7Ynu7c28zsO-5w4yORF-fng</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:59:45</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T15:59:45</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Pea</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:59:45</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:59:45</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Ervilha</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:59:45</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T15:59:45</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_71">
+				<xref target="mushroom.jpg" type="xGraphic"/>
+				<admin type="source">http://static.photaki.com/cogumelos-cozidos-com-alho-e-salsa_184104.jpg</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:04:35</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:04:35</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Mushroom</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:04:35</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:04:35</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Cogumelo</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:04:35</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:04:35</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_72">
+				<xref target="cauliflower.jpg" type="xGraphic"/>
+				<admin type="source">http://colunistas.ig.com.br/comidinhas/files/2009/09/couve-flor.jpg</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:07:19</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:07:19</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Cauliflower</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:07:19</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:07:19</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Couve-flor</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:07:19</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:07:19</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_73">
+				<xref target="Beans.jpg" type="xGraphic"/>
+				<admin type="source">http://www.clicmercado.com.br/imagens/fejao4.jpg</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:09:06</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:09:06</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Beans</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:09:06</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:09:06</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Feijão</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:09:06</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:09:06</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_74">
+				<xref target="Lettuce.jpg" type="xGraphic"/>
+				<admin type="source">http://1.bp.blogspot.com/-GU6lKyAGP5s/T0BN9eayCuI/AAAAAAAAAGE/dT1aejSbpzY/s1600/alface.jpg</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:11:33</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:11:33</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Lettuce</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:11:33</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:11:33</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Alface</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:11:33</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:11:33</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_75">
+				<xref target="onion.jpg" type="xGraphic"/>
+				<admin type="source">http://t0.gstatic.com/images?q=tbn:ANd9GcQv8wk7Gg282ZMH_qht6fpHhlVinlRVoH29LOqDb-5G3af7938esg</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:13:43</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:13:43</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Onion</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:13:43</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:13:43</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Cebola</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:13:43</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:13:43</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_76">
+				<xref target="leek.jpg" type="xGraphic"/>
+				<admin type="source">http://t1.gstatic.com/images?q=tbn:ANd9GcSy_rwnGhir-l9cwbgVn7nWuhniKGe4cVcpfeZgz1AxsrcttVwC</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:16:08</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:16:08</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Leek</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:16:08</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:16:08</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Alho-porro</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:16:08</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:16:08</date>
+						</transacGrp>
+					</tig>
+					<tig>
+						<term>Alho-poró</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:16:08</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:16:08</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_77">
+				<xref target="cucumber.jpg" type="xGraphic"/>
+				<admin type="source">http://t0.gstatic.com/images?q=tbn:ANd9GcQsNRrTRLFdvb_dE7ppC89GeeAG1wpaUWJCRYgykLcavaQzhQtp</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:17:53</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:17:53</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Cucumber</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:17:53</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:17:53</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Pepino</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:17:53</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:17:53</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_78">
+				<xref target="cabbage.jpg" type="xGraphic"/>
+				<admin type="source">http://t3.gstatic.com/images?q=tbn:ANd9GcTzKEa6eZLzlvWQEfw12F7Axbc86KkNUObwCpR3CpDc_fYBe0mI</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:21:11</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:21:11</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Cabbage</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:21:11</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:21:11</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Couve</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:21:11</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:21:11</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_79">
+				<xref target="Garlic.jpg" type="xGraphic"/>
+				<admin type="source">http://t0.gstatic.com/images?q=tbn:ANd9GcTx_LZarPmPXTj703ed53lOymB1dMJNJ9yKlZQg1m3YqJtDdhYRfw</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:23:07</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:23:07</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Garlic</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:23:07</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:23:07</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Alho</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:23:07</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:23:07</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_80">
+				<xref target="Radish.jpg" type="xGraphic"/>
+				<admin type="source">http://t1.gstatic.com/images?q=tbn:ANd9GcQuzSao6Bt-ra9RJArRqCKi9LByEV3qizhCDwR1DnOPZb5W2mVppw</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:25:18</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:25:18</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Radish</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:25:18</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:25:18</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Rabanete</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:25:18</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:25:18</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_81">
+				<xref target="pizza.jpg" type="xGraphic"/>
+				<admin type="source">http://t3.gstatic.com/images?q=tbn:ANd9GcQmZOk6837NhWGS0zehJRoxKkmNFuNKrvL9KHbl9LLvwFwD2iO_</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:27:40</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:27:40</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Pizza</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:27:40</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:27:40</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Pizza</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:27:40</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:27:40</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_82">
+				<xref target="fries.jpg" type="xGraphic"/>
+				<admin type="source">http://t1.gstatic.com/images?q=tbn:ANd9GcQRIJeV3IhjsvAx9qk1AUbPzywu-b_B9S_7Y8Mn48iNhUSJSNnE</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:29:03</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:29:03</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Fries</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:29:03</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:29:03</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Batatas fritas</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:29:03</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:29:03</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_83">
+				<xref target="omelete.jpg" type="xGraphic"/>
+				<admin type="source">http://4.bp.blogspot.com/-mE8E4OJjo0A/Tw7BIituQLI/AAAAAAAAJU0/6dPYKBTRDeo/s1600/omelete.jpg</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:34:25</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:34:25</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Omelette</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:34:25</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:34:25</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Omelete</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:34:25</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:34:25</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_84">
+				<xref target="ice-cram.jpg" type="xGraphic"/>
+				<admin type="source">http://t0.gstatic.com/images?q=tbn:ANd9GcQJCKOpl1fbAt6sqYyP9Ylly9zB9yas4_o6gd6_qzj7F0r676fz</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:37:29</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:37:29</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Ice-cream</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:37:29</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:37:29</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Sorvete</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:37:29</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:37:29</date>
+						</transacGrp>
+					</tig>
+					<tig>
+						<term>Gelado</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:37:29</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:37:29</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_85">
+				<xref target="pancake.jpg" type="xGraphic"/>
+				<admin type="source">http://3.bp.blogspot.com/-zTvZDE4MlvA/TtjOeLHb4vI/AAAAAAAAABQ/wbfb3eHJuSg/s1600/040610+panqueca+foto+divulga%25C3%25A7%25C3%25A3o.jpg</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:41:01</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:41:01</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Pancake</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:41:01</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:41:01</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Panqueca</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:41:01</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:41:01</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_86">
+				<xref target="croissant.jpg" type="xGraphic"/>
+				<admin type="source">http://t2.gstatic.com/images?q=tbn:ANd9GcRSS7Dcr_i9H8JNnE1ugljw9OuaHF6QcS6WAKJF0uUOryn9rW6PGw</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:43:16</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:43:16</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Croissant</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:43:16</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:43:16</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Croissant</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:43:16</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:43:16</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_87">
+				<xref target="yogurt.jpg" type="xGraphic"/>
+				<admin type="source">http://t2.gstatic.com/images?q=tbn:ANd9GcQkZvQc8u2-e8Cx0yQJm25NCbx5v2X8g7mRMA7I6QL_Ca_xrJk2</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:44:51</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:44:51</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Yogurt</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:44:51</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:44:51</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Iogurte</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:44:51</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:44:51</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_88">
+				<xref target="Chocolate mousse.jpg" type="xGraphic"/>
+				<admin type="source">http://t2.gstatic.com/images?q=tbn:ANd9GcSknVOGNznckN8i9alZdNz5MUPawI1wVbO_bbLwJN2N57IK8_o35g</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:46:37</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:46:37</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Chocolate Mousse</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:46:37</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:46:37</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Mousse de Chocolate</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:46:37</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:46:37</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_89">
+				<xref target="soup.jpeg" type="xGraphic"/>
+				<admin type="source">http://3.bp.blogspot.com/-CNzNgHCy2BA/TpgiK0sggWI/AAAAAAAABOA/daBSSHZFc7U/s1600/vantagens+desvantagens+dieta+da+sopa.jpeg</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:49:11</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:49:11</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Soup</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:49:11</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:49:11</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Sopa</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:49:11</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:49:11</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_90">
+				<xref target="salt.jpg" type="xGraphic"/>
+				<admin type="source">http://t1.gstatic.com/images?q=tbn:ANd9GcR7zvfgZUESyrb1qQMRrIUYvx7H7suzncLwj04WMrZ_0E2i0W8V</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:50:23</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:50:23</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Salt</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:50:23</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:50:23</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Sal</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:50:23</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:50:23</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_91">
+				<xref target="pepper.jpg" type="xGraphic"/>
+				<admin type="source">http://1.bp.blogspot.com/-czjI08c5bhE/TanVg1NXoII/AAAAAAAAAAM/KCDBU8jd2dE/s1600/20060719-pimentas.jpg</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:52:56</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:52:56</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Peppers</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:52:56</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:52:56</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Pimentas</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:52:56</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:52:56</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_92">
+				<xref target="large peppers.jpg" type="xGraphic"/>
+				<admin type="source">http://t3.gstatic.com/images?q=tbn:ANd9GcQFKUq4AhrcD9WXI0n4Qn5tOtK5mDw1itZFg-dC5nSpF6YuSeD9</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:54:24</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:54:24</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Bell pepper</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:54:24</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:54:24</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Pimentão</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:54:24</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:54:24</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_93">
+				<xref target="Black pepper.jpg" type="xGraphic"/>
+				<admin type="source">http://t3.gstatic.com/images?q=tbn:ANd9GcQRDM0CrYNdtOrW1gHdA90RfmJDafPqLyW6UIBW-4hwmZuyeTQrqQ</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:59:22</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T16:59:22</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Black pepper</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:59:22</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:59:22</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Pimenta do Reino</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:59:22</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T16:59:22</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_94">
+				<xref target="vinegar.jpg" type="xGraphic"/>
+				<admin type="source">http://bbel.uol.com.br/upload_2009/conteudo/casa_vinagre1_810110173451890.jpg</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T17:02:48</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T17:02:48</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Vinegar</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:02:48</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:02:48</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Vinagre</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:02:48</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:02:48</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_95">
+				<xref target="moustard.jpg" type="xGraphic"/>
+				<admin type="source">http://t1.gstatic.com/images?q=tbn:ANd9GcRIXn0OSZneJigM3AueD3JayQDB6pbXK8byiS-w6j0swmzwexnu</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T17:15:40</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T17:15:40</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Mustard</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:15:40</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:15:40</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Mostarda</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:15:40</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:15:40</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_96">
+				<xref target="Juice.jpg" type="xGraphic"/>
+				<admin type="source">http://www.barradatijuca.com.br/wp-content/uploads/2010/01/frutas.jpg</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T17:20:12</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T17:20:12</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Juice</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:20:12</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:20:12</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Suco</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:20:12</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:20:12</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_97">
+				<xref target="rice.jpg" type="xGraphic"/>
+				<admin type="source">http://4.bp.blogspot.com/_VR5CmqDujOg/S8Wt9NqUCtI/AAAAAAAAA8M/GeubRygRQ8s/s1600/Vc+sabe+fazer+arroz.jpg</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T17:25:10</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T17:25:10</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Rice</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:25:10</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:25:10</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Arroz</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:25:10</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:25:10</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_98">
+				<xref target="cookies.jpg" type="xGraphic"/>
+				<admin type="source">http://t1.gstatic.com/images?q=tbn:ANd9GcS0Z1ZKxJC7UnJPWmzTBf-qUqpJZT0uCwR8BNhho4FgRAXw_Tz3</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T17:27:29</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T17:27:29</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Cookie</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:27:29</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:27:29</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Biscoito</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:27:29</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:27:29</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_99">
+				<xref target="cake.jpg" type="xGraphic"/>
+				<admin type="source">http://www.cozinhabrasileira.com/thumbnail.php?imagem=painel/files/07321.jpg&amp;l=240&amp;a=240</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T17:30:16</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T17:30:16</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Cake</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:30:16</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:30:16</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Bolo</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:30:16</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:30:16</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_100">
+				<xref target="rabbit.jpg" type="xGraphic"/>
+				<admin type="source">https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcRYEwibhG40Kk8lANsvVm6NS3vCpDDcptOjDYcZijwczRw7IXz_EQ</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T17:34:31</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T17:34:31</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Rabbit</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:34:31</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:34:31</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>Coelho</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:34:31</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:34:31</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_101">
+				<xref target="pasta.jpg" type="xGraphic"/>
+				<admin type="source">http://t3.gstatic.com/images?q=tbn:ANd9GcSY8zr7B7cgoGx9GIGZYVeJZIPpLkGdRAOtnfw6G-eLZ4LuB16J</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T17:39:21</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">BYU</transacNote>
+					<date>2012-05-22T17:39:21</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>Pasta</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:39:21</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:39:21</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="PT">
+					<tig>
+						<term>macarrão</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:39:21</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">BYU</transacNote>
+							<date>2012-05-22T17:39:21</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+		</body>
+	</text>
+</martif>

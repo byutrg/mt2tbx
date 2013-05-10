@@ -14,6 +14,14 @@
       <langCode>ES</langCode>
       <langName>Spanish</langName>
     </langInfo>
+    <langInfo>
+      <langCode>FR</langCode>
+      <langName>French</langName>
+    </langInfo>
+    <langInfo>
+      <langCode>DE</langCode>
+      <langName>German</langName>
+    </langInfo>
   </languages>
   <datCatSet>
     <!--Data-category constraint specifications are arranged in alphabetial order by the value of the name attribute. -->

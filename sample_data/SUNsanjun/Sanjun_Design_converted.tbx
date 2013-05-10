@@ -1,0 +1,1785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif SYSTEM "TBXcoreStructV02.dtd">
+<martif type="TBX-Sanjun" xml:lang="en">
+	<martifHeader>
+		<fileDesc>
+			<sourceDesc>
+				<p>auto-converted from MultiTerm XML</p>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p type="DCSName">SUNsanjun.xcs</p>
+		</encodingDesc>
+	</martifHeader>
+	<text>
+		<body>
+			<termEntry id="_55">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-23T20:20:30</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-23T20:22:51</date>
+				</transacGrp>
+				<descrip type="subjectField">Design issues</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A statement that experimental effects or relationships between variables exist. The alternative hypothesis is accepted when the null hypothesis rejected at a predetermined significance level.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>alternative hypothesis</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-23T20:22:51</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-23T20:22:51</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">The statement we hope or suspect is true instead of Ho is called the alternative hypothesis and is abbreviated Ha.</descrip>
+							<admin type="source">http://books.google.com/books?id=irBeIsO8wZgC&amp;pg=PA453&amp;dq=%22alternative+hypothesis%22&amp;ei=qh_fSseqEI28MPS9tIoF</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">统计假设的一种。与“零假设”相对。在零假设不真时，而选择的另一个结论。通常，持谨慎态度的假设命题一方设置为备择假设H1，以保证判断失误带来的损失在允许范围内。</descrip>
+						<admin type="source">心理学大辞典</admin>
+					</descripGrp>
+					<tig>
+						<term>备择假设</term>
+						<descripGrp>
+							<descrip type="context">与原假设对立的假设称为备择假设或对立假设，记为H1。</descrip>
+							<admin type="source">http://books.google.com/books?id=QOE_7o2K1fUC&amp;pg=PA209&amp;dq=备择假设&amp;ei=NyDfSrmUN5OENpi44bMF#v=onepage&amp;q=备择假设&amp;f=false</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_58">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-23T20:50:43</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-29T17:21:26</date>
+				</transacGrp>
+				<descrip type="subjectField">Design issues</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A variable that the researcher 'suspects' is influencing the relationship between the independent and dependent variables.</descrip>
+						<admin type="source">http://books.google.com/books?id=QKE1DiqrSA4C&amp;pg=RA1-PA143&amp;dq=%E2%80%9Dcontrol+variable+is+a+variable%22</admin>
+					</descripGrp>
+					<tig>
+						<term>control variable</term>
+						<descripGrp>
+							<descrip type="context">A control variable is a variable that has the potential to impact the dependent variable as well as the independent variable, but its effects are removed or controlled by research design or statistical manipulation.</descrip>
+							<admin type="source">http://books.google.com/books?id=BXKQX8Adlb0C&amp;pg=PA80&amp;dq=%E2%80%9Dcontrol+variable+is+a+variable%22#v=onepage&amp;q=%E2%80%9Dcontrol%20variable%20is%20a%20variable%22&amp;f=false</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">心理学实验变量。实验研究中除自变量以外的所有影响因变量的因素。</descrip>
+						<admin type="source">心理学大辞典</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">潜在的自变量。一项实验的目的就是确定自变量与因变量之间的因果关系。在事物之间&quot;多因一果&quot;或&quot;多因多果&quot;的关系模型中，一次研究不可能将所有影响因变量的因素都纳入到研究中加以考察，而只能关注有限的几个因素，其余的因素则需要控制，是一些与研究主题无关的变量；否则，应变量与因变量之间的因果关系就难以确定，就会产生自变量的混淆。其控制方法主要有消除法、恒定法、随机化、纳入法、平衡法、统计控制法等。</admin>
+						<adminNote type="noteSource">心理学大辞典</adminNote>
+					</adminGrp>
+					<tig>
+						<term>控制变量</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-23T21:04:11</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-23T21:04:11</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">控制变量是指那些除了实验因素(自变量)以外的所有影响实验结果的变量,这些变量不是本实验所要研究的变量,所以又称无关变量、无关因子、非实验因素或非实验因子...</descrip>
+							<admin type="source">http://define.cnki.net/WebForms/WebDefines.aspx?searchword=%E6%8E%A7%E5%88%B6%E5%8F%98%E9%87%8F</admin>
+						</descripGrp>
+					</tig>
+					<tig>
+						<term>额外变量</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-23T21:04:11</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-23T21:07:19</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">额外变量是指除自变量以外的能对个体的心理过程和行为施加影响的有关因素。</descrip>
+							<admin type="source">http://define.cnki.net/WebForms/WebDefines.aspx?searchword=%E9%A2%9D%E5%A4%96%E5%8F%98%E9%87%8F</admin>
+						</descripGrp>
+					</tig>
+					<tig>
+						<term>干扰变量</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-23T21:04:11</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-23T21:07:19</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">我们将这两类影响员工激励需求和激励作用的异化因素称为干扰变量.其中外部环境变量包括反映员工工作环境背景的宏观变量的如企业性质、地域差别、文化背景、行业差异等...</descrip>
+							<admin type="source">http://define.cnki.net/WebForms/WebDefines.aspx?searchword=%E5%B9%B2%E6%89%B0%E5%8F%98%E9%87%8F</admin>
+						</descripGrp>
+					</tig>
+					<tig>
+						<term>无关变量</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-23T21:04:11</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-23T21:07:19</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">在实验过程中,除有意识操纵的自变量外,可能影响因变量的因数是很多的,因此,必须对无关变量加以控制。</descrip>
+							<admin type="source">http://define.cnki.net/WebForms/WebDefines.aspx?searchword=%E6%97%A0%E5%85%B3%E5%8F%98%E9%87%8F</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_63">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-24T11:44:01</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-22T22:22:18</date>
+				</transacGrp>
+				<descrip type="subjectField">Design issues</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">The magnitude, often in standardized units, of an effect in a study.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">It is often an indicator of the strength of a relationship, the magnitude of mean differences among several groups, or the like.</admin>
+						<adminNote type="noteSource">APAdictionary</adminNote>
+					</adminGrp>
+					<tig>
+						<term>effect size</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T12:01:34</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T12:01:34</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">In experimental studies, effect size refers to the impact of treatments (ie, how much difference they are expected to make). In correlational studies, effect size refers to how closely two variables are associated.</descrip>
+							<admin type="source">http://books.google.com/books?id=j0LNtzRESoEC&amp;pg=PA163&amp;dq=%E2%80%9Ceffect+size+refers+to%22&amp;ei=WiHjSqryIYLCNdGynZkM#v=onepage&amp;q=%E2%80%9Ceffect%20size%20refers%20to%22&amp;f=false</admin>
+						</descripGrp>
+						<adminGrp>
+							<admin type="annotatedNote">Effect size: A measure of the size of the effect observed in some statistics. It is a way of determing the practical significance of a statistic by reducing the impact of sample size.</admin>
+							<adminNote type="noteSource">http://books.google.com/books?id=ai75P2UjvtUC&amp;pg=PA100&amp;dq=%22dependent+variable%22&amp;ei=kh_jSvmeG43-M9rliBA#v=onepage&amp;q=effect%20size&amp;f=false</adminNote>
+						</adminGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">心理统计学术语。对虚无假设H0否定程度的程度。</descrip>
+						<admin type="source">心理学大辞典</admin>
+					</descripGrp>
+					<tig>
+						<term>效果量</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T12:01:34</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T12:01:34</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">“效果量”是不依赖于样本大小、反映自变量和因变量关联强度的指标。</descrip>
+							<admin type="source">http://www.google.com/url?sa=t&amp;source=web&amp;ct=res&amp;cd=1&amp;ved=0CAcQFjAA&amp;url=http%3A%2F%2Fbbs.psysoper.com%2Farchiver%2Ftid-23899.html&amp;ei=xSTjSsrsF4Sk8QaI5qn9AQ&amp;usg=AFQjCNHpFwflAfNfB01usumuetf7MiWPLw&amp;sig2=tN6wDbovRFtixtdd51g4qw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_67">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-24T15:10:31</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-29T17:41:59</date>
+				</transacGrp>
+				<descrip type="subjectField">Design issues</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">The process of using any of a collectiion of statistical tests to assess the likelihood that an experimental result might have been the result of a chance or random process.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>hypothesis testing</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T15:17:24</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T15:17:24</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Hypothesis testing refers to the process of using statistical analysis to determine if the observed differences between two or more samples are due to random chance (the null hypothesis) or to true differences in teh samples (the alternate hypothesis).</descrip>
+							<admin type="source">http://books.google.com/books?id=_AvqDXZ2CPcC&amp;pg=PA376&amp;dq=%E2%80%9Dhypothesis+testing+refers+to%E2%80%9C&amp;ei=MVLjSsnVDIWIygSWps3kCw#v=onepage&amp;q=%E2%80%9Dhypothesis%20testing%20refers%20to%E2%80%9C&amp;f=false</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">亦称&quot;统计检验&quot;。统计推断的一种。根据抽样结果，在一定可靠性程度上对一个或多个总体分布的原假设做出拒绝或接受结论的统计程序。用于检验样本统计量的数值与假设的总体参数是否显著差异时称差异显著性检验。检验的推理逻辑是一定概率保证下的反证法。</descrip>
+						<admin type="source">心理学大辞典</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">一般包括四个步骤，(1) 根据问题要求提出原假设H0；(2) 寻找检验统计量，用于提取样本中的用于推断的信息，要求在H0成立的条件下，统计量的分布已知且不包含任何未知参数；(3)  由统计量的分布，计算&quot;概率值&quot;或确定拒绝域与接受域；(4) 由具体样本值计算统计量的观测值，对统计假设作出判断。若H0的内容涉及到总体参数，称为参数假设检验，否则为非参数检验。在参数假设检验中，当对总体分布的参数做出原假设H0后，先承认总体与原假设相同，然后根据样本计算一个统计量，并求出该统计量的分布，再给定一个小概率（一般为0.05，0.1等，视情况而定）确定拒绝原假设的区域〈即拒绝域）。若原假设H0正确，一般该统计量的值不应落在拒绝域中，若落入拒绝域，根据小概率原理则有理由怀疑推导统计量分布时依据的原假设H0是错误的，从而拒绝原假设立H0；若统计量的值不落入拒绝域，则没有理由推翻原假设H0，从而接受原假设H0。由于统计量的值是随机的，因此做出决定有犯错误的风险。应用假设检验时，须注意满足假设检验要求的条件，如观测值的独立性和正态性的假定。</admin>
+						<adminNote type="noteSource">心理学大辞典</adminNote>
+					</adminGrp>
+					<tig>
+						<term>假设检验</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T15:17:24</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T15:17:24</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">假设检验是数理统计学中根据一定假设条件由样本推断总体的一种方法。具体作法是：根据问题的需要对所研究的总体作某种假设，记作H0；选取合适的统计量，这个统计量的选取要使得在假设H0成立时，其分布为已知；由实测的样本，计算出统计量的值，并根据预先给定的显著性水平进行检验，作出拒绝或接受假设H0的判断。常用的假设检验方法有u—检验法、t—检验法、X2检验法、F—检验法等。</descrip>
+							<admin type="source">http://baike.baidu.com/view/1445854.html?wtp=tt</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_73">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-24T15:51:13</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-24T16:24:35</date>
+				</transacGrp>
+				<descrip type="subjectField">Design issues</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">The quantity, magnitude, or category of the independent variable (or variables) in an experimental design.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>level</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T16:24:35</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T16:24:35</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">In this type of t test, we want to know whether the average scores on the dependent variable differ according to which group one belongs to (i.e., the level of the independent variable).</descrip>
+							<admin type="source">http://books.google.com/books?id=1a5Jz6oa3qoC&amp;pg=PA106&amp;dq=level+independent+variable&amp;lr=&amp;ei=FV7jSqXTGpHOywSejPnrCw#v=onepage&amp;q=level%20independent%20variable&amp;f=false</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">亦称“处理”，方差分析术语。实验中考察因素的不同状态。这些状态是可定义、可区分的。</descrip>
+						<admin type="source">心理学大辞典</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">如某实验中&quot;教材&quot;是个实验因素，若只考察三种教材：Al 国家统编、A2 沿海版、A3 自编实验教材，就是说&quot;教材&quot;设置了三种不同“水平”。</admin>
+						<adminNote type="noteSource">心理学大辞典</adminNote>
+					</adminGrp>
+					<tig>
+						<term>水平</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T16:24:35</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T16:24:35</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">无论是单因素设计还是多因素设计，适当选取自变量水平是实验控制的关键。自变量水平之间必须有明显的区分性，而且这种区分性必须能从因变量（实验测量）中反映出来。</descrip>
+							<admin type="source">http://www.google.com/url?sa=t&amp;source=web&amp;ct=res&amp;cd=10&amp;ved=0CDYQFjAJ&amp;url=http%3A%2F%2Ffli.fjnu.edu.cn%2FFli%2FClass2%2FClass18%2F185.html&amp;ei=RWLjStKyNsHO8Qb-yPT1AQ&amp;usg=AFQjCNE2w9AvnF9V_KkXihT5mhL0T3eIZg&amp;sig2=N2ky1nNIcO572bkUAiZOFw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_79">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-24T16:56:37</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-22T22:30:05</date>
+				</transacGrp>
+				<descrip type="subjectField">Design issues</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">In repeated measures designs, the effect of the order in which treatments are administered, that is, the effect of being the first administered treatment (rather than the second, third, and so forth).</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>order effect</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T17:01:36</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T17:01:36</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Generally speaking, the order effect refers to the phenomenon that the temporal order in which information is presented affects the final judgment of an event. Undoubted, the temporal order of incoming evidence often carries important information about the true meaning of an event.</descrip>
+							<admin type="source">http://books.google.com/books?id=JDrFxDGJoIwC&amp;pg=PA547&amp;dq=%22order+effect+refers+to%22&amp;lr=#v=onepage&amp;q=%22order%20effect%20refers%20to%22&amp;f=false</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">实验误羡效应。自变量的呈现顺序对因变量产生的影响。即当相同的被试接受不同的实验处理时，第一次实验处理对第二次实验处理可能产生的影响。这种影响可能是巨大的，也可能是轻微的，可能是短暂的，也可能是长久的。</descrip>
+						<admin type="source">心理学大辞典</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">一般说来，在重复处理的实验中，顺序效应是影响实验效果的重要的额外变量，须加时有效控制。控制方法有完全的平衡方法及拉丁方平衡方法。如，当实施两种不同数学教法的教学实验时，若以向一个班的学生为被试，贝第一种教法的效果就会对第二种教法的效果产生影响。这时，可对两个班分别采用&quot;&quot;先实施教法甲、再实施教法乙&quot;&quot;和&quot;&quot;先实施教法乙、再实施教法甲&quot;&quot;的实验顺序，以平衡实验顺序的影响。</admin>
+						<adminNote type="noteSource">心理学大辞典</adminNote>
+					</adminGrp>
+					<tig>
+						<term>顺序效应</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T17:01:36</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T17:01:36</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">在对两个刺激进行比较时，与刺激的客观顺序实际上并无关系，但当人们出现把通常最先出现的刺激或后面出现的刺激评价过大的倾向称之为顺序效应。</descrip>
+							<admin type="source">http://wenda.tianya.cn/wenda/thread?tid=2c1b6e0097cc2638</admin>
+						</descripGrp>
+						<adminGrp>
+							<admin type="annotatedNote">顺序效应（Sequence Effects）是指刺激呈现的顺序影响人们判断的现象。
+　　a.人们回忆经历的时候只是回忆一些片断，而非回忆全部的细节。一般来说，以下几个因素对人们的回忆有很大影响：苦乐顺序的发展趋势，最高和最低点，结尾。（也有说法认为开头也非常重要，但是一般承认其重要性远远弱于结尾）
+　　b.人们一般喜欢多次连续进步的体验。
+　　比如赌钱，连续赢两次5块钱就比一次赢10块钱更容易让人快乐；
+　　相比虎头蛇尾，人们更喜欢鸡头豹尾，即使也许前者总成绩更好。
+　　Ｃ在对两个刺激进行比较时，与刺激的客观顺序实际上并无关系，但当人们出现把通常最先出现的刺激或后面出现的刺激评价过大的倾向称之为顺序效应。如面试考官在对多名考生依次进行评定时，往往会受面试顺序的影响，而不能客观评定考生的情况。例如，一个考官在面试了三个很不理想的考生之后，第四位考生即使很一般，考官也会对他有比前三位好得多的印象。反之，如果一位考官连续面试了三位很理想的考生，即使第四个考生水平一般，考民也会认为他比实际的水平还要差。</admin>
+							<adminNote type="noteSource">http://baike.baidu.com/view/2343335.htm</adminNote>
+						</adminGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_85">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-24T17:57:06</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-24T18:10:25</date>
+				</transacGrp>
+				<descrip type="subjectField">Design issues</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">Assigning participants or other sampling units to the conditions of an experiment at random, that is, in such a way that each participant or sampling unit has an equal chance of being assigned to any particular condition.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>randomization</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:10:25</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:10:25</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Randomization refers to the practice of assigning subjects to treatments or control groups in a completely random manner. This can be accomplished by assigning numbers to subjects and then having numbers selected randomly.</descrip>
+							<admin type="source">http://books.google.com/books?id=WDZ-vrgN5GoC&amp;pg=PA89&amp;dq=%E2%80%9Crandomization+refers+to%E2%80%9D&amp;lr=&amp;ei=c3jjSp3wNaCeygTso8zwCw#v=onepage&amp;q=%E2%80%9Crandomization%20refers%20to%E2%80%9D&amp;f=false</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">实验设计的一个基本原则。实验单位的组成、实验单位安排到不同的组、实验处理的分配及实验中各个试验的顺序等都要随机确定。</descrip>
+						<admin type="source">心理学大辞典</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">随机化有利于干扰变量的控制，因为它将有无关差异（即干扰变量产生的变异）的对象（样品、实验单位、环境等）之间的“不一致”均匀混杂与分散开，使干扰变量的系统影响尽可能降低。随机化也是为满足统计方法对观测值（或者误差）的统计要求；它们应是独立同分布的随机变量。这是运用统计推断方法的重要前提。</admin>
+						<adminNote type="noteSource">心理学大辞典</adminNote>
+					</adminGrp>
+					<tig>
+						<term>随机化</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:10:25</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:10:25</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">在一组测定值中，每个测定值都是依一定的概率独立出现的，则称这一组测定值的出现是随机化的。可用游程检验来确定一组测定值的出现是否是随机化的。</descrip>
+							<admin type="source">http://baike.baidu.com/view/1587523.htm</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_91">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-24T18:28:33</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-22T22:36:31</date>
+				</transacGrp>
+				<descrip type="subjectField">Design issues</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">In null hypothesis significance testing, the probability of rejecting the null hypothesis when it is in fact true (i.e., of making a Type I error).</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">It is set at some criterion, a, usually .01 or .05, and the actual value for a particular test is denoted p. Thus when the p-value is less than a, the null hypothesis is rejected.</admin>
+						<adminNote type="noteSource">APAdictionary</adminNote>
+					</adminGrp>
+					<tig>
+						<term>significance level</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:31:54</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:31:54</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Therefore the term significance level refers to the point at which it is decided to reject the chance explanation and accept that the independent variable is responsible for the observed differences.</descrip>
+							<admin type="source">http://books.google.com/books?id=EDU-4YfKZ8AC&amp;pg=PA65&amp;dq=%22significance+level+refers+to%22&amp;lr=&amp;ei=sH_jSuHyF5O2yATyiLTWCw#v=onepage&amp;q=%22significance%20level%20refers%20to%22&amp;f=false</admin>
+						</descripGrp>
+					</tig>
+					<tig>
+						<term>alpha level</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-22T22:36:31</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-22T22:36:31</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">p value or alpha level refers to the probability of type I error.</descrip>
+							<admin type="source">http://books.google.com/books?id=3HMgldjWIjMC&amp;pg=PA127&amp;dq=%22alpha+level+refers+to%22&amp;ei=EgMKS--XDqqGyQS81JDaDw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">统计推断错误的概率指标。在统计推断中，观察或假设检验统计量落入估计区间或拒绝域的概率。</descrip>
+						<admin type="source">心理学大辞典</admin>
+					</descripGrp>
+					<tig>
+						<term>显著性水平</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:31:54</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:31:54</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">在统计假设检验中，公认的小概率事件的概率值被称为统计假设检验的显著性水平，记为α。α的取值越小，此假设检验的显著性水平越高。</descrip>
+							<admin type="source">http://www.hudong.com/wiki/%E6%98%BE%E8%91%97%E6%80%A7%E6%B0%B4%E5%B9%B3</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_97">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-24T19:00:24</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-24T19:00:24</date>
+				</transacGrp>
+				<descrip type="subjectField">Design issues</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">The ability of a measurement instrument (e.g., a test) to measure an attribute consistently, which is important in assessing the validity of data acquired using that instrument.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">The basic index of reliability is the correlation coefficient. Internal consistency reliability is indexed by the correlations among items or subtests; retest reliability is indexed by the correlation among two or more occasions of measurement.</admin>
+						<adminNote type="noteSource">APAdictionary</adminNote>
+					</adminGrp>
+					<tig>
+						<term>reliability</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T19:00:24</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T19:00:24</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Reliability refers to the consistency or stability of the scores from a test.</descrip>
+							<admin type="source">http://books.google.com/books?id=8qoaXPh6E4UC&amp;pg=PA164&amp;dq=%22reliability+refers+to%22&amp;lr=&amp;ei=N4bjSoCEJKqGyQSL7KCsDA</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">指测验结果的一致性、稳定性及可靠性，一般多以内部一致性来加以表示该测验信度的高低。</descrip>
+						<admin type="source">http://www.hudong.com/wiki/%E4%BF%A1%E5%BA%A6</admin>
+					</descripGrp>
+					<tig>
+						<term>信度</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T19:00:24</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T19:00:24</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">信度主要是指测量结果的可靠性或一致性。和信度相关的一个概念是效度，信度是效度的前提条件。</descrip>
+							<admin type="source">http://baike.baidu.com/view/363144.htm</admin>
+						</descripGrp>
+						<adminGrp>
+							<admin type="annotatedNote">信度系数愈高即表示该测验的结果愈一致、稳定与可靠。系统误差对信度没什么影响，因为系统误差总是以相同的方式影响测量值的，因此不会造成不一致性。反之，随机误差可能导致不致性，从而降低信度。信度可以定义为随机误差R影响测量值的程度。如果R=0，就认为测量是完全可信的，信度最高。</admin>
+							<adminNote type="noteSource">http://www.hudong.com/wiki/%E4%BF%A1%E5%BA%A6</adminNote>
+						</adminGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_110">
+				<descrip type="subjectField">Design issues</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T16:22:23</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T16:22:23</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">An index of how well a test correlates with a variable that is measured in the future, at some point after the test has been administered.</descrip>
+						<admin type="source">APAdictionary p. 721</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">For example, the predictive validity of a test designed to predict the onset of a disease would be calculated by the extent to which it was successful at identifying those individuals who did, in fact, later develop that disease.</admin>
+						<adminNote type="noteSource">APAdictionary p. 721</adminNote>
+					</adminGrp>
+					<tig>
+						<term>predictive validity</term>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">确定测验分数能在多大程度上预示实际成绩的一种经验效度(empirical validity)。比如，一项为测量文牍能力而设计的测验若能预示谁能胜任或不胜任文牍工作的话，它便有良好的预示效度。</descrip>
+						<admin type="source">ZhuDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>预测效度</term>
+						<descripGrp>
+							<descrip type="context">效度的名目繁杂，名异实同的情况尤多，概括而言可分为三大类：内容效度（content validity）、预测效度（predictive validity）及构念效度（construct validity）。</descrip>
+							<admin type="source">http://tx.liberal.ntu.edu.tw/Jx/Methodology/%E5%88%86%E6%9E%90-%E4%BF%A1%E5%BA%A6%E8%88%87%E6%95%88%E5%BA%A6%E5%88%86%E6%9E%90.htm</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_111">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T16:24:41</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T16:24:41</date>
+				</transacGrp>
+				<descrip type="subjectField">Design issues</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">In psychometrics, any measure of validity based on determining the strength of the relationship between scores on the test and an independent criterion that is accepted as a standard against which the test may be judged.</descrip>
+						<admin type="source">OxDictionary</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">An index of how well a test correlates with a criterion, that is, an established standard of comparison. The criterion can be measured before, after, or at the same time as the test being validated.</admin>
+						<adminNote type="noteSource">APAdictionary p.244</adminNote>
+					</adminGrp>
+					<tig>
+						<term>criterion validity</term>
+						<descripGrp>
+							<descrip type="context">Criterion validity refers to validity that is established by use of an external criterion.</descrip>
+							<admin type="source">http://books.google.com/books?id=2evSMjy8_ogC&amp;pg=PT30&amp;dq=%22criterion+validity+refers+to%22&amp;ei=0FsIS-_rOqDAzQTGovC5Dw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">通过确定测验分数与某个独立的、非测验的标准间的关系而予以评估的测验工具的效度。</descrip>
+						<admin type="source">ZhuDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>效标效度</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T16:33:22</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T16:33:22</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">所谓效标效度，就是考查测验分数与效标的关系，看测验对感兴趣的行为预测得如何。因为效标效度需要有实际证据，所以又叫实证效度。一般有预测效度与同时效度、效标和效标测量两类。</descrip>
+							<admin type="source">http://www.hudong.com/wiki/%E6%95%88%E6%A0%87%E6%95%88%E5%BA%A6</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_113">
+				<descrip type="subjectField">Design issues</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T16:38:02</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T16:38:02</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">In psychometrics, the extent to which the items of a test are appropriate to the content domain of the test.</descrip>
+						<admin type="source">OxDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>content validity</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T16:38:02</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T16:38:02</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Content validity refers to the representativeness of our measurement regarding the phenomenon about which we want information.</descrip>
+							<admin type="source">http://books.google.com/books?id=mGxZKppD98EC&amp;pg=PA107&amp;dq=%22content+validity+refers+to%22&amp;ei=I10IS7afNpDczQTtl_zFDw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">测验题目对有关内容或行为范围取样的适当性。</descrip>
+						<admin type="source">http://www.hudong.com/wiki/%E5%86%85%E5%AE%B9%E6%95%88%E5%BA%A6</admin>
+					</descripGrp>
+					<tig>
+						<term>内容效度</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T16:38:02</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T16:38:02</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">测量工具的内容效度是指该测量工具是否涵盖了它所要测量的某一观念的所有项目(层面)。</descrip>
+							<admin type="source">http://books.google.com/books?id=hvWqjyfucb4C&amp;pg=RA1-PA194&amp;dq=%E2%80%9D%E5%86%85%E5%AE%B9%E6%95%88%E5%BA%A6%E6%98%AF%E6%8C%87%E2%80%9C&amp;ei=iV0IS5qYM6n0yATHuJzNDw#v=onepage&amp;q=%E2%80%9D%E5%86%85%E5%AE%B9%E6%95%88%E5%BA%A6%E6%98%AF%E6%8C%87%E2%80%9C&amp;f=false</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_114">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T16:39:54</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T16:39:54</date>
+				</transacGrp>
+				<descrip type="subjectField">Design issues</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">The extent to which an experiment, laboratory test, or set of measurements conforms to or correlates with the underlying theoretical concepts in the field of scholarly activity to which the work in question belongs.</descrip>
+						<admin type="source">LastDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>construct validity</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T16:46:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T16:46:46</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">In research, construct validity refers to the degree to which the research adequately captures the construct of interest.</descrip>
+							<admin type="source">http://books.google.com/books?id=uk0TNSZg5MwC&amp;pg=PA90&amp;dq=%22construct+validity+refers+to%22&amp;ei=rl4IS5buC5KiygTNzrinDw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">在确定测验项目多大程度地符合意欲测量的假定的特性或特质（即构念）的基础上评估该测验工具的效度的一套方法。</descrip>
+						<admin type="source">ZhuDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>结构效度</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T16:46:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T16:46:46</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">结构效度是指一个测验实际测到所要测量的理论结构和特质的程度，或者说它是指测验分数能够说明心理学理论的某种结构或特质的程度；是指实验与理论之间的一致性，即实验是否真正测量到假设（构造）的理论。</descrip>
+							<admin type="source">http://baike.baidu.com/view/1350460.html?fromTaglist</admin>
+						</descripGrp>
+					</tig>
+					<tig>
+						<term>构想效度</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T16:46:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T16:46:46</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">1954年提出，有人翻译为构思效度，也有叫结构效度。它是指测验能够测量到理论上的构想和特质的程度，即测验的结果是否能证实或解释某一理论的假设、术语或构想，解释的程度如何。</descrip>
+							<admin type="source">http://baike.baidu.com/view/1226011.htm</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_116">
+				<descrip type="subjectField">Design issues</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T17:04:48</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T17:04:48</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">The validity of a test determined by its general acceptance in the community of test administrators or by the number of users who judge it to be valid.</descrip>
+						<admin type="source">OxDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>consensual validity</term>
+						<descripGrp>
+							<descrip type="context">Consensual validity refers to the agreement of those competent to judge the research report - usually those in the teaching/learning/research communities within which the research is conducted and reported...</descrip>
+							<admin type="source">http://books.google.com/books?id=TLK3qzMd_GMC&amp;pg=PA32&amp;dq=%22+consensual+validity+refers+to%22&amp;ei=WWAIS_OVB56MzgSww_3FDw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">一种根据一致意见来评估效度的非正规方法，亦即赞成某一说法的人越多，则该说法就越可能是正确的，或者，同意某种看法的人越多，则该看法就越可能是真的。</descrip>
+						<admin type="source">ZhuDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>共识效度</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T17:04:48</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T17:04:48</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">共识效度本是竞争者之间的同义，即教育情境的描述、诠释、评估、主体化是对的。</descrip>
+							<admin type="source">http://www.google.com/url?sa=t&amp;source=web&amp;ct=clnk&amp;cd=31&amp;ved=undefined&amp;url=http%3A%2F%2F74.125.93.132%2Fsearch%3Fq%3Dcache%3A6kbbQ5XX4DEJ%3Awww.wretch.cc%2Fblog%2FMediaMatrix%2F1720276%2B%25E2%2580%259D%25E5%2585%25B1%25E8%25AF%2586%25E6%2595%2588%25E5%25BA%25A6%25E2%2580%259C%26cd%3D31%26hl%3Den%26ct%3Dclnk%26gl%3Dus%26client%3Dfirefox-a&amp;ei=O2MIS9H1F5K4lAf9w4yFBA&amp;usg=AFQjCNEettX4WpNEJmGRIWwg2VNNyw80PA&amp;sig2=WACzftsX1tMsdpJ9uNEx1Q</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_117">
+				<descrip type="subjectField">Design issues</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T17:16:46</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T17:16:46</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">The validity of a test determined by its correlation with existing tests designed to measure the same construct.</descrip>
+						<admin type="source">OxDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>congruent validity</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T17:16:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T17:16:46</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Congruent validity refers to the relationship between the test and other test measures of the same variable.</descrip>
+							<admin type="source">http://books.google.com/books?id=JIkIAQAAIAAJ&amp;q=%22congruent+validity+refers+to%22&amp;dq=%22congruent+validity+refers+to%22&amp;ei=8WQIS8vqHYfkyQT55q3TDw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">在一新的测验分数与另一个已经确立了效度的测验分数之间求相关，从而确立新测验效度的一种方法。</descrip>
+						<admin type="source">ZhuDictionary</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">叠合效度最典型的例子见于智力测验。在智力测验中，新编的测验是同一些著名的测验如斯坦福、比内测验或韦克斯勒测验相比较的。</admin>
+						<adminNote type="noteSource">ZhuDictionary</adminNote>
+					</adminGrp>
+					<tig>
+						<term>相容效度</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T17:16:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T17:16:46</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">相容效度是构思效度的一个证据。区分效度是构思效度的又一个证据，一个有效的测验不仅应与其他测量同一构思的测验有关，而且还必须与测量不同构思的测验无相关；因素分析法也是建立构思效度的常用方法，通过对一组测验进行因素分析，可以找到影响测验分数的共同因素，这种因素可能就是我们要测量的心理特质（构思）。</descrip>
+							<admin type="source">http://baike.baidu.com/view/1226011.htm</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_119">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T17:35:23</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T17:35:23</date>
+				</transacGrp>
+				<descrip type="subjectField">Design issues</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A complete listing of all of the elements in a population from which a sample is to be drawn.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>sampling frame</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T17:35:23</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T17:35:23</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">A sampling frame is a list of people (households, organizations) that the researcher has reason to believe is representative of the larger population of interest.</descrip>
+							<admin type="source">http://books.google.com/books?id=Rb9KlLtpGe8C&amp;pg=PA45&amp;dq=%22sampling+frame+is%22&amp;ei=DmoIS6P5KqHiyQSimaGuDw#v=onepage&amp;q=%22sampling%20frame%20is%22&amp;f=false</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">包括全部抽样单位的名单框架。</descrip>
+						<admin type="source">http://baike.baidu.com/view/1652958.htm</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">抽样框的主要形式有三种:名单抽样框、区域抽样框、时间表抽样框。</admin>
+						<adminNote type="noteSource">http://baike.baidu.com/view/1652958.htm</adminNote>
+					</adminGrp>
+					<tig>
+						<term>抽样框</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T17:35:23</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T17:35:23</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">抽样框是一个包括全部总体单位的能够代表总体全貌的目录或名册,...</descrip>
+							<admin type="source">http://books.google.com/books?id=cgKr_MtVmv8C&amp;pg=PA61&amp;dq=%22%E6%8A%BD%E6%A0%B7%E6%A1%86%22&amp;lr=&amp;ei=mWoIS6q9N6mwyAT5td3cDw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_120">
+				<descrip type="subjectField">Design issues</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T17:45:46</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T17:45:46</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">The principles of drawing samples that accurately represent the population from which they are taken.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>sampling theory</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T17:45:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T17:45:46</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Thus, fundamentally, sampling theory is concerned with the ability to generalize the properties found in a sample to the population from which the sample is ...</descrip>
+							<admin type="source">http://books.google.com/books?id=q657o3M3C8cC&amp;pg=PA112&amp;dq=%22sampling+theory+is%22&amp;ei=uWsIS4P7OIOgzASs8JzQDw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">关于从总体中抽取有代表性的和适当的样本以得出有效的推论的原则和应用技术的一个数学统计学的分支。</descrip>
+						<admin type="source">ZhuDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>抽样理论</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T17:45:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T17:45:46</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">作者提出归纳推理的抽样理论,认为归纳推理实质是根据与归纳特征有关的抽样样本情况来推断结论类别具有归纳特征的可能性,其中的抽样可分为类别抽样和特征抽样两种。</descrip>
+							<admin type="source">http://scholar.ilib.cn/A-QCode~xlxb200807005.html</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_122">
+				<descrip type="subjectField">Design issues</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T18:01:24</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T18:01:24</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A type of cluster sampling in which every k th element is selected from the frame, after a random start somewhere within the first k elements, where k = the sampling interval.</descrip>
+						<admin type="source">BizDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>systematic sampling</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:01:24</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:01:24</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Within certain constraints, systematic sampling is a functional equivalent of simple random sampling and usually easier to do.</descrip>
+							<admin type="source">http://books.google.com/books?id=Bw62AAAAIAAJ&amp;q=%22systematic+sampling+is%22&amp;dq=%22systematic+sampling+is%22&amp;lr=&amp;ei=UHAIS-uuN4qGzAScmLDADw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">根据一种系统规则的取样，诸如“每第10例”或“每隔一成分”。</descrip>
+						<admin type="source">ZhuDictionary, p.748</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">许多报道随机取样的实验，实纳上用的就是这个程序，在一些特殊研究中，首先出现的被试纳入第一组，接着出现的纳入第二组，第三出现的又纳入第一组，依此类推。</admin>
+						<adminNote type="noteSource">ZhuDictionary, p.748</adminNote>
+					</adminGrp>
+					<tig>
+						<term>系统抽样</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:01:24</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:01:24</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">系依据一定的抽样距离，从母体中抽取样本。由于系统抽样法操作简便,实施起来不易出错,因而在生产现场人们乐于使用它。</descrip>
+							<admin type="source">http://baike.baidu.com/view/263573.html?fromTaglist</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_123">
+				<descrip type="subjectField">Design issues</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T18:05:44</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T18:05:44</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A sampling procedure in which a population is divided into two mutually exclusive and collectively exhaustive strata and a probability sample is drawn from each stratum.</descrip>
+						<admin type="source">BizDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>stratified sampling</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:05:44</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:05:44</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Stratified sampling is a method for obtaining a greater degree of representativeness by decreasing the probable sampling error.</descrip>
+							<admin type="source">http://books.google.com/books?id=QySynvetGQIC&amp;pg=PT240&amp;dq=%22stratified+sampling+is%22&amp;lr=&amp;ei=s3EIS_7uBKS2ywSbzrynDw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">取样时把一个整体分成若干不同的部分（或层次），并分别从每一部分中取样。</descrip>
+						<admin type="source">ZhuDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>分层抽样</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:05:44</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:05:44</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">分层抽样比单纯随机抽样所得到的结果准确性更高，组织管理更方便，而且它能保证总体中每一层都有个体被抽到。这样除了能估计总体的参数值，还可以分别估计各个层内的情况，因此分层抽样技术常被采用。</descrip>
+							<admin type="source">http://www.hudong.com/wiki/%E5%88%86%E5%B1%82%E6%8A%BD%E6%A0%B7</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_124">
+				<descrip type="subjectField">Design issues</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T18:36:39</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T18:36:39</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A method of recruiting new participants for a study by asking existing participants to recommend additional potential participants.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>snowball sampling</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:36:39</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:36:39</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Snowball sampling is useful for hard-to-reach or hard-to-identify populations for which there is no sampling frame, but the members of which are conewhat interconnected (at least some members of the population know each other).</descrip>
+							<admin type="source">http://books.google.com/books?id=59ckOEGjCAEC&amp;pg=PT204&amp;dq=%22snowball+sampling+is%22&amp;lr=&amp;ei=NHMIS47qII7-zQT1o5S2Dw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">取样时要求样本中每一个人提供其他几个人的名字，然后把他们也纳入样本中，等等。</descrip>
+						<admin type="source">ZhuDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>雪球式取样</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:36:39</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:36:39</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">网状取样或雪球式抽样：是利用受访者的人际关係网络来寻求进一步的研究对象。</descrip>
+							<admin type="source">http://refi.taivs.tp.edu.tw:1080/~chenkuan/t003.doc</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_125">
+				<descrip type="subjectField">Design issues</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T18:40:48</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T18:40:48</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A process for selecting individuals for a study from a larger potential group of individuals in such a way that each is selected with a fixed probability of inclusion.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>random sampling</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:40:48</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:40:48</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Random sampling refers to sampling strategies that give every element of a population an equal chance of selection.</descrip>
+							<admin type="source">http://books.google.com/books?id=D1ZWS2Wnk2QC&amp;pg=PA112&amp;dq=%22random+sampling+refers+to%22&amp;lr=</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">取样总体中的每个事件或成分都是彼此独立的，都有同样可能被包括在样本中。</descrip>
+						<admin type="source">ZhuDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>随机抽样</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:40:48</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:40:48</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">随机抽样法就是调查对象总体中每个部分都有同等被抽中的可能，是一种完全依照机会均等的原则进行的抽样调查，被称为是一种“等概率”。随机抽样有四种基本形式，即简单随机抽样、等距抽样、类型抽样和整群抽样。</descrip>
+							<admin type="source">http://baike.baidu.com/view/982701.htm</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_126">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T18:46:23</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T18:46:23</date>
+				</transacGrp>
+				<descrip type="subjectField">Design issues</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A method of non-probability sampling in which the selection of the respondents is based upon some stratification and the setting of quota controls on each strata (sub-group).</descrip>
+						<admin type="source">BizDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>quota sampling</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:46:23</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:46:23</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Quota sampling refers to a form of nonprobability sampling in which knowledge about the population of interest is used to build some representativeness into the sample.</descrip>
+							<admin type="source">http://books.google.com/books?id=9ypDwvWnoocC&amp;pg=PA266&amp;dq=%22quota+sampling+refers+to%22&amp;lr=</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">分层取样的一种变化，指从每层中挑选出特定数目（定额）的案例。</descrip>
+						<admin type="source">ZhuDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>定额抽样</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:46:23</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:46:23</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">配额抽样也称“定额抽样”，是指调查人员将调查总体样本按一定标志分类或分层，确定各类（层）单位的样本数额，在配额内任意抽选样本的抽样方式。</descrip>
+							<admin type="source">http://wiki.mbalib.com/wiki/%E9%85%8D%E9%A2%9D%E6%8A%BD%E6%A0%B7</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_127">
+				<descrip type="subjectField">Design issues</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T18:57:54</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T18:57:54</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">An estimate of the reliability of a measurement instrument (e.g., a test) obtained as the correlation between scores on two administrations of the test to the same individual.</descrip>
+						<admin type="source">APAdictionary p. 795</admin>
+					</descripGrp>
+					<tig>
+						<term>test-retest reliability</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:57:54</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:57:54</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">The major conceptual difficulty in establishing test-retest difficulty is in determining how much tie is permissible between the first and second administrtions.</descrip>
+							<admin type="source">http://books.google.com/books?id=NiOsbZ3mbl4C&amp;pg=PA48&amp;dq=%22test-retest+reliability%22&amp;lr=&amp;ei=dHwIS5mmOYzIyQSR3bXPDw#v=onepage&amp;q=%22test-retest%20reliability%22&amp;f=false</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">通过对同一批人进行两次（或两次以上）测验，获得每次测验分数之间的信度系数，借助决定测验信度的一种方法。</descrip>
+						<admin type="source">ZhuDictionary p.795</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">通常在初测和复测之间允许有一段合理的长时期，这是不言自明的。</admin>
+						<adminNote type="noteSource">ZhuDictionary p.795</adminNote>
+					</adminGrp>
+					<tig>
+						<term>重测信度</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:57:54</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T18:57:54</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">重测信度（test-retest reliability），又称再测信度，为常用信度评估方法之一。反映测验跨越时间的稳定性和一致性，即应用同一测验方法，对同一组被试者先后两次进行测查，然后计算两次测查所得分数的关系系数，相关程度高，表示前后测量一致性高，稳定性好。简而言之，把同一被试者、同一个测验在不同的时间测量两次所得结果的相关系数称为重测信度。重测信度测重评估时间差异所造成的误差及其对测验稳定性的影响，评价重测信度时应注意重测间隔时间长短对重测相关系数的影响。</descrip>
+							<admin type="source">http://baike.baidu.com/view/480763.html</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_128">
+				<descrip type="subjectField">Design issues</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T19:37:05</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T19:37:05</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">In learning, any change or improvement that results from practice or repetition of task items or activities.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>practice effect</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T19:37:05</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T19:37:05</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Practice effect refers to improved performance on cognitive and neuropsychological tests as a result of repeated test administration.</descrip>
+							<admin type="source">http://books.google.com/books?id=jS59vnrIbIIC&amp;pg=PA263&amp;dq=%22practice+effect+refers+to%22&amp;lr=&amp;ei=u4YIS9T-MYK0yQT8z53TDw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">实验中，被试由于多次重复同样的程序，实验成绩提高或降低的现象。</descrip>
+						<admin type="source">http://baike.baidu.com/view/1295435.html?fromTaglist</admin>
+					</descripGrp>
+					<tig>
+						<term>练习效应</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T19:37:05</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T19:37:05</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">在实验心理学中，人们对随着被试对一个任务或给定的一系列任务中的某些任务具有日益增多的经验而产生的变化，称之为练习效应。</descrip>
+							<admin type="source">http://www.google.com/url?sa=t&amp;source=web&amp;ct=res&amp;cd=5&amp;ved=0CBsQFjAE&amp;url=http%3A%2F%2Fwiki.gpzh.com%2Fsearch-tag-%25E7%25BB%2583%25E4%25B9%25A0%25E6%2595%2588%25E5%25BA%2594.html&amp;ei=SocIS8LPJ5PUlAfT-JmjDA&amp;usg=AFQjCNFVFLt06uG6nft5U176h_Eyo0jkpg&amp;sig2=yhdS2cJtvvP-QWAEIfoCbw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_134">
+				<descrip type="subjectField">Design issues</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T20:59:39</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T20:59:39</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A biasing effect on the results of an experiment caused by expectations or preconceptions on the part of the experimenter.</descrip>
+						<admin type="source">OxDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>experimenter effect</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T20:59:39</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T20:59:39</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">The experimenter effect refers to the fact that the researcher may react more positively to participants who behave in line with the hypothesis tested, ...</descrip>
+							<admin type="source">http://books.google.com/books?id=MP5X2SK2DCgC&amp;pg=PA24&amp;dq=%22+experimenter+effect+refers+to%22&amp;lr=&amp;ei=CZcIS4XJIZHYyQSsk5yvDw</admin>
+						</descripGrp>
+					</tig>
+					<tig>
+						<term>experimenter bias</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T20:59:39</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T20:59:39</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Experimenter bias refers to any intentional or unintentional influences the experimenter exerts on the participants of the experiment to behave in a manner ...</descrip>
+							<admin type="source">http://books.google.com/books?id=1gJPXv5wQbIC&amp;pg=PA31&amp;dq=%22+experimenter+bias+refers+to%22&amp;lr=&amp;ei=JJoIS63dEZX0zASmwPmtDw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">实验者为搜集能证明其假设的实验结果，在实验过程中有意无意地通过不同的表情、动作、语言将预期的要求暗示给被试(人或动物)，造成一种引起实验结果有利于证明原假设的效应。</descrip>
+						<admin type="source">http://baike.baidu.com/view/1152566.htm</admin>
+					</descripGrp>
+					<tig>
+						<term>实验者效应</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T20:59:39</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T20:59:39</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">由实验者的期望、态度、情绪等因素造成对实验结果的影响称之为实验者效应。</descrip>
+							<admin type="source">http://ks.cn.yahoo.com/question/1590000841564.html</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_135">
+				<descrip type="subjectField">Design issues</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T21:08:20</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T21:08:20</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A situation in which an individual receives contradictory messages from another person or from two different people.</descrip>
+						<admin type="source">APAdictionary p.298</admin>
+					</descripGrp>
+					<tig>
+						<term>double-blind</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T21:08:20</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T21:08:20</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">The term double-blind refers to the fact that neither the subject nor the researcher knows whether the substance being taken is placebo or drug.</descrip>
+							<admin type="source">http://books.google.com/books?id=mREPU0qbtYEC&amp;pg=PT282&amp;dq=%22+double+blind+refers+to%22&amp;lr=&amp;ei=7JsIS8XKOpSkygSU-ZDJDw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">一种实验程序，即不但被试不知道，而且连实施实验活动的人也不知道该实验要考察的关键方面是什么。</descrip>
+						<admin type="source">ZhuDictionary</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">这种程序普遍用来防止实验者偏向效应、需求特征和安慰剂效应。当生怕知道期望被试要做什么会影响被试的成绩时，或者当知道实验内容会影响实验者对被试正在做的事情所作的解释时，就采用双盲法。这种控制在药物研究中是常用的，在哪里，被试和施药人员都不知道所给服用的是药物还是安慰剂。这样就能够把药物的疗效同关于该药物应当或不当如此那般的种种先入之见给分离开来。</admin>
+						<adminNote type="noteSource">ZhuDictionary</adminNote>
+					</adminGrp>
+					<tig>
+						<term>双盲法</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T21:08:20</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T21:08:20</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">双盲法用于药物效果试验. 试者和参加临床试验或临床评价的研究人员或疫苗研制方的工作人员均不知道也不能识别受试者接受了何种注射(疫苗或安慰剂)称为双盲试验。</descrip>
+							<admin type="source">http://baike.baidu.com/view/1213394.htm</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_138">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T21:47:27</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T21:47:27</date>
+				</transacGrp>
+				<descrip type="subjectField">Design issues</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">In an experiment or research project, cues that may influence or bias participants' behavior, for example, by suggesting the outcome or response that the experimetner expects or desires.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>demand characteristics</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T21:47:27</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T21:47:27</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Demand characteristics are cues in an experiment that make participants aware of the hypotheses of the experiment or how the experimenter expects them to behave following the presentation of a stimulus.</descrip>
+							<admin type="source">http://books.google.com/books?id=asY2jmXp0XwC&amp;pg=PA171&amp;dq=%22demand+characteristics%22&amp;lr=&amp;ei=raIIS87CJqLqygSjlc3QDw#v=onepage&amp;q=%22demand%20characteristics%22&amp;f=false</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">指实验情境中把被试导向以特殊方式去行为的那些特征, 从而致使被试作出关于该项研究的特定的解释，并引发出种种特定的行为。</descrip>
+						<admin type="source">ZhuDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>需求特征</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T21:47:27</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T21:47:27</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">需求特征是无意中传达给被试的一些线索，这些线索可能会暗示被试以特定方式表现。</descrip>
+							<admin type="source">http://www.kingfar.net/Infor/i95.html</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_155">
+				<descrip type="subjectField">Design issues</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T23:36:50</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T23:36:50</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">The effect on the behavior of individuals of knowing that they are being observed or are taking part in research.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>Hawthorne effect</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T23:36:50</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T23:36:50</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">The Hawthorne effect refers to the effect that the knowledge of being the subjects of a research study has on the subjects' responses.</descrip>
+							<admin type="source">http://books.google.com/books?id=K78-a2h9fJ8C&amp;pg=PA125&amp;dq=%22Hawthorne+effect+refers+to%22&amp;lr=&amp;ei=W78IS-apBp-GygSFj7XKDw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">一种心理因素影响工作效率的效应，见于著名的霍桑实验，即1924-1932年在美国芝加哥西部电气公司霍桑工厂进行的工作条件、社会因素与生产效率关系的实验。</descrip>
+						<admin type="source">CheDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>霍桑效应</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T23:36:50</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T23:36:50</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">霍桑效应告诉我们：从旁人的角度，善意的谎言和夸奖真的可以造就一个人；从自我的角度，你认为自己是什么样的人，你就能成为什么样的人。</descrip>
+							<admin type="source">http://baike.baidu.com/view/41330.htm</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+		</body>
+	</text>
+</martif>

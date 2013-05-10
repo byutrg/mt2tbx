@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TBXXCS SYSTEM "tbxxcsdtd.dtd">
+<TBXXCS name="kent" version="0.1" lang="en">
+<header>
+	<title>TBX Kent XCS (extensible constraint specification) file Version 01.(Filename: TBXKentXCS.XCS)</title>
+	<!--location where, if the default XCS file is modified to include additional datacategories,
+	those additions are also listed and described here for convenience purposes
+	
+	reading		 	= pickList pertaining to Japanese
+	termTypeExtended	= termType + phrase, Kanji, Kana
+	transactionType 		= used for responsibility
+	noteSource 		= highlighted to keep separate from note contents
+	
+	-->
+	</header>
+<languages>
+	<langInfo>
+		<langCode>EN</langCode>
+		<langName>English</langName>
+	</langInfo>
+	<langInfo>
+		<langCode>ZH</langCode>
+		<langName>Chinese</langName>
+	</langInfo>
+</languages>
+
+<datCatSet>
+	<!--data-category constraint specifications are arranged in alphabetial order by the
+	value of the name attribute-->
+        <adminSpec name="annotatedNote" datcatId="">
+            <contents/>
+        </adminSpec>
+	<descripSpec name="context" datcatId="ISO12620A-0503">
+		<contents datatype="noteText" targetType="none"/>
+		<levels>term</levels>
+	</descripSpec>
+	<descripSpec name="definition" datcatId="ISO12620A-0501">
+		<contents datatype="noteText" targetType="none"/> 
+		<levels>langSet</levels>
+	</descripSpec>
+        <adminNoteSpec name="noteSource" datcatId="">
+            <contents/>
+        </adminNoteSpec>
+        <transacNoteSpec name="responsibility" datcatId="ISO12620A-100202">
+            <contents targetType="respPerson"/>
+        </transacNoteSpec>
+        <adminSpec name="source" datcatId="ISO12620A-1019">
+            <contents/>
+        </adminSpec>
+	<descripSpec name="subjectField" datcatId="ISO12620A-04">
+		<contents datatype="plainText"/>
+		<levels>termEntry</levels>
+	</descripSpec>
+	<transacSpec name="transactionType" datcatId="ISO12620A-1001">
+            <contents datatype="picklist">origination modification</contents>
+	</transacSpec>
+</datCatSet>
+</TBXXCS>

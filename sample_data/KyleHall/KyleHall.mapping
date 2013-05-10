@@ -1,0 +1,128 @@
+[
+   "TBX",
+   "TBXXCS.XCS",
+   {
+      "language" : {
+         "note" : [
+            [
+               [
+                  "@auxInfo",
+                  "<note />",
+                  "null",
+                  "content"
+               ]
+            ]
+         ]
+      },
+      "concept" : {
+         "crossReference" : [
+            [
+               [
+                  "@auxInfo",
+                  "<ref type=\"crossReference\" />",
+                  "null",
+                  "content"
+               ]
+            ]
+         ],
+         "sourceDesc" : [
+            [
+               [
+                  "@auxInfo",
+                  "<admin type=\"source\"/>",
+                  "null",
+                  "content"
+               ]
+            ]
+         ],
+         "xGraphic" : [
+            [
+               [
+                  "@auxInfo",
+                  "<xref type=\"xGraphic\"/>",
+                  "null",
+                  "target"
+               ]
+            ]
+         ],
+         "subjectField" : [
+            [
+               [
+                  "@auxInfo",
+                  "<descrip type =\"subjectField\" />",
+                  "null",
+                  "content"
+               ]
+            ]
+         ],
+         "note" : [
+            [
+               [
+                  "@auxInfo",
+                  "<note />",
+                  "null",
+                  "content"
+               ]
+            ]
+         ]
+      },
+      "term" : {
+         "partOfSpeech" : [
+            [
+               [
+                  "@termNote",
+                  "<termNote type=\"partOfSpeech\" />",
+                  "null",
+                  "content"
+               ]
+            ]
+         ],
+         "grammaticalGender" : [
+            [
+               [
+                  "@termNote",
+                  "<termNote type=\"grammaticalGender\" />",
+                  "null",
+                  "content"
+               ]
+            ]
+         ],
+         "sourceDesc" : [
+            [
+               [
+                  "@auxInfo",
+                  "<admin type=\"source\"/>",
+                  "null",
+                  "content"
+               ]
+            ]
+         ],
+         "administrativeStatus" : [
+            [
+               [
+                  "@termNote",
+                  "<termNote type=\"administrativeStatus\" />",
+                  "null",
+                  "content"
+               ]
+            ]
+         ],
+         "note" : [
+            [
+               [
+                  "@auxInfo",
+                  "<note />",
+                  "null",
+                  "content"
+               ]
+            ]
+         ]
+      }
+   },
+   {
+      "languageGrp" : [],
+      "termGrp" : [],
+      "conceptGrp" : []
+   },
+   {}
+]

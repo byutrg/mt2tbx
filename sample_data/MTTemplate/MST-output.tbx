@@ -1,0 +1,5389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif SYSTEM "TBXcoreStructV02.dtd">
+<martif type="TBX for MultiTerm Standard Templates" xml:lang="en">
+	<martifHeader>
+		<fileDesc>
+			<sourceDesc>
+				<p>auto-converted from MultiTerm XML</p>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p type="DCSName">MST.xcs</p>
+		</encodingDesc>
+	</martifHeader>
+	<text>
+		<body>
+			<termEntry id="_1">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:21:57</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:21:57</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>GermanCat</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:21:57</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:21:57</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>cat</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:21:57</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:21:57</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>gato</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:21:57</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:21:57</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>caut</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:21:57</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:21:57</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_2">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:23:20</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:23:20</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>hund</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:23:20</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:23:20</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>dog</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:23:20</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:23:20</date>
+						</transacGrp>
+					</tig>
+					<tig>
+						<term>bulldog</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:23:20</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:23:20</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>perro</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:23:20</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:23:20</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>perre</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:23:20</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:23:20</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_3">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:24:03</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:24:03</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>lerg</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:24:03</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:24:03</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<descrip type="definition">a small green animal</descrip>
+					<tig>
+						<term>Lizard</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:24:03</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:24:03</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>Largato</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:24:03</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:24:03</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>larg</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:24:03</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:24:03</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_4">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:41:09</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:41:09</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>brek</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:41:09</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:41:09</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<note>take a note</note>
+					<tig>
+						<term>blue</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:41:09</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:41:09</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>azul</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:41:09</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:41:09</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>azu</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:41:09</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:41:09</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_5">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:42:04</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:42:04</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>yello</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:42:04</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:42:04</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>yellow</term>
+						<note>this is a term note</note>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:42:04</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:42:04</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>amarillo</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:42:04</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:42:04</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>amaril</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:42:04</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:42:04</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_6">
+				<descrip type="subjectField">General</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:42:38</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:42:38</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>red</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:42:38</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:42:38</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>red</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:42:38</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:42:38</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>rojo</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:42:38</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:42:38</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>roj</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:42:38</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:42:38</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_7">
+				<note>concept level note</note>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:43:08</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:43:08</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>gren</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:43:08</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:43:08</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>green</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:43:08</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:43:08</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>verde</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:43:08</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:43:08</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>verd</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:43:08</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:43:08</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_8">
+				<admin type="source">from the concept level source</admin>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:43:58</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:43:58</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>purz</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:43:58</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:43:58</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>purple</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:43:58</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:43:58</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>morado</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:43:58</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:43:58</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>mord</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:43:58</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:43:58</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_9">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:45:21</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:45:39</date>
+				</transacGrp>
+				<note>[Status]: new</note>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>eien</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:45:21</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:45:21</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>one</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:45:21</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:45:21</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>uno</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:45:21</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:45:39</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>un</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:45:21</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:45:21</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_10">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:46:07</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:46:29</date>
+				</transacGrp>
+				<note>[Status]: standardized</note>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>svai</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:46:07</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:46:07</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>two</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:46:07</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:46:07</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>dos</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:46:07</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:46:07</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>deux</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:46:07</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:46:07</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_11">
+				<note>[Status]: preferred</note>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:47:17</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:47:17</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>concept level preferred</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:47:17</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:47:17</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>concept level preferred</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:47:17</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:47:17</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>concept level preferred</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:47:17</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:47:17</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>concept level preferred</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:47:17</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:47:17</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_12">
+				<note>[Status]: admitted</note>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:48:14</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:48:14</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>concept level admitted</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:48:14</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:48:14</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>concept level admitted</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:48:14</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:48:14</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>concept level admitted</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:48:14</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:48:14</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>concept level admitted</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:48:14</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:48:14</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_13">
+				<note>[Status]: deprecated</note>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:48:42</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:48:42</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>concept level deprecated</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:48:42</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:48:42</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>concept level deprecated</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:48:42</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:48:42</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>concept level deprecated</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:48:42</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:48:42</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>concept level deprecated</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:48:42</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:48:42</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_14">
+				<note>[Status]: superseded</note>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:49:12</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:49:12</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>concept level superseded</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:49:12</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:49:12</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>concept level superseded</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:49:12</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:49:12</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>concept level superseded</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:49:12</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:49:12</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>concept level superseded</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:49:12</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:49:12</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_15">
+				<note>[Status]: legal</note>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:49:47</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:49:47</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>concept level legal</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:49:47</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:49:47</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>concept level legal</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:49:47</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:49:47</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>concept level legal</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:49:47</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:49:47</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>concept level legal</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:49:47</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:49:47</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_16">
+				<note>[Status]: regulated</note>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:50:21</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:50:21</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>concept level regulated</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:50:21</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:50:21</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>concept level regulated</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:50:21</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:50:21</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>concept level regulated</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:50:21</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:50:21</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>concept level regulated</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:50:21</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:50:21</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_17">
+				<note>[Status]: recommended</note>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:51:06</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:51:06</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>concept level recommended</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:51:06</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:51:06</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>concept level recommended</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:51:06</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:51:06</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>concept level recommended</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:51:06</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:51:06</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>concept level recommended</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:51:06</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:51:06</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_18">
+				<note>[Status]: nonstandardized</note>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:51:36</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:51:36</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>concept level nonstandardized</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:51:36</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:51:36</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>concept level nonstandardized</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:51:36</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:51:36</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>concept level nonstandardized</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:51:36</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:51:36</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>concept level nonstandardized</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:51:36</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:51:36</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_19">
+				<note>[Status]: proposed</note>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:52:02</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:52:02</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>concept level proposed</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:52:02</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:52:02</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>concept level proposed</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:52:02</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:52:02</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>concept level proposed</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:52:02</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:52:02</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>concept level proposed</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:52:02</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:52:02</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_20">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:52:46</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:52:46</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>drei</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:52:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:52:46</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>three</term>
+						<descrip type="context">context at the term level</descrip>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:52:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:52:46</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>tres</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:52:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:52:46</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>tua</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:52:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:52:46</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_21">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:56:50</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:56:50</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>zeb\</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:56:50</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:56:50</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>four</term>
+						<admin type="source">source at the term level</admin>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:56:50</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:56:50</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>cuatro</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:56:50</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:56:50</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>cant</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:56:50</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:56:50</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_22">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:57:55</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:57:55</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>jklhs</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:57:55</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:57:55</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>five</term>
+						<termNote type="language-planningQualifier">newTerm</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:57:55</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:57:55</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>cinco</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:57:55</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:57:55</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>cint</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:57:55</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:57:55</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_23">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:58:33</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:58:33</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term level status standardized</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:58:33</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:58:33</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term level status standardized</term>
+						<termNote type="administrativeStatus">standardizedTerm-admn-sts</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:58:33</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:58:33</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term level status standardized</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:58:33</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:58:33</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term level status standardized</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:58:33</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:58:33</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_24">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:59:03</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:59:03</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term level status preferred</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:59:03</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:59:03</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term level status preferred</term>
+						<termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:59:03</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:59:03</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term level status preferred</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:59:03</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:59:03</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term level status preferred</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:59:03</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:59:03</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_25">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:59:37</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T10:59:37</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term level status admitted</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:59:37</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:59:37</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term level status admitted</term>
+						<termNote type="administrativeStatus">admittedTerm-admn-sts</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:59:37</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:59:37</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term level status admitted</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:59:37</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:59:37</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term level status admitted</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:59:37</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T10:59:37</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_26">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:00:08</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:00:08</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term level status deprecated</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:00:08</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:00:08</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term level status deprecated</term>
+						<termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:00:08</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:00:08</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term level status deprecated</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:00:08</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:00:08</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term level status deprecated</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:00:08</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:00:08</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_27">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:00:36</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:00:36</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term level status superseded</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:00:36</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:00:36</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term level status superseded</term>
+						<termNote type="administrativeStatus">supersededTerm-admn-sts</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:00:36</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:00:36</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term level status superseded</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:00:36</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:00:36</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term level status superseded</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:00:36</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:00:36</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_28">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:01:08</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:01:08</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term level status legal</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:01:08</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:01:08</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term level status legal</term>
+						<termNote type="administrativeStatus">legalTerm-admn-sts</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:01:08</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:01:08</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term level status legal</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:01:08</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:01:08</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term level status legal</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:01:08</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:01:08</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_29">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:01:37</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:01:37</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term level status regulated</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:01:37</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:01:37</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term level status regulated</term>
+						<termNote type="administrativeStatus">regulatedTerm-admn-sts</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:01:37</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:01:37</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term level status regulated</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:01:37</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:01:37</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term level status regulated</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:01:37</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:01:37</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_30">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:02:06</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:02:06</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term level status recommended</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:02:06</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:02:06</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term level status recommended</term>
+						<termNote type="language-planningQualifier">recommendedTerm</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:02:06</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:02:06</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term level status recommended</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:02:06</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:02:06</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term level status recommended</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:02:06</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:02:06</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_31">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:02:35</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:02:35</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term level status nonstandardized</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:02:35</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:02:35</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term level status nonstandardized</term>
+						<termNote type="language-planningQualifier">nonstandardizedTerm</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:02:35</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:02:35</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term level status nonstandardized</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:02:35</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:02:35</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term level status nonstandardized</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:02:35</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:02:35</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_32">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:03:05</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:03:05</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term level status proposed</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:03:05</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:03:05</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term level status proposed</term>
+						<termNote type="language-planningQualifier">proposedTerm</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:03:05</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:03:05</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term level status proposed</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:03:05</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:03:05</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term level status proposed</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:03:05</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:03:05</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_33">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:10:51</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:10:51</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>genders</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:10:51</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:10:51</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>all genders checked</term>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<termNote type="grammaticalGender">neuter</termNote>
+						<termNote type="grammaticalGender">otherGender</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:10:51</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:10:51</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>genders</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:10:51</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:10:51</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>genders</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:10:51</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:10:51</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_34">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:11:30</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:11:30</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>masculine</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:11:30</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:11:30</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>masculine</term>
+						<termNote type="grammaticalGender">masculine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:11:30</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:11:30</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>masculine</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:11:30</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:11:30</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>masculine</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:11:30</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:11:30</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_35">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:11:55</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:11:55</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>feminine</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:11:55</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:11:55</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>feminine</term>
+						<termNote type="grammaticalGender">feminine</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:11:55</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:11:55</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>feminine</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:11:55</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:11:55</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>feminine</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:11:55</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:11:55</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_36">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:12:22</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:12:22</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>neuter</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:12:22</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:12:22</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>neuter</term>
+						<termNote type="grammaticalGender">neuter</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:12:22</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:12:22</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>neuter</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:12:22</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:12:22</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>neuter</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:12:22</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:12:22</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_37">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:12:53</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:12:53</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>gender other</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:12:53</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:12:53</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>gender other</term>
+						<termNote type="grammaticalGender">otherGender</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:12:53</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:12:53</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>gender other</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:12:53</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:12:53</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>gender other</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:12:53</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:12:53</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_38">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:13:24</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:13:24</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>grammatical number all</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:13:24</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:13:24</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>grammatical number all</term>
+						<termNote type="grammaticalNumber">singular</termNote>
+						<termNote type="grammaticalNumber">plural</termNote>
+						<termNote type="grammaticalNumber">dual</termNote>
+						<termNote type="grammaticalNumber">mass</termNote>
+						<termNote type="grammaticalNumber">otherNumber</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:13:24</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:13:24</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>grammatical number all</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:13:24</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:13:24</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>grammatical number all</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:13:24</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:13:24</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_39">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:13:59</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:13:59</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>grammatical number singular</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:13:59</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:13:59</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>grammatical number singular</term>
+						<termNote type="grammaticalNumber">singular</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:13:59</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:13:59</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>grammatical number singular</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:13:59</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:13:59</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>grammatical number singular</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:13:59</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:13:59</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_40">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:14:29</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:14:29</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>grammatical number plural</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:14:29</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:14:29</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>grammatical number plural</term>
+						<termNote type="grammaticalNumber">plural</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:14:29</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:14:29</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>grammatical number plural</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:14:29</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:14:29</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>grammatical number plural</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:14:29</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:14:29</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_41">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:14:59</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:14:59</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>grammatical number dual</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:14:59</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:14:59</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>grammatical number dual</term>
+						<termNote type="grammaticalNumber">dual</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:14:59</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:14:59</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>grammatical number dual</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:14:59</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:14:59</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>grammatical number dual</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:14:59</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:14:59</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_42">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:15:35</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:15:35</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>grammatical number mass</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:15:35</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:15:35</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>grammatical number mass</term>
+						<termNote type="grammaticalNumber">mass</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:15:35</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:15:35</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>grammatical number mass</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:15:35</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:15:35</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>grammatical number mass</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:15:35</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:15:35</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_43">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:16:38</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:16:38</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>grammatical number other</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:16:38</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:16:38</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>grammatical number other</term>
+						<termNote type="grammaticalNumber">otherNumber</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:16:38</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:16:38</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>grammatical number other</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:16:38</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:16:38</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>grammatical number other</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:16:38</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:16:38</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_44">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:17:19</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:17:19</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>part of speech all</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:17:19</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:17:19</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>part of speech all</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<termNote type="partOfSpeech">verb</termNote>
+						<termNote type="partOfSpeech">adjective</termNote>
+						<termNote type="partOfSpeech">other</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:17:19</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:17:19</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>part of speech all</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:17:19</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:17:19</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>part of speech all</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:17:19</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:17:19</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_45">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:17:47</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:17:47</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>part of speech noun</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:17:47</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:17:47</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>part of speech noun</term>
+						<termNote type="partOfSpeech">noun</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:17:47</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:17:47</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>part of speech noun</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:17:47</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:17:47</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>part of speech noun</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:17:47</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:17:47</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_46">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:18:13</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:18:13</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>part of speech verb</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:18:13</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:18:13</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>part of speech verb</term>
+						<termNote type="partOfSpeech">verb</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:18:13</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:18:13</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>part of speech verb</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:18:13</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:18:13</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>part of speech verb</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:18:13</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:18:13</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_47">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:19:44</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:19:44</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>part of speech adjective</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:19:44</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:19:44</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>part of speech adjective</term>
+						<termNote type="partOfSpeech">adjective</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:19:44</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:19:44</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>part of speech adjective</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:19:44</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:19:44</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>part of speech adjective</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:19:44</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:19:44</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_48">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:26:35</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T11:26:35</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>part of speech other</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:26:35</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:26:35</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>part of speech other</term>
+						<termNote type="partOfSpeech">other</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:26:35</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:26:35</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>part of speech other</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:26:35</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:26:35</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>part of speech other</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:26:35</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T11:26:35</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_49">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:46:41</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:46:41</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>all categories checked</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:46:41</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:46:41</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>all categories checked</term>
+						<termNote type="termType">internationalScientificTerm</termNote>
+						<termNote type="termType">commonName</termNote>
+						<termNote type="termType">internationalism</termNote>
+						<termNote type="termType">fullForm</termNote>
+						<termNote type="termType">acronym</termNote>
+						<termNote type="termType">variant</termNote>
+						<termNote type="termType">transliteratedForm</termNote>
+						<termNote type="termType">transcribedForm</termNote>
+						<termNote type="termType">formula</termNote>
+						<termNote type="termType">equation</termNote>
+						<termNote type="termType">abbreviation</termNote>
+						<termNote type="antonymTerm"/>
+						<termNote type="termType">phraseologicalUnit</termNote>
+						<termNote type="termType">shortForm</termNote>
+						<termNote type="termType">symbol</termNote>
+						<termNote type="termType">sku</termNote>
+						<termNote type="termType">partNumber</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:46:41</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:46:41</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>all categories checked</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:46:41</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:46:41</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>all categories checked</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:46:41</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:46:41</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_50">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:47:18</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:47:18</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term category international scientific term</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:47:18</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:47:18</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term category international scientific term</term>
+						<termNote type="termType">internationalScientificTerm</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:47:18</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:47:18</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term category international scientific term</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:47:18</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:47:18</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term category international scientific term</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:47:18</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:47:18</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_51">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:48:06</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:48:06</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term category common name</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:48:06</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:48:06</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term category common name</term>
+						<termNote type="termType">commonName</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:48:06</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:48:06</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term category common name</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:48:06</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:48:06</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term category common name</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:48:06</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:48:06</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_52">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:48:38</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:48:38</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term category internationalism</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:48:38</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:48:38</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term category internationalism</term>
+						<termNote type="termType">internationalism</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:48:38</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:48:38</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term category internationalism</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:48:38</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:48:38</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term category internationalism</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:48:38</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:48:38</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_53">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:49:05</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:49:05</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term category full form</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:49:05</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:49:05</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term category full form</term>
+						<termNote type="termType">fullForm</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:49:05</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:49:05</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term category full form</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:49:05</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:49:05</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term category full form</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:49:05</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:49:05</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_54">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:49:40</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:49:40</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term category acronym</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:49:40</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:49:40</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term category acronym</term>
+						<termNote type="termType">acronym</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:49:40</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:49:40</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term category acronym</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:49:40</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:49:40</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term category acronym</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:49:40</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:49:40</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_55">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:50:14</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:50:14</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term category orthographical variant</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:50:14</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:50:14</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term category orthographical variant</term>
+						<termNote type="termType">variant</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:50:14</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:50:14</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term category orthographical variant</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:50:14</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:50:14</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term category orthographical variant</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:50:14</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:50:14</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_56">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:50:45</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:50:45</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term category tranliterated form</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:50:45</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:50:45</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term category tranliterated form</term>
+						<termNote type="termType">transliteratedForm</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:50:45</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:50:45</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term category tranliterated form</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:50:45</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:50:45</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term category tranliterated form</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:50:45</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:50:45</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_57">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:51:12</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:51:12</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term category transcribed form</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:51:12</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:51:12</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term category transcribed form</term>
+						<termNote type="termType">transcribedForm</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:51:12</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:51:12</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term category transcribed form</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:51:12</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:51:12</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term category transcribed form</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:51:12</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:51:12</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_58">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:51:37</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:51:37</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term category formula</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:51:37</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:51:37</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term category formula</term>
+						<termNote type="termType">formula</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:51:37</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:51:37</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term category formula</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:51:37</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:51:37</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term category formula</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:51:37</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:51:37</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_59">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:52:18</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:52:18</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term category equation</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:52:18</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:52:18</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term category equation</term>
+						<termNote type="termType">equation</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:52:18</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:52:18</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term category equation</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:52:18</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:52:18</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term category equation</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:52:18</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:52:18</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_60">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:52:46</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T15:52:46</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term category abbreviation</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:52:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:52:46</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term category abbreviation</term>
+						<termNote type="termType">abbreviation</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:52:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:52:46</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term category abbreviation</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:52:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:52:46</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term category abbreviation</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:52:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T15:52:46</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_61">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T18:49:18</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T18:49:18</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term category antonym</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:49:18</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:49:18</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term category antonym</term>
+						<termNote type="antonymTerm"/>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:49:18</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:49:18</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term category antonym</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:49:18</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:49:18</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term category antonym</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:49:18</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:49:18</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_62">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T18:50:46</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T18:50:46</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term category phraseologisma</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:50:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:50:46</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term category phraseologisma</term>
+						<termNote type="termType">phraseologicalUnit</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:50:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:50:46</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term category phraseologisma</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:50:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:50:46</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term category phraseologisma</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:50:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:50:46</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_63">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T18:52:22</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T18:52:22</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term category short form</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:52:22</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:52:22</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term category short form</term>
+						<termNote type="termType">shortForm</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:52:22</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:52:22</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term category short form</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:52:22</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:52:22</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term category short form</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:52:22</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:52:22</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_64">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T18:52:47</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T18:52:47</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term category symbol</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:52:47</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:52:47</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term category symbol</term>
+						<termNote type="termType">symbol</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:52:47</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:52:47</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term category symbol</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:52:47</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:52:47</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term category symbol</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:52:47</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:52:47</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_65">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T18:53:15</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T18:53:15</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term category stock keeping unit</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:53:15</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:53:15</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term category stock keeping unit</term>
+						<termNote type="termType">sku</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:53:15</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:53:15</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term category stock keeping unit</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:53:15</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:53:15</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term category stock keeping unit</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:53:15</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:53:15</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_66">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T18:53:46</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T18:53:46</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term usage register all</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:53:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:53:46</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term usage register all</term>
+						<termNote type="register">neutralRegister</termNote>
+						<termNote type="register">technicalRegister</termNote>
+						<termNote type="register">in-houseRegister</termNote>
+						<termNote type="register">bench-levelRegister</termNote>
+						<termNote type="register">slangRegister</termNote>
+						<termNote type="register">vulgarRegister</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:53:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:53:46</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term usage register all</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:53:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:53:46</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term usage register all</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:53:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:53:46</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_67">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T18:54:14</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T18:54:14</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term category part number</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:54:14</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:54:14</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term category part number</term>
+						<termNote type="termType">partNumber</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:54:14</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:54:14</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term category part number</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:54:14</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:54:14</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term category part number</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:54:14</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:54:14</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_68">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T18:59:02</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T18:59:02</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term usage register neutral</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:59:02</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:59:02</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term usage register neutral</term>
+						<termNote type="register">neutralRegister</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:59:02</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:59:02</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term usage register neutral</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:59:02</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:59:02</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term usage register neutral</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:59:02</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:59:02</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_69">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T18:59:31</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T18:59:31</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term usage register technical</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:59:31</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:59:31</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term usage register technical</term>
+						<termNote type="register">technicalRegister</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:59:31</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:59:31</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term usage register technical</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:59:31</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:59:31</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term usage register technical</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:59:31</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T18:59:31</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_70">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T19:02:03</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T19:02:03</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term usage register in-house</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:02:03</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:02:03</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term usage register in-house</term>
+						<termNote type="register">in-houseRegister</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:02:03</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:02:03</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term usage register in-house</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:02:03</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:02:03</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term usage register in-house</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:02:03</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:02:03</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_71">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T19:03:14</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T19:03:14</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term usage register bench-level</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:03:14</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:03:14</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term usage register bench-level</term>
+						<termNote type="register">bench-levelRegister</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:03:14</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:03:14</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term usage register bench-level</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:03:14</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:03:14</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term usage register bench-level</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:03:14</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:03:14</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_72">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T19:03:42</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T19:03:42</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term usage register slang</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:03:42</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:03:42</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term usage register slang</term>
+						<termNote type="register">slangRegister</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:03:42</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:03:42</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term usage register slang</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:03:42</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:03:42</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term usage register slang</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:03:42</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:03:42</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_73">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T19:04:08</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">tylers5</transacNote>
+					<date>2011-11-15T19:04:08</date>
+				</transacGrp>
+				<langSet xml:lang="DE">
+					<tig>
+						<term>term usage register vulgar</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:04:08</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:04:08</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="EN">
+					<tig>
+						<term>term usage register vulgar</term>
+						<termNote type="register">vulgarRegister</termNote>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:04:08</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:04:08</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ES">
+					<tig>
+						<term>term usage register vulgar</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:04:08</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:04:08</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="FR">
+					<tig>
+						<term>term usage register vulgar</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:04:08</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">tylers5</transacNote>
+							<date>2011-11-15T19:04:08</date>
+						</transacGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+		</body>
+	</text>
+</martif>

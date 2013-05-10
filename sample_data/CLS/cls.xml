@@ -1,0 +1,4008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mtf>
+
+<conceptGrp>
+<concept>7525</concept>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2007-07-08T14:45:52</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2008-04-02T11:55:51</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Subject1">Science</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject2">Medicine</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject3">Diseases</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject4">Chronic</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Project">ZLG_2007</descrip>
+</descripGrp>
+<languageGrp>
+<language lang="EN-GB" type="English">
+</language>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+<termGrp>
+<term>silent carrier state</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2007-07-12T10:28:25</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2007-08-14T15:27:47</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:WintrobeClinHem_e">WintrobeClinHem_e</xref>, p. 1117</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Blood disorder characterised by deletion of a single α-globin gene.</descrip>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2007-08-15T02:46:15</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2007-08-15T02:46:15</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">according to <xref Tlink="Source_Code:WintrobeClinHem_e">WintrobeClinHem_e</xref>, p. 1117</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">1) Deletion of a single α-thalassemia gene is betrayed by neither clinical nor hematologic abnormality. 2) The silent carrier state is inferred from findings of family studies in which the propositus has a symptomatic α-thalassemia syndrome. 3) There are no diagnostic tests with which to identify this condition with certainty, except by DNA analysis.</descrip>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2007-07-12T10:28:25</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2007-08-15T02:52:54</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">1-2) <xref Tlink="Source_Code:WintrobeClinHem_e">WintrobeClinHem_e</xref>, p. 1117; 3) <xref Tlink="Source_Code:Hoffbrand_e">Hoffbrand_e</xref>, p. 108</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>α+-thalassaemia</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2007-07-08T14:45:52</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2007-08-14T15:27:47</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:Dacie_e">Dacie_e</xref>, p.447</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>1α-thalassaemia</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2007-07-08T14:45:52</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2007-07-12T10:22:47</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:Dacie_e">Dacie_e</xref>, p. 447</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>α-thalassaemia-2</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2007-07-08T14:45:52</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2007-07-12T10:22:47</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:Dacie_e">Dacie_e</xref>, p. 447</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="StatusTerm">OBSOLETE</descrip>
+</descripGrp>
+</termGrp>
+</languageGrp>
+<languageGrp>
+<language lang="ES" type="Spanish">
+</language>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+<termGrp>
+<term>rasgo silente</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2007-07-23T00:24:08</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2007-08-18T01:59:17</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:Sabrafen_es">Sabrafen_es</xref>, p. 260</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Condición que obedece al defecto de un único gen α, como resultado de una deleción (-α/αα) o de un mutación puntual (αTα/αα o ααT/αα) en estado heterocigoto.</descrip>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2007-08-15T03:19:42</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2007-08-15T03:19:42</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">según <xref Tlink="Source_Code:Sabrafen_es">Sabrafen_es</xref>, p. 260</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">1) Clínicamente es asintomática y detectable sólo a través de estudios familiares. 2) El análisis genético es el único método fiable para su diagnóstico.</descrip>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2007-07-23T11:34:36</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2007-08-15T03:19:42</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">1) <xref Tlink="Source_Code:Sabrafen_es">Sabrafen_es</xref>, p. 260; 2) <xref Tlink="Source_Code:Williams_es">Williams_es</xref>, p. 96</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>α+-talasemia</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2007-07-23T00:24:08</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2007-08-14T19:49:19</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:Sabrafen_es">Sabrafen_es</xref>, p. 251</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Condición que obedece al defecto de un único gen α, como resultado de una deleción (-α/αα) o de un mutación puntual (αTα/αα o ααT/αα) en estado heterocigoto.</descrip>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2007-08-15T03:19:42</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2007-08-15T03:19:42</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">según <xref Tlink="Source_Code:Sabrafen_es">Sabrafen_es</xref>, p. 260</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">1) Clínicamente es asintomática y detectable sólo a través de estudios familiares. 2) El análisis genético es el único método fiable para su diagnóstico.</descrip>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2007-07-23T11:34:36</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2007-08-15T03:19:42</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">1) <xref Tlink="Source_Code:Sabrafen_es">Sabrafen_es</xref>, p. 260; 2) <xref Tlink="Source_Code:Williams_es">Williams_es</xref>, p. 96</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>α talasemia silente</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2007-07-25T11:49:25</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2007-07-25T11:49:25</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:http-Corrons_es">http-Corrons_es</xref>, 17/07/2007</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>alfatalasemia tipo 2</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2007-07-25T11:45:05</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2007-07-25T11:45:05</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:Malcorra_es">Malcorra_es</xref>, p. 274</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="StatusTerm">OBSOLETE</descrip>
+</descripGrp>
+</termGrp>
+</languageGrp>
+<languageGrp>
+<language lang="DE-CH" type="German">
+</language>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+<termGrp>
+<term>α-Thalassaemia minima</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2007-08-14T15:27:47</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2007-08-14T15:27:47</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:http-Huber_d">http-Huber_d</xref>, 27/07/2007</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Minorform der α-Thalassämie, bei welcher die Aktivitätverlust eines der vier α-Gene betrifft.</descrip>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2007-08-15T02:46:15</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2007-08-15T03:19:42</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">nach <xref Tlink="Source_Code:http-Huber_d">http-Huber_d</xref>, 27/07/2007</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Quote">Genetisch entspricht die α-Thalassaemia minima einer heterozygoten α+-Thalassämie.</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_Q">
+<xref Tlink="Source_Code:http-Huber_d">http-Huber_d</xref>, 27/07/2007</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">1) Die Minima-Form der α-Thalassämie verläuft asymptomatisch, wird in der Regel zufällig oder im Zusammenhang mit Familienuntersuchungen entdeckt. 2) Das einzig sichere diagnostische Verfahren ist die DNA-Analyse mit Nachweis einer α-Thalassämischen Deletion, seltener einer Punktmutation.</descrip>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2007-08-15T02:46:15</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2007-08-15T02:52:54</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">1-2) <xref Tlink="Source_Code:http-AWMF_d">http-AWMF_d</xref>, 27/07/2007</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>α+-Thalassämie</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2007-08-09T14:06:59</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2007-08-09T14:06:59</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:BegemannH_d">BegemannH_d</xref>, S. 284</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>asymptomatischer Merkmalsträger</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2007-08-14T15:27:47</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2007-08-15T02:46:15</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">m</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:BegemannM_d">BegemannM_d</xref>, S. 122</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>α-Thalassämie 2</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2007-08-09T14:06:59</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2007-08-09T14:06:59</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:BegemannH_d">BegemannH_d</xref>, S. 284</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="StatusTerm">OBSOLETE</descrip>
+</descripGrp>
+</termGrp>
+</languageGrp>
+</conceptGrp>
+
+<conceptGrp>
+<concept>2506</concept>
+<transacGrp>
+<transac type="origination">böni</transac>
+<date>2001-10-17T02:14:36</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2005-12-28T13:30:48</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Subject1">Science</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject2">Medicine</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject3">Diseases</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Project">Entry Transfer</descrip>
+</descripGrp>
+<languageGrp>
+<language lang="EN-GB" type="English">
+</language>
+<termGrp>
+<term>anthrax</term>
+<transacGrp>
+<transac type="origination">böni</transac>
+<date>2001-10-16T17:14:31</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">böni</transac>
+<date>2001-10-16T17:14:31</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.academicpress.com/inscight/05061997/anthrax1.htm, 16/10/2001</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Highly contagious bacterial disease of warm-blooded animals, especially cattle and sheep, caused by Bacillus anthracis, transmissible to humans by contaminated raw meat and other animal products, and giving rise to high fever, convulsions, spleen enlargement, lesions in the lungs and usually rapid death.</descrip>
+<transacGrp>
+<transac type="origination">böni</transac>
+<date>2001-10-16T17:14:31</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">böni</transac>
+<date>2001-10-16T17:14:31</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">source of term</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="English:inhalation anthrax">inhalation anthrax</xref>, <xref Tlink="English:cutaneous anthrax">cutaneous anthrax</xref>, <xref Tlink="English:gastrointestinal anthrax">gastrointestinal anthrax</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>splenic fever</term>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2005-12-28T13:21:29</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2005-12-28T13:21:29</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:http-wordnet">http-wordnet</xref>, 28/12/2005</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="DE-CH" type="German">
+</language>
+<termGrp>
+<term>Milzbrand</term>
+<transacGrp>
+<transac type="origination">böni</transac>
+<date>2001-10-16T17:14:31</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">böni</transac>
+<date>2001-10-16T17:14:31</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">m</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:http-NZZ-Online">http-NZZ-Online</xref>, International: "Anthrax - eine alte Kulturkrankheit", 16/10/2001</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Bakterielle Infektionserkrankung, die in erster Linie Huftiere betrifft, deren Erreger aber durch engen Kontakt mit erkrankten Tieren oder durch Hantieren mit infizierten Tierprodukten auf den Menschen übertragen werden können.</descrip>
+<transacGrp>
+<transac type="origination">fähndrich</transac>
+<date>2001-10-31T09:20:35</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">fähndrich</transac>
+<date>2001-10-31T09:20:35</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">nach http://www.m-ww.de/krankheiten/infektionskrankheiten/milzbrand.html, 16/10/2001</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="German:Lungenmilzbrand">Lungenmilzbrand</xref>, <xref Tlink="German:Hautmilzbrand">Hautmilzbrand</xref>, <xref Tlink="German:Darmmilzbrand">Darmmilzbrand</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>Anthrax</term>
+<transacGrp>
+<transac type="origination">böni</transac>
+<date>2001-10-16T17:14:31</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">böni</transac>
+<date>2001-10-16T17:14:31</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">m</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:http-NZZ-Online">http-NZZ-Online</xref>, International: "Anthrax - eine alte Kulturkrankheit", 16/10/2001</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="FR-CH" type="French">
+</language>
+<termGrp>
+<term>fièvre charbonneuse</term>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2005-12-28T13:20:20</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2005-12-28T13:20:20</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.fao.org/ag/againfo/subjects/fr/health/diseases-cards/cards/anthrax.html, 28/12/2005</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Maladie infectieuse contagieuse commune à l'homme et à de nombreuses espèces animales, causée par la bactéridie charbonneuse.</descrip>
+<transacGrp>
+<transac type="origination">zimmerli</transac>
+<date>2005-09-09T11:37:32</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">zimmerli</transac>
+<date>2005-09-09T11:37:32</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">
+<xref Tlink="Source_Code:http-gdt_ef">http-gdt_ef</xref>, 09/09/2005</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="French:anthrax pulmonaire">anthrax pulmonaire</xref>, <xref Tlink="French:anthrax cutané">anthrax cutané</xref>, <xref Tlink="French:anthrax gastro-intestinal">anthrax gastro-intestinal</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>charbon</term>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2005-12-28T13:23:01</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2005-12-28T13:23:01</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">m</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="StatusTerm">POPULAIRE</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.inspection.gc.ca/francais/anima/heasan/disemala/anthchar/anthcharfsf.shtml, 28/12/2005</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>anthrax</term>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2005-12-28T13:30:48</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2005-12-28T13:30:48</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">m</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.inspection.gc.ca/francais/anima/heasan/disemala/anthchar/anthcharfsf.shtml, 28/12/2005</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="IT-CH" type="Italian">
+</language>
+<termGrp>
+<term>antrace</term>
+<transacGrp>
+<transac type="origination">fähndrich</transac>
+<date>2001-11-07T09:47:30</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">fähndrich</transac>
+<date>2001-11-07T09:47:30</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">m</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.grandinotizie.it/dossier/006/glossario/, 07/11/2001</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Malattia degli erbivori causata dal Bacillus anthracis, che si trasmette anche all'uomo.</descrip>
+<transacGrp>
+<transac type="origination">fähndrich</transac>
+<date>2001-11-07T09:47:30</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">fähndrich</transac>
+<date>2001-11-07T09:47:30</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">fonte del termine</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">L'antrace assume nell'uomo diverse forme cliniche a seconda delle modalità di trasmissione. Nella trasmissione da contatto si manifesta in una delle forme più lievi con delle pustole carbonchiose da cui è originato il nome della malattia, mentre quando viene assunto per via inalatoria dà luogo al carbonchio polmonare, che è letale. Se si insinua nelle vie respiratorie, provoca febbre, tosse, affaticamento, e quando compaiono disturbi più gravi qualunque trattamento è ormai inutile.</descrip>
+<transacGrp>
+<transac type="origination">fähndrich</transac>
+<date>2001-11-07T09:47:30</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">fähndrich</transac>
+<date>2001-11-07T09:47:30</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">fonte del termine</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>carbonchio</term>
+<transacGrp>
+<transac type="origination">fähndrich</transac>
+<date>2001-11-07T09:47:30</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">fähndrich</transac>
+<date>2001-11-07T09:47:30</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">m</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.grandinotizie.it/dossier/006/glossario/, 07/11/2001</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+</conceptGrp>
+
+<conceptGrp>
+<concept>2499</concept>
+<transacGrp>
+<transac type="origination">muré</transac>
+<date>1999-02-02T01:32:58</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2005-12-29T17:40:58</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Subject1">Science</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject2">Medicine</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject3">Diseases|Ophthalmology</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Project">Entry transfer</descrip>
+</descripGrp>
+<languageGrp>
+<language lang="EN-GB" type="English">
+</language>
+<termGrp>
+<term>hyperopia</term>
+<transacGrp>
+<transac type="origination">zimmerli</transac>
+<date>2005-07-25T15:40:59</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">zimmerli</transac>
+<date>2005-07-25T15:40:59</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="StatusTerm">SCIENTIFIC</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink=":http-roche-lex">http-roche-lex</xref>, 25/07/2005</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Abnormal condition of the eye in which vision is better for distant objects than for near objects, which results from the eyeball being too short for light rays to properly focus on the retina, thus forming a blurred image.</descrip>
+<transacGrp>
+<transac type="origination">zimmerli</transac>
+<date>2005-09-09T11:28:23</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">zimmerli</transac>
+<date>2005-09-09T11:28:23</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">according to <xref Tlink="Source_Code:http-answers-med">http-answers-med</xref>, 09/09/2005</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="English:emmetropia">emmetropia</xref>, <xref Tlink="English:myopia">myopia</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>farsightedness</term>
+<transacGrp>
+<transac type="origination">zimmerli</transac>
+<date>2005-09-09T11:28:23</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">zimmerli</transac>
+<date>2005-09-09T11:28:23</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink=":http-anwers-med">http-anwers-med</xref>, 09/09/2005</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">medium</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="DE-CH" type="German">
+</language>
+<termGrp>
+<term>Hyperopie</term>
+<transacGrp>
+<transac type="origination">zimmerli</transac>
+<date>2005-07-25T17:14:18</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">zimmerli</transac>
+<date>2005-07-25T17:14:18</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="StatusTerm">WISSENSCHAFTLICH</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink=":http-roche-lex">http-roche-lex</xref>, 25/07/2005</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Brechungsanomalie des Auges aufgrund einer Brechkraftminderung der Medien oder angeborener, eventuell erblicher Kürze der Augenachse.</descrip>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2005-12-29T17:40:58</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2005-12-29T17:40:58</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">nach <xref Tlink=":http-roche-lex">http-roche-lex</xref>, 29/12/2005</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="German:Emmetropie">Emmetropie</xref>, <xref Tlink="German:Myopie">Myopie</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>Hypermetropie</term>
+<transacGrp>
+<transac type="origination">zimmerli</transac>
+<date>2005-07-25T15:40:59</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">zimmerli</transac>
+<date>2005-07-25T15:40:59</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="StatusTerm">WISSENSCHAFTLICH</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink=":http-roche-lex">http-roche-lex</xref>, 25/07/2005</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>Übersichtigkeit</term>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2005-12-29T17:40:58</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2005-12-29T17:40:58</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink=":http-roche-lex">http-roche-lex</xref>, 29/12/2005</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>Weitsichtigkeit</term>
+<transacGrp>
+<transac type="origination">muré</transac>
+<date>1999-02-01T16:32:58</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">muré</transac>
+<date>1999-02-01T16:32:58</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink=":http-roche-lex">http-roche-lex</xref>, 29/12/2005</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">medium</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="FR-CH" type="French">
+</language>
+<termGrp>
+<term>hyperopie</term>
+<transacGrp>
+<transac type="origination">zimmerli</transac>
+<date>2005-07-25T17:14:18</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">zimmerli</transac>
+<date>2005-07-25T17:14:18</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:http-gdt_ef">http-gdt_ef</xref>, 25/07/2005</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Anomalie de la réfraction oculaire caractérisée, en l'absence d'accommodation, par la formation de l'image d'un objet au-delà de la rétine, ce qui entraîne une vision floue.</descrip>
+<transacGrp>
+<transac type="origination">zimmerli</transac>
+<date>2005-09-09T11:28:23</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">zimmerli</transac>
+<date>2005-09-09T11:28:23</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">
+<xref Tlink="Source_Code:http-gdt_ef">http-gdt_ef</xref>, 25/07/2005</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="French:emmétropie">emmétropie</xref>, <xref Tlink="French:myopie">myopie</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>hypermétropie</term>
+<transacGrp>
+<transac type="origination">zimmerli</transac>
+<date>2005-07-25T15:45:59</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">zimmerli</transac>
+<date>2005-07-25T15:45:59</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:http-gdt_ef">http-gdt_ef</xref>, 25/07/2005</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">medium</descrip>
+</descripGrp>
+</languageGrp>
+</conceptGrp>
+
+<conceptGrp>
+<concept>3041</concept>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2005-07-14T12:38:30</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">super</transac>
+<date>2006-04-11T10:29:38</date>
+</transacGrp>
+<descripGrp multimedia="241">
+<descrip type="Graphic">CLS004_macula_degeneration.jpg</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject1">Science</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject2">Medicine</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject3">Diseases|Ophthalmology</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Project">Press Kit|Product Snapshot</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_Graph">http://health.allrefer.com/health/macular-degeneration-pictures-images.html, 06/12/2004</descrip>
+</descripGrp>
+<languageGrp>
+<language lang="EN-GB" type="English">
+</language>
+<termGrp>
+<term>macular degeneration</term>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2005-07-19T19:03:24</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2005-07-19T19:03:24</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:NVS-Press Kit_e">NVS-Press Kit_e</xref>, under "Novartis Pharmaceuticals at a glance"</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Condition that damages the macula, which is the central part of the retina and is responsible for central vision and the ability to see detail.</descrip>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2005-07-14T12:38:30</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2005-07-14T12:38:30</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">
+<xref Tlink="Source_Code:http-vision_e">http-vision_e</xref>, 10/04/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">1) Symptoms of the macular degeneration include blurring of vision (in central visual field), colours appear dim and difficulty reading or performing work up close. 2) There are two types of the disease: dry macular degeneration and wet macular degeneration.</descrip>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2005-07-14T15:47:49</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2005-07-14T15:47:49</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">1) according to <xref Tlink=":http-med-dic">http-med-dic</xref>, 16/09/2004; 2) <xref Tlink="Source_Code:NVS-Press Kit_e">NVS-Press Kit_e</xref>, under "Novartis Pharmaceuticals at a glance"</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="English:dry macular degeneration">dry macular degeneration</xref>, <xref Tlink="English:wet macular degeneration">wet macular degeneration</xref>, <xref Tlink="English:age-related macular degeneration">age-related macular degeneration</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="DE-CH" type="German">
+</language>
+<termGrp>
+<term>Makuladegeneration</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2005-07-14T14:48:32</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2005-07-14T14:48:32</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:NVS-Press Kit_d">NVS-Press Kit_d</xref>, unter "Novartis Pharmaceuticals auf einen Blick"</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Erkrankung der zentralen Netzhaut, oft mit einem irreversiblen Verlust der Sehschärfe, die meist im fortgeschrittenen Lebensalter auftritt.</descrip>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2005-07-14T14:48:32</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2005-07-14T14:48:32</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">
+<xref Tlink="Source_Code:http-netdoktor_d">http-netdoktor_d</xref>, 23/03/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">Man unterteilt die altersbezogene Makuladegeneration in eine trockene und eine feuchte Form</descrip>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2005-07-14T14:48:32</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2005-07-14T14:48:32</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">
+<xref Tlink="Source_Code:http-netdoktor_d">http-netdoktor_d</xref>, 23/03/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="German:trockene Makuladegeneration">trockene Makuladegeneration</xref>, <xref Tlink="German:feuchte Makuladegeneration">feuchte Makuladegeneration</xref>, <xref Tlink="German:altersbedingte Makuladegeneration">altersbedingte Makuladegeneration</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="FR-CH" type="French">
+</language>
+<termGrp>
+<term>dégénérescence maculaire</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2005-07-14T14:48:32</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2005-07-14T14:48:32</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:NVS-Press Kit_f">NVS-Press Kit_f</xref>, sous "Novartis Pharma en un coup d'oeil"</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Maladie de l'oeil résultant d'une dégénérescence de la macula, qui est une petite zone située au centre de la rétine, responsable de l'acuité visuelle.</descrip>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2005-07-14T14:48:32</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2005-07-14T14:48:32</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">
+<xref Tlink="Source_Code:http-passeportsante_f">http-passeportsante_f</xref>, 14/07/2005</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">Cette maladie peut se manifester sous deux formes: sèche et humide.</descrip>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2005-07-14T14:48:32</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2005-07-14T14:48:32</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">
+<xref Tlink="Source_Code:http-passeportsante_f">http-passeportsante_f</xref>, 28/03/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="French:forme sèche de la dégénérescence maculaire">forme sèche de la dégénérescence maculaire</xref>, <xref Tlink=":forme humide de la dégénérescence maculaire">forme humide de la dégénérescence maculaire</xref>, <xref Tlink="French:dégénérescence maculaire liée à l'âge">dégénérescence maculaire liée à l'âge</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>DM</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2005-07-14T15:47:49</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2005-07-14T15:47:49</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">Abbreviation</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:NVS-http-novartis.ch_e/d/f">NVS-http-novartis.ch_e/d/f</xref>, 23/03/2006</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>dégénérescence de la macula</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2005-07-14T15:47:49</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2005-07-14T15:47:49</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:NVS-http-novartis.fr_f">NVS-http-novartis.fr_f</xref>, 23/03/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Quote">En quelques semaines, une dégénérescence de la macula peut conduire à un handicap visuel irréversible, d'où l'importance d'un dépistage précoce.</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_Q">
+<xref Tlink="Source_Code:NVS-http-novartis.fr_f">NVS-http-novartis.fr_f</xref>, 23/03/2006</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="IT-CH" type="Italian">
+</language>
+<termGrp>
+<term>degenerazione maculare</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2005-07-14T15:41:33</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2005-07-14T15:41:33</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:NVS-http-novartis.it_i">NVS-http-novartis.it_i</xref>, 23/03/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Quote">La degenerazione maculare non consente di leggere, guidare e riconoscere i visi familiari.</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_Q">secondo <xref Tlink="Source_Code:NVS-http-novartis.it_i">NVS-http-novartis.it_i</xref>, 23/03/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="Italian:degenerazione maculare legata all'età">degenerazione maculare legata all'età</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="ES" type="Spanish">
+</language>
+<termGrp>
+<term>degeneración macular</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2005-07-14T14:48:32</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2005-07-14T14:48:32</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:NVS-Press Kit_es">NVS-Press Kit_es</xref>, bajo "Novartis Pharmaceuticals de un vistazo"</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Alteración degenerativa de la parte central de la retina conocida como mácula, que es la responsable de la visión central.</descrip>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2005-07-14T14:48:32</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2005-07-14T14:48:32</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">http://www.cun.es/html/lineas/lin24a.html, 14/07/2005</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">La degeneración macular se clasifica en: 1) seca y 2) exudativa.</descrip>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2005-07-14T14:48:32</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2005-07-14T14:48:32</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">
+<xref Tlink="Source_Code:http-clinano_es">http-clinano_es</xref>, 23/03/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="Spanish:degeneración macular seca">degeneración macular seca</xref>, <xref Tlink="Spanish:degeneración macular exudativa">degeneración macular exudativa</xref>, <xref Tlink="Spanish:degeneración macular relacionada con la edad">degeneración macular relacionada con la edad</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+</conceptGrp>
+
+<conceptGrp>
+<concept>4385</concept>
+<transacGrp>
+<transac type="origination">miesch</transac>
+<date>2006-01-23T16:49:35</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">corti</transac>
+<date>2007-03-01T09:35:20</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Subject1">Science</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject2">Medicine</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject3">Diseases|Ophthalmology</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Project">News</descrip>
+</descripGrp>
+<languageGrp>
+<language lang="EN-GB" type="English">
+</language>
+<termGrp>
+<term>trachoma</term>
+<transacGrp>
+<transac type="origination">miesch</transac>
+<date>2006-01-23T16:49:34</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">miesch</transac>
+<date>2006-01-23T16:49:34</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink=":http-med-dic">http-med-dic</xref>, 23/01/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Chronic infectious disease of the conjunctiva and cornea, producing photophobia, pain, lacrimation and blindness.</descrip>
+<transacGrp>
+<transac type="origination">miesch</transac>
+<date>2006-01-23T16:49:34</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">miesch</transac>
+<date>2006-01-23T16:49:34</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">
+<xref Tlink=":http-med-dic">http-med-dic</xref>, 23/01/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">The occurence of trachoma is associated with poor socioeconomic conditions: overcrowding, poor personal and environmental hygiene and, in particular, with limited access to water and sanitation.</descrip>
+<transacGrp>
+<transac type="origination">miesch</transac>
+<date>2006-01-23T16:49:34</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">miesch</transac>
+<date>2006-01-23T16:49:34</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">according to <xref Tlink=":http-med-dic">http-med-dic</xref>, 23/01/2006</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="DE-CH" type="German">
+</language>
+<termGrp>
+<term>Trachom</term>
+<transacGrp>
+<transac type="origination">miesch</transac>
+<date>2006-01-23T16:49:34</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">miesch</transac>
+<date>2006-01-23T16:49:34</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink=":http-roche-lex">http-roche-lex</xref>, 10/01/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Bindehaut-Hornhaut-Erkrankung, die durch Chlamydia trachomatis verursacht wird, mit Bildung von Halberstädter-Prowazek-Einschlusskörpern und die oft zur Blindheit führt.</descrip>
+<transacGrp>
+<transac type="origination">miesch</transac>
+<date>2006-01-23T16:49:34</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">miesch</transac>
+<date>2006-01-23T16:49:34</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">nach <xref Tlink=":http-roche-lex">http-roche-lex</xref>, 23/01/2006</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="FR-CH" type="French">
+</language>
+<termGrp>
+<term>trachome</term>
+<transacGrp>
+<transac type="origination">miesch</transac>
+<date>2006-01-23T16:49:34</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">miesch</transac>
+<date>2006-01-23T16:49:34</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">m</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:Temps">Temps</xref>, 08/12/2005, p. 19</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">Le trachome est une maladie infectieuse des yeux qui peut provoquer une cécité après des ré-infections répétées. Il s'agit de la principale cause de cécité évitable au niveau mondial et la maladie survient là où les gens vivent dans des conditions de surpeuplement avec un accès limité à l'eau et aux soins de santé.</descrip>
+<transacGrp>
+<transac type="origination">miesch</transac>
+<date>2006-04-06T13:39:09</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">miesch</transac>
+<date>2006-04-06T13:39:09</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">http://www.who.int/water_sanitation_health/diseases/trachoma/fr/index.html, 06/04/2006</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="IT-CH" type="Italian">
+</language>
+<termGrp>
+<term>tracoma</term>
+<transacGrp>
+<transac type="origination">corti</transac>
+<date>2007-03-01T09:35:20</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">corti</transac>
+<date>2007-03-01T09:35:20</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">m</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.sightsavers.org/italy/cosafacciamo/tracoma.htm, 01/03/2007</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">Il tracoma è un'infezione virulenta agli occhi causata dal microrganismo "Chlamydia Trachomatis", che viene trasmessa tra l'altro tramite le mosche e da una persona all'altra per uso in comune di asciugamani e per contatto.</descrip>
+<transacGrp>
+<transac type="origination">corti</transac>
+<date>2007-03-01T09:35:20</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">corti</transac>
+<date>2007-03-01T09:35:20</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">fonte del termine</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="ES" type="Spanish">
+</language>
+<termGrp>
+<term>tracoma</term>
+<transacGrp>
+<transac type="origination">miesch</transac>
+<date>2006-04-06T13:48:27</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">miesch</transac>
+<date>2006-04-06T13:48:27</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.nlm.nih.gov/medlineplus/spanish/ency/article/001486.htm, 06/04/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Infección ocular causada por la Chlamydia trachomatis que, si no recibe tratamiento, puede producir cicatrización crónica y ceguera.</descrip>
+<transacGrp>
+<transac type="origination">miesch</transac>
+<date>2006-04-06T13:48:27</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">miesch</transac>
+<date>2006-04-06T13:48:27</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">fuente del término</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+</conceptGrp>
+
+<conceptGrp>
+<concept>7650</concept>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2008-03-31T23:12:06</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2008-03-31T23:27:43</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Subject1">Science</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject2">Anatomy|Medicine</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Project">Ad hoc</descrip>
+</descripGrp>
+<languageGrp>
+<language lang="EN-GB" type="English">
+</language>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+<termGrp>
+<term>omentum</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2008-03-31T23:12:06</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2008-03-31T23:12:06</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="StatusTerm">SCIENTIFIC</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:BDÜ-Workshop">BDÜ-Workshop</xref>
+</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Fold of peritoneum extending from the stomach to adjacent organs in the abdominal cavity.</descrip>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2008-03-31T23:12:06</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2008-03-31T23:26:41</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">One can distinguish between the greater omentum, which is suspended from the greater curvature of the stomach, passes inferiorly a variable distance in front of the intestine and is attached to the anterior surface of the transverse colon, and the lesser omentum, which joins the lesser curvature of the stomach and the first part of the duodenum to the liver.</descrip>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2008-03-31T23:12:06</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2008-03-31T23:27:43</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">according to <xref Tlink="Source_Code:Dorland_e">Dorland_e</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>epiploon</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2008-03-31T23:12:06</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2008-03-31T23:12:06</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="StatusTerm">SCIENTIFIC</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:Dorland_e">Dorland_e</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+</languageGrp>
+<languageGrp>
+<language lang="DE-CH" type="German">
+</language>
+<termGrp>
+<term>Omentum</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2008-03-31T23:12:06</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2008-03-31T23:12:06</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="StatusTerm">SCIENTIFIC</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:BDÜ-Workshop">BDÜ-Workshop</xref>
+</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">0,5 Quadratmeter großer Teil des Bauchfells, der über den Eingeweiden in den Bauchraum hängt.</descrip>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2008-03-31T23:12:06</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2008-03-31T23:26:41</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">
+<xref Tlink="Source_Code:http-Focus-Gesundheit_de">http-Focus-Gesundheit_de</xref>, 31/03/2008</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">Man kann zwischen das Omentum majus, das von der grossen Magenkurvatur und vom Colon transversum über den Darm herabhängt, und das Omentum minus, zwischen kleiner Magenkurvatur und Leber, unterscheiden.</descrip>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2008-03-31T23:12:06</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2008-03-31T23:26:41</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">nach <xref Tlink="Source_Code:http-roche-lex">http-roche-lex</xref>, 31/03/2008</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>Epiploon</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2008-03-31T23:12:06</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2008-03-31T23:12:06</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="StatusTerm">SCIENTIFIC</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:http-roche-lex">http-roche-lex</xref>, 31/03/2008</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>Netz</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2008-03-31T23:12:06</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2008-03-31T23:19:49</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="StatusTerm">COLLOQUIAL</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:BDÜ-Workshop">BDÜ-Workshop</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+</languageGrp>
+<languageGrp>
+<language lang="ES" type="Spanish">
+</language>
+<termGrp>
+<term>epiplón</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2008-03-31T23:12:06</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2008-03-31T23:12:06</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">m</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="StatusTerm">SCIENTIFIC</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:Masson_es">Masson_es</xref>
+</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Repliegue del peritoneo que une las vísceras entre sí y contiene los vasos y algunos conductos.</descrip>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2008-03-31T23:12:06</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2008-03-31T23:26:41</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">
+<xref Tlink="Source_Code:Masson_es">Masson_es</xref>
+</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">Cabe distinguir entre el epiplón mayor, situado entre la curvatura mayor del estómago y el colon transverso, y el epiplón menor, que se extiende desde el lado derecho del cardias al hígado.</descrip>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2008-03-31T23:12:06</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2008-03-31T23:26:41</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">según <xref Tlink="Source_Code:Masson_es">Masson_es</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>omento</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2008-03-31T23:12:06</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2008-03-31T23:12:06</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">m</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="StatusTerm">SCIENTIFIC</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:Masson_es">Masson_es</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+</languageGrp>
+</conceptGrp>
+
+<conceptGrp>
+<concept>1220</concept>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2004-11-25T09:03:18</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">super</transac>
+<date>2005-08-19T13:47:46</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Subject1">Science</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject2">Medicine</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject3">Diseases|Rheumatology</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Project">Rheumatic diseases</descrip>
+</descripGrp>
+<languageGrp>
+<language lang="EN-GB" type="English">
+</language>
+<termGrp>
+<term>coccidioidomycosis</term>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2004-11-25T09:03:18</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gianoli</transac>
+<date>2004-11-25T09:03:18</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:MedDiag&amp;Treat">MedDiag&amp;Treat</xref>, p. 762</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Arthralgia with periarticular swelling, especially in the knees and ankles.</descrip>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2004-11-25T09:03:18</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gianoli</transac>
+<date>2004-11-25T09:03:18</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">
+<xref Tlink="Source_Code:MedDiag&amp;Treat">MedDiag&amp;Treat</xref>, p. 762</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">Systemic coccidioidomycosis should be distinguished from actual bone or joint infection.</descrip>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2004-12-02T15:00:19</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gianoli</transac>
+<date>2004-12-02T15:00:19</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">
+<xref Tlink="Source_Code:MedDiag&amp;Treat">MedDiag&amp;Treat</xref>, p. 762</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>Posadas-Wernicke disease</term>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.whonamedit.com/synd.cfm/3062.html, 10/12/2004</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>Posadas-Rixford disease</term>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.whonamedit.com/synd.cfm/3062.html, 10/12/2004</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>desert rheumatism</term>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.whonamedit.com/synd.cfm/3062.html, 10/12/2004</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>valley fever</term>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.whonamedit.com/synd.cfm/3062.html, 10/12/2004</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>San Joaquin fever</term>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.whonamedit.com/synd.cfm/3062.html, 10/12/2004</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="DE-CH" type="German">
+</language>
+<termGrp>
+<term>Kokzidioidomykose</term>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.aidsfinder.org/main/TWBA/afc2c.htm#Coccidioides-Mykose, 10/12/2004</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Erkrankung der Luftwege durch Kokzidien.</descrip>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">Quelle des Terminus</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">Bei der selteneren, durch hämatogene Erregerverschleppung bedingten progressiven Form der Kokidioidomykose treten in Haut, Skelett, Zentralnervensystem und inneren Organen granulomatöse, geschwürige und Tuberkulose-ähnliche Prozesse auf. Erkrankungen an Kokidioidomykose werden aus Nord-, Mittel- und Südamerika berichtet.</descrip>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">nach Quelle des Terminus und http://www.fit-for-travel.de/reisemedizin/Krankheiten/kokzidioidomykose.htm, 10/12/2004</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>Coccidioides-Mykose</term>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2005-04-05T11:58:14</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gianoli</transac>
+<date>2005-04-05T11:58:14</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.aidsfinder.org/main/TWBA/afc2c.htm#Coccidioides-Mykose, 10/12/2004</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>Wüstenfieber</term>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink=":http-roche-lex">http-roche-lex</xref>, 10/12/2004</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>Talfieber</term>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink=":http-roche-lex">http-roche-lex</xref>, 10/12/2004</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="FR-CH" type="French">
+</language>
+<termGrp>
+<term>coccidioïdomycose</term>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:http-CHU-Rouen_f">http-CHU-Rouen_f</xref>, 10/12/2004</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>coccidioïdose</term>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:http-CHU-Rouen_f">http-CHU-Rouen_f</xref>, 10/12/2004</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>fièvre du désert</term>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:http-CHU-Rouen_f">http-CHU-Rouen_f</xref>, 10/12/2004</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>fièvre de San Joaquin</term>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2005-04-05T11:58:14</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gianoli</transac>
+<date>2005-04-05T11:58:14</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:http-CHU-Rouen_f">http-CHU-Rouen_f</xref>, 10/12/2004</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>maladie de Posadas-Rixford</term>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:http-CHU-Rouen_f">http-CHU-Rouen_f</xref>, 10/12/2004</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="IT-CH" type="Italian">
+</language>
+<termGrp>
+<term>coccidioidomicosi</term>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:http-dica33-medico">http-dica33-medico</xref>, 10/12/2004</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Malattia fungina provocata dall'infezione da Coccidioides immitis.</descrip>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2005-01-20T18:01:51</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gianoli</transac>
+<date>2005-01-20T18:01:51</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">
+<xref Tlink="Source_Code:http-dica33-medico">http-dica33-medico</xref>, 10/12/2004</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">La coccidioidomicosi è endemica in Arizona, California e Nuovo Messico.</descrip>
+<transacGrp>
+<transac type="origination">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gianoli</transac>
+<date>2004-12-10T14:33:02</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">
+<xref Tlink="Source_Code:http-dica33-medico">http-dica33-medico</xref>, 10/12/2004</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+</conceptGrp>
+
+<conceptGrp>
+<concept>4640</concept>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-08-22T21:06:52</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-09-25T11:40:13</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Subject1">Industry|Law</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject2">Chemicals/Pharmaceuticals</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject3">Drugs</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Project">: FDA</descrip>
+</descripGrp>
+<languageGrp>
+<language lang="EN-GB" type="English">
+</language>
+<termGrp>
+<term>supplemental Biologics License Application</term>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-08-30T21:07:49</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-08-30T21:07:49</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">Nancy B. Miller, M.D., Office of Vaccines Research and Review, Center for Biologics Evaluation and Research
+Food and Drug Administration, 13/07/2005, p.1, http://www.fda.gov/cber/review/havamer081105r.pdf, 22/08/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Submission that contains changements of a biologic product, which is approved for marketing under the provisions of the US Public Health Service Act.</descrip>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-09-06T14:01:33</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-09-06T14:01:33</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">according to source of term</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Quote">A supplemental Biologics License Application (sBLA) for maintenance therapy in patients with fistulizing Crohn's disease is currently under review and received priority status from the FDA.</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_Q">FDA Arthritis Advisory Committee Briefing Document, 04/03/2003, p. 8, http://www.fda.gov/ohrms/dockets/ac/03/briefing/3930B1_04_A-Centocor-Remicade%20.pdf, 22/08/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="English:Biologics License Application">Biologics License Application</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>supplemental biologics license application</term>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-08-22T21:06:52</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-08-22T21:06:52</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:http-fda_us">http-fda_us</xref>, 22/08/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Quote">The Citizen Petition asks the Secretary of Health and Human Services and the Commissioner of Food and Drugs to stay the approval of pending supplemental biologics license applications (sBLAs) for RITUXAN (rituximab), contending the stay is necessary to deter off-label promotion.</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_Q">Response to Citizen Petition Filed by Michael Bannester, Docket No. 2006P-0089, Division of Dockets Management, Food and Drug Administration (HFA-305), 06/06/2006, p.1, http://www.fda.gov/ohrms/dockets/dockets/06p0089/06p-0089-c000002-vol1.pdf, 22/08/2006</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>supplemental BLA</term>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-09-09T01:15:40</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-09-09T01:15:40</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=NYBABIO.story&amp;STORY=/www/story/02-12-2004/0002108916&amp;EDATE=THU+Feb+12+2004,+04:39+PM, 09/08/2006</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>BLA supplement</term>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-08-25T17:25:58</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-08-25T17:25:58</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:http-fda-cder_us">http-fda-cder_us</xref>, under "Drug Infomation", 25/08/2006</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>sBLA</term>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-08-22T21:06:52</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-08-22T21:06:52</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">Abbreviation</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:http-fda_us">http-fda_us</xref>, 22/08/2006</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="DE-CH" type="German">
+</language>
+<termGrp>
+<term>supplemental Biologics License Application</term>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-08-22T21:06:52</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-08-22T21:06:52</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.roche.com/de/med-cor-2006-04-12, 22/08/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Antrag zur Zulassung zusätzlicher Anwendungsgebiete oder einer Änderung an einem biologischen Produkt, das bereits auf dem Markt zugelassen ist.</descrip>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-09-08T09:25:49</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-09-08T09:25:49</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">
+<xref Tlink="Source_Code:FScherp">FScherp</xref>, 07/09/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Quote">Das ergänzende Zulassungsgesuch (supplemental Biologics License Application, sBLA) für die Anwendung von Avastin [...] ist bei der US-amerikanischen Gesundheitsbehörde FDA eingereicht worden [...].</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_Q">Quelle des Terminus</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="German:Biologics License Application">Biologics License Application</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>sBLA-Gesuch</term>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-08-22T21:06:52</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-08-22T21:06:52</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.roche.com/de/med-cor-2006-04-12, 22/08/2006</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="FR-CH" type="French">
+</language>
+<termGrp>
+<term>demande de licence biologique supplémentaire</term>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-08-22T21:09:34</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-08-22T21:09:34</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.gazettelabo.fr/2002archives/breves/2006/0406/avastin.htm, 22/08/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Demande d'autorisation d'apporter des changements à un produit biologique qui dispose déjà d'une autorisation de mise sur le marché.</descrip>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-09-08T09:25:49</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-09-08T09:25:49</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">
+<xref Tlink="Source_Code:VVerduci">VVerduci</xref>, 07/09/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Quote">La demande de licence biologique supplémentaire (sBLA) soumise aux Etats-Unis à la FDA (Food and Drug Administration) concerne l'utilisation d'Avastin [...] chez des patients non préalablement traités souffrant de cancer du poumon non à petites cellules [...].</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_Q">source du terme</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="French:Biologics License Application">Biologics License Application</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>sBLA</term>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-08-22T21:18:05</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-08-22T21:18:05</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">Abbreviation</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.prnewswire.co.uk/cgi/news/release?id=124733, 22/08/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Quote">Centocor a déposé une sBLA (Demande de licence biologique supplémentaire) auprès de la US Food et Drug Administration (FDA) pour l'utilisation du REMICADE plus méthotrexate [...].</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_Q">source du terme</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+</conceptGrp>
+
+<conceptGrp>
+<concept>2051</concept>
+<transacGrp>
+<transac type="origination">super</transac>
+<date>1970-01-01T01:00:00</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2006-01-04T16:21:10</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Subject1">Science</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject2">Medicine</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Project">Entry transfer</descrip>
+</descripGrp>
+<languageGrp>
+<language lang="EN-GB" type="English">
+</language>
+<termGrp>
+<term>radiation injury</term>
+<transacGrp>
+<transac type="origination">cavaniglia</transac>
+<date>2002-10-31T17:26:19</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">cavaniglia</transac>
+<date>2002-10-31T17:26:19</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:EuDA_BTB">EuDA_BTB</xref>, 31/10/2002 (Multilingual Glossary on Civil Protection 1990, European Commission/Member States Working Party)</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Visible or invisible, immediate or late appearing somatic and genetic damage to living organisms caused by ionizing radiation.</descrip>
+<transacGrp>
+<transac type="origination">cavaniglia</transac>
+<date>2002-10-31T17:29:55</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">cavaniglia</transac>
+<date>2002-10-31T17:29:55</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">
+<xref Tlink="Source_Code:EuDA_BTB">EuDA_BTB</xref>, 31/10/2002 (Multilingual Glossary on Civil Protection 1990, European Commission/Member States Working Party)</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="English:radiation therapy">radiation therapy</xref>, <xref Tlink="English:ionizing radiation">ionizing radiation</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>radiation damage</term>
+<transacGrp>
+<transac type="origination">zimmerli</transac>
+<date>2005-07-04T16:58:43</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">zimmerli</transac>
+<date>2005-07-04T16:58:43</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink=":http-roche-lex">http-roche-lex</xref>, 04/07/2005</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="DE-CH" type="German">
+</language>
+<termGrp>
+<term>Strahlenschädigung</term>
+<transacGrp>
+<transac type="origination">julia</transac>
+<date>1998-05-08T09:54:47</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">julia</transac>
+<date>1998-05-08T09:54:47</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:EuDA_BTB">EuDA_BTB</xref>, 31/10/2002 (Mehrsprachiges Glossar für den Katastrophenschutz 1990, Arbeitsgruppe Europäische Kommission/Mitgliedstaaten)</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Sichtbare oder nichtsichtbare, unmittelbar oder später auftretende somatische oder genetische Schädigung von lebenden Organismen durch ionisierende Strahlung.</descrip>
+<transacGrp>
+<transac type="origination">cavaniglia</transac>
+<date>2002-10-31T17:26:19</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">cavaniglia</transac>
+<date>2002-10-31T17:26:19</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">
+<xref Tlink="Source_Code:EuDA_BTB">EuDA_BTB</xref>, 31/10/2002 (Mehrsprachiges Glossar für den Katastrophenschutz 1990, Arbeitsgruppe Europäische Kommission/Mitgliedstaaten)</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="German:Bestrahlungstherapie">Bestrahlungstherapie</xref>, <xref Tlink="German:ionisierende Strahlung">ionisierende Strahlung</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>Strahlenschaden</term>
+<transacGrp>
+<transac type="origination">cavaniglia</transac>
+<date>2002-10-31T17:26:19</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">cavaniglia</transac>
+<date>2002-10-31T17:26:19</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">m</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:http-umweltlexikon_d">http-umweltlexikon_d</xref>, 31/10/2002</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="FR-CH" type="French">
+</language>
+<termGrp>
+<term>affection radio-induite</term>
+<transacGrp>
+<transac type="origination">cavaniglia</transac>
+<date>2002-10-31T17:26:19</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">cavaniglia</transac>
+<date>2002-10-31T17:26:19</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:EuDA_BTB">EuDA_BTB</xref>, 31/10/2002 (Glossaire multilingue en matière de protection civile 1990, Groupe de travail Commission Européenne/Etats membres)</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Trouble somatique ou génétique, visible ou invisible, immédiat ou tardif, causé à des organismes vivants par les radiations ionisantes.</descrip>
+<transacGrp>
+<transac type="origination">cavaniglia</transac>
+<date>2002-10-31T17:27:56</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">cavaniglia</transac>
+<date>2002-10-31T17:27:56</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">
+<xref Tlink="Source_Code:EuDA_BTB">EuDA_BTB</xref>, 31/10/2002 (Glossaire multilingue en matière de protection civile 1990, Groupe de travail Commission Européenne/Etats membres)</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="French:radiothérapie">radiothérapie</xref>, <xref Tlink="French:radiation ionisante">radiation ionisante</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>radiolésion</term>
+<transacGrp>
+<transac type="origination">cavaniglia</transac>
+<date>2002-10-31T17:26:19</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">cavaniglia</transac>
+<date>2002-10-31T17:26:19</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:EuDA_BTB">EuDA_BTB</xref>, 31/10/2002 (Glossaire multilingue en matière de protection civile 1990, Groupe de travail Commission Européenne/Etats membres)</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="IT-CH" type="Italian">
+</language>
+<termGrp>
+<term>lesione da radiazione</term>
+<transacGrp>
+<transac type="origination">cavaniglia</transac>
+<date>2002-10-31T17:26:19</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">cavaniglia</transac>
+<date>2002-10-31T17:26:19</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:EuDA_BTB">EuDA_BTB</xref>, 31/10/2002 (Glossario multilingue della protezione civile 1990, Gruppo di lavoro Commissione europea/Stati membri)</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Danno somatico e genetico agli organismi viventi, visibile o invisibile, immediato o a manifestazione ritardata, provocato da radiazioni ionizzanti.</descrip>
+<transacGrp>
+<transac type="origination">cavaniglia</transac>
+<date>2002-10-31T17:26:19</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">cavaniglia</transac>
+<date>2002-10-31T17:26:19</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">
+<xref Tlink="Source_Code:EuDA_BTB">EuDA_BTB</xref>, 31/10/2002 (Glossario multilingue della protezione civile 1990, Gruppo di lavoro Commissione europea/Stati membri)</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="Italian:radiazione ionizzante">radiazione ionizzante</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+</conceptGrp>
+
+<conceptGrp>
+<concept>7402</concept>
+<transacGrp>
+<transac type="origination">mo costabella</transac>
+<date>2007-03-14T15:20:32</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">mo costabella</transac>
+<date>2007-05-29T16:34:58</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Subject1">Industry</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject2">Chemicals/Pharmaceuticals</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Project">News</descrip>
+</descripGrp>
+<languageGrp>
+<language lang="EN-GB" type="English">
+</language>
+<termGrp>
+<term>radon</term>
+<transacGrp>
+<transac type="origination">mo costabella</transac>
+<date>2007-03-14T15:20:32</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">mo costabella</transac>
+<date>2007-03-14T15:20:32</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.dep.state.fl.us/geology/geologictopics/glossary.htm, 14/03/2007</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Invisible, odorless, tasteless, radioactive gas that is formed when uranium-238 decays.</descrip>
+<transacGrp>
+<transac type="origination">mo costabella</transac>
+<date>2007-03-14T15:20:32</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">mo costabella</transac>
+<date>2007-03-14T15:20:32</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">according to source of term</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="DE-CH" type="German">
+</language>
+<termGrp>
+<term>Radon</term>
+<transacGrp>
+<transac type="origination">mo costabella</transac>
+<date>2007-03-14T15:20:32</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">mo costabella</transac>
+<date>2007-03-14T15:20:32</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:http-wikipedia_d">http-wikipedia_d</xref>, 14/03/2007</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">Radon ist ein radioaktives chemisches Element, das als Zerfallsprodukt aus Radium entsteht.</descrip>
+<transacGrp>
+<transac type="origination">mo costabella</transac>
+<date>2007-03-14T15:20:32</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">mo costabella</transac>
+<date>2007-03-14T15:20:32</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">
+<xref Tlink="Source_Code:http-wikipedia_d">http-wikipedia_d</xref>, 14/03/2007</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="FR-CH" type="French">
+</language>
+<termGrp>
+<term>radon</term>
+<transacGrp>
+<transac type="origination">mo costabella</transac>
+<date>2007-03-14T15:20:32</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">mo costabella</transac>
+<date>2007-03-14T15:20:32</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">m</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.habitation.gouv.qc.ca/bibliotheque/references/lexique.html, 14/03/2007</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Gaz radioactif d'origine naturelle, incolore et inodore qui provient de la désintégration naturelle de l'uranium.</descrip>
+<transacGrp>
+<transac type="origination">mo costabella</transac>
+<date>2007-03-14T15:20:32</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">mo costabella</transac>
+<date>2007-03-14T15:20:32</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">d'après source du terme</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">Les sols et les roches contenant de l'uranium, du granit, des schistes ou du phosphate ont une concentration relativement élevée de radon.</descrip>
+<transacGrp>
+<transac type="origination">mo costabella</transac>
+<date>2007-03-14T15:20:32</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">mo costabella</transac>
+<date>2007-03-14T15:20:32</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">source du terme</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="IT-CH" type="Italian">
+</language>
+<termGrp>
+<term>radon</term>
+<transacGrp>
+<transac type="origination">mo costabella</transac>
+<date>2007-03-14T15:20:32</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">mo costabella</transac>
+<date>2007-03-14T15:20:32</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">m</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:CdTicino">CdTicino</xref>, 22/11/2005, p. 5</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Gas invisibile e inodore prodotto dal decadimento dell'uranio nel sottosuolo.</descrip>
+<transacGrp>
+<transac type="origination">mo costabella</transac>
+<date>2007-03-14T15:20:32</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">mo costabella</transac>
+<date>2007-03-14T15:20:32</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">
+<xref Tlink="Source_Code:CdTicino">CdTicino</xref>, 22/11/2005, p. 5</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">Il radon è, dopo il fumo, la principale causa di cancro ai polmoni in Svizzera: ogni anno 240 persone muoiono perché vivono in abitazioni dove le concentrazioni di questo gas superano i valori limite.</descrip>
+<transacGrp>
+<transac type="origination">mo costabella</transac>
+<date>2007-03-14T15:20:32</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">mo costabella</transac>
+<date>2007-03-14T15:20:32</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">
+<xref Tlink="Source_Code:CdTicino">CdTicino</xref>, 22/11/2005, p. 5</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+</conceptGrp>
+
+<conceptGrp>
+<concept>3923</concept>
+<transacGrp>
+<transac type="origination">zimmerli</transac>
+<date>2005-10-10T13:36:07</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">super</transac>
+<date>2007-04-03T17:33:30</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Subject1">Industry|Law</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject2">Chemicals/Pharmaceuticals</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject3">Drugs</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Project">FDA</descrip>
+</descripGrp>
+<languageGrp>
+<language lang="EN-GB" type="English">
+</language>
+<termGrp>
+<term>International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use</term>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-08-30T19:41:33</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-08-30T19:41:33</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n|Proper name</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="StatusTerm">OFFICIAL</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.ich.org, 30/08/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Project that brings together the regulatory authorities of Europe, Japan and the United States and experts from the pharmaceutical industry in the three regions to discuss scientific and technical aspects of product registration.</descrip>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-08-30T19:44:23</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-08-30T19:44:23</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">http://www.sdran.org/links.html, 30/08/2006</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>ICH</term>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-08-30T19:41:33</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-08-30T19:41:33</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">Abbreviation</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="StatusTerm">OFFICIAL</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.ich.org, 30/08/2006</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="DE-CH" type="German">
+</language>
+<termGrp>
+<term>International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use</term>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-08-30T19:41:33</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-08-30T19:41:33</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f|Proper name</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.bah-bonn.de/arzneimittel/europa/ich.htm, 30/08/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Projekt der Länder Europas, Japan und den USA zur Harmonisierung von Anträgen, Richtlinien und Voraussetzungen zur Zulassung von medizinischen Produkten und Arzneimitteln in den drei Regionen.</descrip>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-11-22T09:54:08</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-11-22T09:54:08</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">nach http://www.kks-netzwerk.de/index,83,8,de,selten,x38hdt,500085ef1bb1f78d5a3c1eb8e7fe868e,8.html, 21/11/2006</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>ICH</term>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-08-30T19:41:50</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-08-30T19:41:50</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">Abbreviation</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.bah-bonn.de/arzneimittel/europa/ich.htm, 30/08/2006</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>Internationale Konferenz zur Harmonisierung von technischen Registrierungsanforderungen</term>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-09-25T14:17:00</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-09-25T14:17:00</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f|Proper name</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="StatusTerm">UNOFFICIAL|RARE</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:http-swissmedic">http-swissmedic</xref>, 30/08/2006</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="FR-CH" type="French">
+</language>
+<termGrp>
+<term>International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use</term>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-08-30T19:41:33</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-08-30T19:41:33</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f|Proper name</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.pasteur.fr/infosci/biblio/internet/sites-etrangers.html, 30/08/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Projet commun aux autorités réglementaires européennes, japonaises et nord-américaines visant à harmoniser les critères scientifiques et techniques appliqués à l'enregistrement d'un nouveau produit pharmaceutique.</descrip>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-08-30T19:41:33</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-08-30T19:41:33</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">source du terme</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>ICH</term>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-08-30T19:45:30</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-08-30T19:45:30</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">Abbreviation</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.pasteur.fr/infosci/biblio/internet/sites-etrangers.html, 30/08/2006</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>conférence internationale sur l'harmonisation des impératifs techniques pour l'enregistrement des produits pharmaceutiques à usage humain</term>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-08-30T19:45:30</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-08-30T19:45:30</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="StatusTerm">UNOFFICIAL|RARE</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.genethon.fr/php/layout.php?lang=fr&amp;navp=7&amp;navt=dg&amp;content=dg_cadre&amp;tools=0, 30/08/2006</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>CIH</term>
+<transacGrp>
+<transac type="origination">müller</transac>
+<date>2006-08-30T19:42:28</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">müller</transac>
+<date>2006-08-30T19:42:28</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">Abbreviation</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="StatusTerm">UNOFFICIAL|RARE</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.genethon.fr/php/layout.php?lang=fr&amp;navp=7&amp;navt=dg&amp;content=dg_cadre&amp;tools=0, 30/08/2006</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+</conceptGrp>
+
+<conceptGrp>
+<concept>1947</concept>
+<transacGrp>
+<transac type="origination">fürlinger</transac>
+<date>1999-01-28T00:44:48</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2005-08-04T13:03:24</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Subject1">Information technology|Science</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject2">Medicine</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Project">Entry Transfer</descrip>
+</descripGrp>
+<languageGrp>
+<language lang="EN-GB" type="English">
+</language>
+<termGrp>
+<term>imaging diagnostics</term>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2005-08-04T09:20:18</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2005-08-04T09:20:18</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">npl</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.research.philips.com/technologies/healthcare/earlydiag/, 24/03/2005</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="English:CAT scan">CAT scan</xref>, <xref Tlink="English:MRI">MRI</xref>, <xref Tlink="English:radiographic procedure">radiographic procedure</xref>, <xref Tlink="English:ultrasonography">ultrasonography</xref>, <xref Tlink="English:PET">PET</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="DE-CH" type="German">
+</language>
+<termGrp>
+<term>bildgebende Diagnostik</term>
+<transacGrp>
+<transac type="origination">fürlinger</transac>
+<date>1999-01-27T15:44:48</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">fürlinger</transac>
+<date>1999-01-27T15:44:48</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://212.88.134.84/ipineu/lexipif2.htm, 24/03/2005</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Diagnostische Methoden, die Bilder vom Körperinneren erzeugen.</descrip>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2005-08-04T11:15:55</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2005-08-04T11:15:55</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">http://www.krebs-info.ch/de/woerterbuch/lexikon.htm, 09/11/2004</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">Zu den bildgebenden Verfahren gehören die Röntgenuntersuchung, die Computertomographie, die Magnetresonanztomografie, die Ultraschalluntersuchung und die Positronen-Emissions-Tomographie.</descrip>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2005-08-04T11:15:55</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2005-08-04T11:15:55</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="German:Röntgenuntersuchung">Röntgenuntersuchung</xref>, <xref Tlink="German:CAT Scan">CAT Scan</xref>, <xref Tlink="German:MRI">MRI</xref>, <xref Tlink="German:UltraschallUntersuchung">UltraschallUntersuchung</xref>, <xref Tlink="German:PET">PET</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="FR-CH" type="French">
+</language>
+<termGrp>
+<term>diagnostic par imagerie</term>
+<transacGrp>
+<transac type="origination">bert</transac>
+<date>2005-03-25T11:31:14</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">bert</transac>
+<date>2005-03-25T11:31:14</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">m</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://212.88.134.84/ipineu/lexipif2.htm, 24/03/2005</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Méthodes d'examen qui génèrent des images de l'intérieur du corps.</descrip>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2005-08-04T11:15:55</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2005-08-04T11:15:55</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">http://www.krebs-info.ch/fr/woerterbuch/lexikon.htm, 09/11/2004</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">Font partie des procédés d'imagerie la radiographie, la tomodensitométrie, l'imagerie par résonance magnétique, l'échographie et la tomographie par émission de positrons.</descrip>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2005-08-04T11:15:55</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2005-08-04T11:15:55</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="French:radiographie">radiographie</xref>, <xref Tlink="French:tomodensitométrie">tomodensitométrie</xref>, <xref Tlink="French:IRM">IRM</xref>, <xref Tlink="French:échographie">échographie</xref>, <xref Tlink="French:PET">PET</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="IT-CH" type="Italian">
+</language>
+<termGrp>
+<term>diagnostica per immagini</term>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2005-08-04T11:07:33</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2005-08-04T11:07:33</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.istge.it/clinica/servizi/DiagnosticaImmagini/italiano/diagnostica_immagini.htm, 04/08/2004</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="Italian:radiografia">radiografia</xref>, <xref Tlink="Italian:TAC">TAC</xref>, <xref Tlink="Italian:ecografia">ecografia</xref>, <xref Tlink="Italian:PET">PET</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+</conceptGrp>
+
+<conceptGrp>
+<concept>976</concept>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2004-08-30T10:22:53</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">super</transac>
+<date>2006-04-03T12:56:48</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Subject1">Science</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject2">Chemicals/Pharmaceuticals</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject3">Drugs</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Project">Press Kit|Product Snapshot</descrip>
+</descripGrp>
+<languageGrp>
+<language lang="EN-GB" type="English">
+</language>
+<termGrp>
+<term>levodopa</term>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2004-08-30T10:22:53</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2004-08-30T10:22:53</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:NVS-Product Snap_04_e">NVS-Product Snap_04_e</xref>, under "Stalevo"</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Naturally occurring form of dopa and the immediate precursor of dopamine.</descrip>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2004-08-30T10:22:53</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2004-08-30T10:22:53</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">
+<xref Tlink=":http-med-dic">http-med-dic</xref>, 30/08/2004</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">1) Unlike dopamine itself, levodopa can be taken orally and crosses the blood-brain barrier. It is rapidly taken up by dopaminergic neurons and converted to dopamine. It is used for the treatment of parkinsonism and is usually given with agents that inhibit its conversion to dopamine outside of the central nervous system. 2) Levodopa is the most widely used agent to treat the symptoms of Parkinson's disease and has remained the gold standard of care for people suffering from the illness for nearly 40 years.</descrip>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2005-01-13T12:14:34</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2005-01-13T12:14:34</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">1) according to <xref Tlink=":http-med-dic">http-med-dic</xref>, 30/08/2004; 2) <xref Tlink="Source_Code:NVS-Product Snap_04_e">NVS-Product Snap_04_e</xref>, under "Stalevo"</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="English:Stalevo">Stalevo</xref>, <xref Tlink="English:Parkinson's disease">Parkinson's disease</xref>, <xref Tlink="English:dopamine">dopamine</xref>, <xref Tlink="English:gold standard">gold standard</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<termGrp>
+<term>L-Dopa</term>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2004-08-31T10:05:45</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2004-08-31T10:05:45</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="StatusTerm">SHORT FORM</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://www.stalevo.com/info/about/what_is_stalevo.jsp, 31/08/2004</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="DE-CH" type="German">
+</language>
+<termGrp>
+<term>Levodopa</term>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2004-08-30T10:22:53</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2004-08-30T10:22:53</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:NVS-Product Snap_04_d">NVS-Product Snap_04_d</xref>, unter "Stalevo"</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">Levodopa ist das am häufigsten verwendete Präparat zur Behandlung der Symptome der Parkinsonkrankheit. Seit beinahe 40 Jahren dient es als Standardbehandlung für diese Krankheit.</descrip>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2005-01-13T12:14:34</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2005-01-13T12:14:34</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">
+<xref Tlink="Source_Code:NVS-Product Snap_04_d">NVS-Product Snap_04_d</xref>, unter "Stalevo"</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="German:Stalevo">Stalevo</xref>, <xref Tlink="German:Parkinsonkrankheit">Parkinsonkrankheit</xref>, <xref Tlink="German:Dopamin">Dopamin</xref>, <xref Tlink="German:Goldstandard">Goldstandard</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="FR-CH" type="French">
+</language>
+<termGrp>
+<term>lévodopa</term>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2004-08-30T10:22:53</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2004-08-30T10:22:53</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:NVS-Product Snap_04_f">NVS-Product Snap_04_f</xref>, sous "Stalevo"</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Note">Lévodopa est le médicament le plus prescrit pour le traitement des symptômes de la maladie de Parkinson. Il est considéré voilà environ 40 ans comme étalon d'or des soins pour les personnes souffrant de cette maladie.</descrip>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2005-01-13T12:14:34</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2005-01-13T12:14:34</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_N">
+<xref Tlink="Source_Code:NVS-Product Snap_04_f">NVS-Product Snap_04_f</xref>, sous "Stalevo"</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="French:Stalevo">Stalevo</xref>, <xref Tlink="French:maladie de Parkinson">maladie de Parkinson</xref>, <xref Tlink="French:dopamine">dopamine</xref>, <xref Tlink="French:technique de référence">technique de référence</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="IT-CH" type="Italian">
+</language>
+<termGrp>
+<term>levodopa</term>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2004-11-26T09:16:25</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2004-11-26T09:16:25</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink=":NVS-http-novartis.it">NVS-http-novartis.it</xref>, 26/11/2004</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Terapia standard per i malati con il morbo di Parkinson.</descrip>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2004-11-26T09:16:25</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2004-11-26T09:16:25</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">secondo <xref Tlink=":NVS-http-novartis.it">NVS-http-novartis.it</xref>, 26/11/2004</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="Italian:Stalevo">Stalevo</xref>, <xref Tlink="Italian:malattia di Parkinson">malattia di Parkinson</xref>, <xref Tlink="Italian:dopamina">dopamina</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="ES" type="Spanish">
+</language>
+<termGrp>
+<term>levodopa</term>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2004-11-26T11:23:38</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2004-11-26T11:23:38</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:NVS-Press Kit_es">NVS-Press Kit_es</xref>, bajo "Visión general de Novartis Pharmaceuticals"</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="Spanish:Stalevo">Stalevo</xref>, <xref Tlink="Spanish:enfermedad de Parkinson">enfermedad de Parkinson</xref>, <xref Tlink="Spanish:dopamina">dopamina</xref>, <xref Tlink="Spanish:criterio de referencia">criterio de referencia</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+</conceptGrp>
+
+<conceptGrp>
+<concept>2660</concept>
+<transacGrp>
+<transac type="origination">tworke</transac>
+<date>2004-09-14T15:55:49</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">super</transac>
+<date>2006-04-19T09:57:42</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Subject1">Science</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject2">Medicine</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Project">Entry transfer</descrip>
+</descripGrp>
+<languageGrp>
+<language lang="EN-GB" type="English">
+</language>
+<termGrp>
+<term>palliative care</term>
+<transacGrp>
+<transac type="origination">tworke</transac>
+<date>2004-09-14T15:55:49</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">tworke</transac>
+<date>2004-09-14T15:55:49</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:http-who_e/f/es">http-who_e/f/es</xref>, 19/04/2006</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Approach that improves the quality of life of patients and their families facing the problem associated with life-threatening illness, through the prevention and relief of suffering by means of early identification and impeccable assessment and treatment of pain and other problems, physical, psychosocial and spiritual.</descrip>
+<transacGrp>
+<transac type="origination">tworke</transac>
+<date>2004-09-14T15:55:49</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">tworke</transac>
+<date>2004-09-14T15:55:49</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">according to <xref Tlink="Source_Code:http-who_e/f/es">http-who_e/f/es</xref>, 19/04/2006</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="DE-CH" type="German">
+</language>
+<termGrp>
+<term>Palliativpflege</term>
+<transacGrp>
+<transac type="origination">tworke</transac>
+<date>2004-09-14T15:55:49</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">tworke</transac>
+<date>2004-09-14T15:55:49</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">f</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">http://home.intergga.ch/schmidt/trauer/palliativ.htm, 14/09/2004</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Aktive und umfassende Pflege und Begleitung von Patienten und Patientinnen zum Zeitpunkt, da ihre Krankheit nicht mehr auf eine heilungsorientierte Behandlung anspricht.</descrip>
+<transacGrp>
+<transac type="origination">tworke</transac>
+<date>2004-09-14T15:55:49</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">tworke</transac>
+<date>2004-09-14T15:55:49</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">nach Quelle des Terminus</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="FR-CH" type="French">
+</language>
+<termGrp>
+<term>soins palliatifs</term>
+<transacGrp>
+<transac type="origination">tworke</transac>
+<date>2004-09-14T15:55:49</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">tworke</transac>
+<date>2004-09-14T15:55:49</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">mpl</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:Temps">Temps</xref>, 10/03/2003, p. 26</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Ensemble des soins qui ne visent plus le traitement de la maladie et de sa cause, mais plutôt la réduction des symptômes et le maintien du confort physique et moral du malade.</descrip>
+<transacGrp>
+<transac type="origination">zimmerli</transac>
+<date>2005-09-20T13:51:30</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">zimmerli</transac>
+<date>2005-09-20T13:51:30</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">
+<xref Tlink="Source_Code:http-gdt_ef">http-gdt_ef</xref>, 20/09/2005</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="IT-CH" type="Italian">
+</language>
+<termGrp>
+<term>cure palliative</term>
+<transacGrp>
+<transac type="origination">tworke</transac>
+<date>2004-09-14T15:55:49</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">tworke</transac>
+<date>2004-09-14T15:55:49</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">fpl</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:CdTicino">CdTicino</xref>, 21/11/2003, p. 9</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+</conceptGrp>
+
+<conceptGrp>
+<concept>1535</concept>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2005-02-03T10:49:57</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">super</transac>
+<date>2005-08-19T18:16:02</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Subject1">Industry</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject2">Chemicals/Pharmaceuticals</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Subject3">Drugs</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Project">Press Kit</descrip>
+</descripGrp>
+<languageGrp>
+<language lang="EN-GB" type="English">
+</language>
+<termGrp>
+<term>ketotifen</term>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2005-02-03T10:49:56</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2005-02-03T10:49:56</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:NVS-Press Kit_e">NVS-Press Kit_e</xref>, under "Novartis Pharmaceuticals Overview"</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Definition">Cycloheptathiophene that interferes with the release of inflammatory mediators and blocks histamine h1 receptors.</descrip>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2005-02-03T10:49:56</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2005-02-03T10:49:56</date>
+</transacGrp>
+</descripGrp>
+<descripGrp>
+<descrip type="Source_D">
+<xref Tlink=":http-med-dic">http-med-dic</xref>, 03/02/2005</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="English:Zaditor">Zaditor</xref>, <xref Tlink="English:Zaditen">Zaditen</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="DE-CH" type="German">
+</language>
+<termGrp>
+<term>Ketotifen</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2005-07-18T15:20:00</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2005-07-18T15:20:00</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:NVS-Press Kit_d">NVS-Press Kit_d</xref>, unter "Novartis Pharmaceuticals im Überblick"</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="German:Zaditor">Zaditor</xref>, <xref Tlink="German:Zaditen">Zaditen</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="FR-CH" type="French">
+</language>
+<termGrp>
+<term>kétotifèn</term>
+<transacGrp>
+<transac type="origination">gomez</transac>
+<date>2005-07-18T15:20:00</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">gomez</transac>
+<date>2005-07-18T15:20:00</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">n</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:NVS-Press Kit_f">NVS-Press Kit_f</xref>, sous "Tour d'horizon de Novartis Pharma"</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="French:Zaditor">Zaditor</xref>, <xref Tlink="French:Zaditen">Zaditen</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+<languageGrp>
+<language lang="ES" type="Spanish">
+</language>
+<termGrp>
+<term>ketotifeno</term>
+<transacGrp>
+<transac type="origination">jermini</transac>
+<date>2005-02-03T10:51:07</date>
+</transacGrp>
+<transacGrp>
+<transac type="modification">jermini</transac>
+<date>2005-02-03T10:51:07</date>
+</transacGrp>
+<descripGrp>
+<descrip type="Grammar">m</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="Source">
+<xref Tlink="Source_Code:NVS-Press Kit_es">NVS-Press Kit_es</xref>, under "Visión general de Novartis Pharmaceuticals"</descrip>
+</descripGrp>
+<descripGrp>
+<descrip type="See">
+<xref Tlink="Spanish:Zaditor">Zaditor</xref>, <xref Tlink="Spanish:Zaditen">Zaditen</xref>
+</descrip>
+</descripGrp>
+</termGrp>
+<descripGrp>
+<descrip type="ReliabilityIndex">high</descrip>
+</descripGrp>
+</languageGrp>
+</conceptGrp>
+
+</mtf>

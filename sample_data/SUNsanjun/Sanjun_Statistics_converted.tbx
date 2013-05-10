@@ -1,0 +1,1496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif SYSTEM "TBXcoreStructV02.dtd">
+<martif type="TBX-Sanjun" xml:lang="en">
+	<martifHeader>
+		<fileDesc>
+			<sourceDesc>
+				<p>auto-converted from MultiTerm XML</p>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<p type="DCSName">SUNsanjun.xcs</p>
+		</encodingDesc>
+	</martifHeader>
+	<text>
+		<body>
+			<termEntry id="_57">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-23T20:46:45</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-29T17:50:41</date>
+				</transacGrp>
+				<descrip type="subjectField">Statistics</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A range of values (an interval) used for estimating the value of a population parameter from data obtained in a sample, with a preset, fixed probability that the interval will include that true value of the population parameter being estimated. Most research is done on samples, but it is done in order to draw inferences about the entire relevant population.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>confidence interval</term>
+						<descripGrp>
+							<descrip type="context">Confidence interval refers to the range of values around the sample value within which we expect the population value to lie.</descrip>
+							<admin type="source">http://books.google.com/books?id=CG_JiJ6P_Z4C&amp;pg=PA172&amp;dq=%E2%80%9Cconfidence+interval+refers+to%22</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">在某一置信水平或显著性水平下总体参数所在的区域距离或区域长度。</descrip>
+						<admin type="source">心理学大辞典</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">置信水平一般用α表示(0&lt;α&lt;1)。当α= 0.05 时，区间包含总体参数的概率为95% ，而出现错误的概率为5%; 当=0.01时，区间包含总体参数的概率为99%。当专家称某校学绩测验的平均分数介于84.5- 98.6之间的可能性有99%时，84.5-98.6这一分数段就是99%的置信区间。</admin>
+						<adminNote type="noteSource">心理学大辞典</adminNote>
+					</adminGrp>
+					<tig>
+						<term>置信区间</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-23T20:50:26</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-23T20:50:26</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">置信水平是指总体参数值落在样本统计值某一区内的概率；而置信区间是指在某一置信水平下，样本统计值与总体参数值间误差范围。置信区间越大，置信水平越高。</descrip>
+							<admin type="source">http://wenda.tianya.cn/wenda/thread?tid=626b572fd8f33ca4</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_75">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-24T16:28:19</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-29T17:36:46</date>
+				</transacGrp>
+				<descrip type="subjectField">Statistics</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A scale of measurement in which data are simply classified into mutually exclusive categories, without indicating order, magnitude, a true zero point, or the like.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>nominal scale</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T16:28:19</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T16:34:23</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Nominal scale refers to measurement of concepts characterizing the different values a concept can take on in a discrete state, such as black/ red,rich/poor, dying/recovering, etc.</descrip>
+							<admin type="source">http://books.google.com/books?id=AeVRUTpkR4gC&amp;pg=PA18&amp;dq=%E2%80%9Dnominal+scale+refers+to%22&amp;lr=&amp;ei=vWPjSuiqGKe8zgSP7KjbCw#v=onepage&amp;q=%E2%80%9Dnominal%20scale%20refers%20to%22&amp;f=false</admin>
+						</descripGrp>
+					</tig>
+					<tig>
+						<term>categorical scale</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T16:34:23</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T16:34:23</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">A nominal scale of measurement, sometimes called a categorical scale or a classification system, has only one rule underlying its use: Different entities receive different values.</descrip>
+							<admin type="source">http://books.google.com/books?id=7e4npyN3BasC&amp;pg=PA19&amp;dq=%22categorical+scale%22&amp;lr=&amp;ei=XWTjSurzPJiqzQTT4o2ODA#v=onepage&amp;q=%22categorical%20scale%22&amp;f=false</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">测量尺度中最低的一种。它本质上是一种分类体系，即将研究对象的不同属性或特征加以区分，标以不同的名称或符号，确定其类别。</descrip>
+						<admin type="source">风笑天</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">列名尺度的数学特征主要是等于与不等于（或者是属于与不属于）。…在社会研究中，对诸如人们的性别、职业、婚姻状况、宗教信仰等等特征的测量，都是常见的定类层次的测量。</admin>
+						<adminNote type="noteSource">风笑天</adminNote>
+					</adminGrp>
+					<tig>
+						<term>称名量表</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T16:28:19</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T16:28:19</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">在教育评价中，量变分为四类：称名量表、等级量表、等距量表和等比量表。后面的一种量表总是比前面的一种要复杂，也就是说，等级量表应比等距量表低一个层次。</descrip>
+							<admin type="source">http://www.cqvip.com/qk/96914x/2005002/12143618.html</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_76">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-24T16:34:33</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-24T16:41:17</date>
+				</transacGrp>
+				<descrip type="subjectField">Statistics</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">Statistical tests that do not makes assumptions about the distribution of the attribute (or attributes) in the population being tested, such as normality and homogeneity of variance.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>nonparametric statistics</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T16:41:17</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T16:41:17</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Nonparametric statistics refers to the analysis that can be made on sample data without assuming foreknowledge of the population's distribution. Examples, include the sign test, the Wilcoxon signed rank test, the Mann-Whitney U test, and the Kruskal-Wallis H test.</descrip>
+							<admin type="source">http://books.google.com/books?id=AqnYmGXQjhUC&amp;pg=PA183&amp;dq=%22nonparametric+statistics+refers+to%22&amp;lr=&amp;ei=F2XjSsyfG6D2ygTWpen3Cw#v=onepage&amp;q=%22nonparametric%20statistics%20refers%20to%22&amp;f=false</admin>
+						</descripGrp>
+						<adminGrp>
+							<admin type="annotatedNote">Nonparametric statistics is a group of statistics that are not tied to assumptions common to parametric statistics, including normally distributed data and homogeneity of variance.</admin>
+							<adminNote type="noteSource">http://books.google.com/books?id=ai75P2UjvtUC&amp;pg=PA100&amp;dq=%22dependent+variable%22&amp;ei=kh_jSvmeG43-M9rliBA#v=snippet&amp;q=%22nonparametric%20statistics%22&amp;f=false</adminNote>
+						</adminGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">数理统计学重要内容。研究非参数问题，探究非参数方法。非参数问题是指统计总体分布形式未知或虽已知却不能用有限个参数刻画的统计问题。在多数场合下，与参数问题界线清楚，只在少数情况下会因为各人出发点不同而有不同看法。</descrip>
+						<admin type="source">心理学大辞典</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">非参数方法有拟合优度检验、次序统计量、U统计量、秩统计量与秩方法、置换检验、非参数回归与判别等等。非参数方法并非绝对只能解决非参数问题，有些也可用于典型的参数统计问题。非参数统计方法无法依赖总体的具体分布形式，构造的统计量常与具体分布无关，故又称非参数方法为自由分布方法。这样，非参数方法的性能对分布的实际形式如何并不敏感，即非参数方法常具较好的稳健性。非参数方法需要考虑在约束条件十分宽松的情况下使用，有可能导致效率的下降。非参数统计难以建立小样本理论，基本属于大样本理论的内容。非参数统计形成于20 世纪40年代，已成为一个体系庞大、理论精深且富有实用价值的统计分支。</admin>
+						<adminNote type="noteSource">心理学大辞典</adminNote>
+					</adminGrp>
+					<tig>
+						<term>非参数统计</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T16:41:17</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T16:41:17</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">如果在一个统计问题中，其总体分布不能用有限个实参数来刻画，只能对它作一些诸如分布连续、有密度、具有某阶矩等一般性的假定，则称之为非参数统计问题。例如，检验“两个总体有相同分布”这个假设，若假定两总体的分布分别为正态分布N(μ1,σ2)和N(μ2,σ2)，则问题只涉及三个实参数μ1，μ2,σ2，这是参数统计问题。若只假定两总体的分布为连续，此外一无所知，问题涉及的分布不能用有限个实参数刻画，则这是非参数统计问题。又如，估计总体分布的期望μ，若假定总体分布为正态 N(μ,σ2)，则问题是参数性的；若只假定总体分布的期望值存在，则问题是非参数性的。不过参数统计与非参数统计之间并没有泾渭分明的界线。有的统计问题，从不同的角度，可以理解为参数性的，也可以理解为非参数性的。例如线性回归（见回归分析）问题,若关心的是估计回归系数,它只是有限个实参数,因而可以看成是参数性的。但是,如果对随机误差的分布类型没有作任何假定，则从问题的总体分布这个角度看，也可以看成是非参数性的。</descrip>
+							<admin type="source">http://baike.baidu.com/view/426576.htm</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_78">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-24T16:50:32</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-22T22:29:31</date>
+				</transacGrp>
+				<descrip type="subjectField">Statistics</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A statistical test of an experimental hypothesis in which the expected direction of an effect or relationship is specified.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>one-tailed test</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T16:56:23</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T16:56:23</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">A one-tailed test refers to a directional research hypothesis. When you use a one-tailed test, you claim that the population parameter differs from...</descrip>
+							<admin type="source">http://books.google.com/books?id=rghHAAAAMAAJ&amp;q=%22one-tailed+test+refers+to%22&amp;dq=%22one-tailed+test+refers+to%22&amp;lr=</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">统计假设检验的一种。与&quot;双侧检验&quot;相对。</descrip>
+						<admin type="source">心理学大辞典</admin>
+					</descripGrp>
+					<tig>
+						<term>单尾检测</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T16:56:23</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T16:56:23</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">如果拒绝域在两侧，称为双尾检测，两边的面积各为α/2（见图3-1）。如果拒绝域放在一侧，称为单尾检测。单尾检测分为左尾（见图3-2）和右尾（见图3-3），拒绝域的面积都 ...</descrip>
+							<admin type="source">http://210.34.148.101:8488/dyc/MultiAnalysis/Chapter03.htm</admin>
+						</descripGrp>
+					</tig>
+					<tig>
+						<term>单侧检验</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T16:56:23</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T16:56:23</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">在假设检验中选用单侧检验，主要是为了提高检验效率，即提高(1-β)。本文就单侧检验的意义，单、双侧检验的假设与分布中的单、双尾面积，以及单侧检验之应用价值等问题进行探讨；此外，亦述及只有单侧检验的方法。</descrip>
+							<admin type="source">http://www.hudong.com/wiki/%E5%8D%95%E4%BE%A7%E6%A3%80%E9%AA%8C</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_80">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-24T17:01:49</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-29T17:33:37</date>
+				</transacGrp>
+				<descrip type="subjectField">Statistics</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A measurement system developed in such a manner as to reflect the rank ordering of participants on the attribute being measured.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>ordinal scale</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T17:05:06</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T17:05:06</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Ordinal scale refers to the measurement operations through which the subjects can be compared in order. For example, we may classify families according to socio-economic status: upper class, middle class, and lower class.</descrip>
+							<admin type="source">http://books.google.com/books?id=EaefcL3pWJYC&amp;pg=PA60&amp;dq=%22ordinal+scale+refers+to%22&amp;lr=#v=onepage&amp;q=%22ordinal%20scale%20refers%20to%22&amp;f=false</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">一种量表,其取值可以按照某种逻辑顺序将研究对象排列出高低或大小，确定其等级及次序。</descrip>
+						<admin type="source">风笑天</admin>
+					</descripGrp>
+					<tig>
+						<term>顺序量表</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T17:05:06</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T17:05:06</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">顺序量表又称“等级量表”、“位次量表”或“秩序量表”，是比较性量表，是将许多研究对象同时展示给受测者，并要求他们根据某个标准对这些对象排序或分成等级。例如：以下是一些彩色电视机的品牌名称，请将它们按你所喜好的程度排序。（其中1表示你最喜欢，5表示你最不喜欢。）</descrip>
+							<admin type="source">http://www.hudong.com/wiki/%E9%A1%BA%E5%BA%8F%E9%87%8F%E8%A1%A8</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_86">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-24T18:10:42</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-22T22:32:55</date>
+				</transacGrp>
+				<descrip type="subjectField">Statistics</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A measurement scale having a true zero (i.e., zero on the scale indicates an absence of the measured attribute) and a constant ratio of values.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>ratio scale</term>
+						<descripGrp>
+							<descrip type="context">A ratio scale has all the properties of nominal, ordinal and interval scales plus its own property: the zero point of a ratio scale is fixed, which means it has a fixed starting point.Therefore, it is an absolute scale--the difference between the intervals is always measured from a zero point.</descrip>
+							<admin type="source">http://books.google.com/books?id=x_kp__WmFzoC&amp;pg=PA70&amp;dq=A+ratio+scale+has+all+the+properties+of+nominal,+ordinal+and+interval+scales+plus+its+own+property:+the+zero+point+of+a+ratio+scale+is+fixed&amp;lr=&amp;ei=invjSt7QOYOwywSUt7nWCw#v=onepage&amp;q=A%20ratio%20scale%20has%20all%20the%20properties%20of%20nominal%2C%20ordinal%20and%20interval%20scales%20plus%20its%20own%20property%3A%20the%20zero%20point%20of%20a%20ratio%20scale%20is%20fixed&amp;f=false</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">一种量尺,其特点是具有绝对零点和相等单位,使变量值之间能进行各种运算和比较。</descrip>
+						<admin type="source">http://books.google.com/books?id=AlAtAAAAIAAJ&amp;q=%22%E6%AF%94%E7%8E%87%E9%87%8F%E8%A1%A8%22&amp;dq=%22%E6%AF%94%E7%8E%87%E9%87%8F%E8%A1%A8%22&amp;lr=</admin>
+					</descripGrp>
+					<tig>
+						<term>比率量表</term>
+						<descripGrp>
+							<descrip type="context">当一个虽表不仅具有区间量表的所有特征,而且还具有一个真正的冬点时,即称之为比率量表。</descrip>
+							<admin type="source">http://books.google.com/books?id=8qcMAAAAIAAJ&amp;q=%E6%AF%94%E7%8E%87%E9%87%8F%E8%A1%A8&amp;dq=%E6%AF%94%E7%8E%87%E9%87%8F%E8%A1%A8&amp;lr=</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_90">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-24T18:21:53</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-24T18:28:18</date>
+				</transacGrp>
+				<descrip type="subjectField">Statistics</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">The resulting distinction of a sampled statistic (proportion, mean, variance, or their respective differences, etc.) from random samples of a given size (n).</descrip>
+						<admin type="source">SAGE</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">The sampling distribution has all the characteristics of any distribution, including measures of centrality, variability, and shape. The central limit theorem provides the basis for expecting a sampling distribution of a sampling statistic to becomign more like a normal distribution with reduced sampling error as sampling size increases. The mean of the sampling distribution is expected to be the mean of the population from which the samples are randomly drawn.</admin>
+						<adminNote type="noteSource">SAGE</adminNote>
+					</adminGrp>
+					<tig>
+						<term>sampling distribution</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:21:53</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:21:53</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">In contrast to such distributions for individual measurements, a sampling distribution refers to the distribution of different values that a sample statistic, or estimator, would have over many samples of the same size.</descrip>
+							<admin type="source">http://books.google.com/books?id=EbuBn7YoCR8C&amp;pg=PA62&amp;dq=%22sampling+distribution+refers+to%22&amp;lr=&amp;ei=un7jSu6VHp6iygSCivSgDA#v=onepage&amp;q=%22sampling%20distribution%20refers%20to%22&amp;f=false</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">亦称“统计量分布”、“随机变量函数分布”。从某一总体中随机抽取的样本的统计量的分布。</descrip>
+						<admin type="source">心理学大辞典</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">常见统计量的抽样分布有样本均值抽样分布、样本方差抽样分布、样本比例抽样分布、两个独立样本方差之比抽样分布等。这些都是进行统计推断的基础。常见的抽样分布有二项分布、正态分布、t分布、卡方分布和F分布等。分为两类问题：(1)小样本问题，对任意一个n，求出给定统计量的精确分布（即确切分布）的问题 (2) 大样本问题，当统计量的精确分布得不到时，设法求出它的极限分布的问题。若知道统计量的极限分布，可采用大样本统计方法进行推断。</admin>
+						<adminNote type="noteSource">心理学大辞典</adminNote>
+					</adminGrp>
+					<tig>
+						<term>抽样分布</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:28:18</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:28:18</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">统计量是样本的函数，它是一个随机变量。统计量的分布称为抽样分布。它可分为正态总体下与非正态总体下两种情况来讨论。是由样本n个观察值计算的统计量的概率分布。从一个总体中随机抽出容量相同的各种样本，从这些样本计算出的某统计量所有可能值的概率分布，称为这个统计量的抽样分布。</descrip>
+							<admin type="source">http://baike.baidu.com/view/1460068.htm</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_93">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-24T18:35:12</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-22T22:37:34</date>
+				</transacGrp>
+				<descrip type="subjectField">Statistics</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">Any of a class of statistical tests based on the fact that the test statistic follows the T Distribution when the null hypothesis is true.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">Most t tests deal with hypotheses about the mean of a population or about differences between means of different populations.</admin>
+						<adminNote type="noteSource">APAdictionary</adminNote>
+					</adminGrp>
+					<tig>
+						<term>t test</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:42:24</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:42:24</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Student's t-Test refers to a hypothesis test for accepting or rejecting the hypothesis that the mean of a normal distribution having unknown variance is u0 making use of a small sample.</descrip>
+							<admin type="source">http://books.google.com/books?id=Spz03D42OCoC&amp;pg=PA248&amp;dq=%22t+test+refers+to%22&amp;lr=&amp;ei=ToLjSrD1CqfgyAS12NH_Cw#v=onepage&amp;q=%22t%20test%20refers%20to%22&amp;f=false</admin>
+						</descripGrp>
+						<adminGrp>
+							<admin type="annotatedNote">An inferential test that allows a reseacher to determine how likely it is that the difference between two group means occurred as a result of chance rather than as a result of the effect of the independent variable.The t value is calculated by dividing the differnce betwwen the means by the pooled sample standard deviation. If the resultant value of t is sufficiently large to exceed the threshold chosen for statistical significance, then the null hypothesis (that there are no differences between the group means) is rejected in favor of the alternative hypothesis (that there are true differences between the two group means).</admin>
+							<adminNote type="noteSource">SAGE</adminNote>
+						</adminGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">统计假设检验的一种。凡检验统计量服从或渐近服从t分布的检验。</descrip>
+						<admin type="source">心理学大辞典</admin>
+					</descripGrp>
+					<tig>
+						<term>t检验</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:42:24</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:42:24</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">T检验是用于小样本（样本容量小于30）的两个平均值差异程度的检验方法。它是用T分布理论来推断差异发生的概率，从而判定两个平均数的差异是否显著。</descrip>
+							<admin type="source">http://www.hudong.com/wiki/t%E6%A3%80%E9%AA%8C</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_94">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-24T18:42:34</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-22T22:41:59</date>
+				</transacGrp>
+				<descrip type="subjectField">Statistics</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">The error of rejecting the null hypothesis when it is in fact true.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">Investigators make this error when they believe they have detected an effect or a relationship that does not actually exist.</admin>
+						<adminNote type="noteSource">APAdictionary</adminNote>
+					</adminGrp>
+					<tig>
+						<term>Type I error</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:44:13</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-22T22:39:48</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Type I error refers to the rejection of a true hypothesis.</descrip>
+							<admin type="source">http://books.google.com/books?ei=MVLjSsnVDIWIygSWps3kCw&amp;lr=&amp;q=%22Type+I+error+refers+to%22&amp;btnG=Search+Books</admin>
+						</descripGrp>
+					</tig>
+					<tig>
+						<term>alpha error</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-22T22:39:48</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-22T22:39:48</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Type I or alpha error refers to incorrect rejection of the null hypothesis, implying the rejection of the null hypothesis when indeed the null hypothesis...</descrip>
+							<admin type="source">http://books.google.com/books?id=MflZZvGxN3wC&amp;pg=PA134&amp;dq=%22alpha+error+refers+to%22&amp;ei=zQMKS8PyLp6MzgSww_3FDw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">在零假设H0本来为真的情况下，检验统计量的观测值落入否定域而拒绝H0，接受H1而发生的错误。</descrip>
+						<admin type="source">心理学大辞典</admin>
+					</descripGrp>
+					<tig>
+						<term>第一类错误</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:44:13</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:44:13</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">当虚无假设不应推翻时而被推翻了，这意味着把样本的平均数差别认为是代表了总体平均数的差异。 这种错误被成为第一类错误。</descrip>
+							<admin type="source">http://www.hudong.com/wiki/%E7%AC%AC%E4%B8%80%E7%B1%BB%E9%94%99%E8%AF%AF</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_95">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-24T18:44:21</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-22T22:41:33</date>
+				</transacGrp>
+				<descrip type="subjectField">Statistics</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">The error of failing to reject the null hypothesis when it is in fact not true.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">Investigators make this error if they conclude that a particular effect or relationship does not exist when in fact it does.</admin>
+						<adminNote type="noteSource">APAdictionary</adminNote>
+					</adminGrp>
+					<tig>
+						<term>Type II error</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:46:13</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:46:13</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Type II error refers to the acceptance of a false hypothesis.</descrip>
+							<admin type="source">http://books.google.com/books?id=4JdJwAq2yeIC&amp;pg=PA95&amp;dq=%22Type+II+error+refers+to%22&amp;lr=&amp;ei=bIPjSpScBpPwzATu1a3cCw</admin>
+						</descripGrp>
+					</tig>
+					<tig>
+						<term>beta error</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-22T22:41:33</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-22T22:41:33</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Type II or beta error refers to erroneously failing to reject the null hypothesis when indeed it is false.</descrip>
+							<admin type="source">http://books.google.com/books?id=MflZZvGxN3wC&amp;pg=PA134&amp;dq=%22beta+error+refers+to%22&amp;ei=UwQKS9CoCoS-yQTBk6mrDw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">在零假设H0本来不真的情况下，检验统计量的观测值落入接受域而接受H0而犯的错误。</descrip>
+						<admin type="source">心理学大辞典</admin>
+					</descripGrp>
+					<tig>
+						<term>第二类错误</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:46:13</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-24T18:46:13</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">第二类错误为在进行假设检验时，原假设不正确而接受原假设的错误。由于检验统计量是随机变量，有一定的波动性，有时原假设H0并不正确，在正常的情况下，计算的统计量仍有一定的概率β落入接受域内，从而错误地接受了原假设H0。β是限制犯第二类错误的保证，又称为检验的污染。</descrip>
+							<admin type="source">http://baike.baidu.com/view/2089640.htm</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_102">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-29T17:40:04</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-29T17:40:04</date>
+				</transacGrp>
+				<descrip type="subjectField">Statistics</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A scale marked in equal intervals so that the difference between any two consecutive values on the scale is equivalent regardless of the two values selected, that is, the ratio of any two intervals is independent of the unit of measurement and of the zero point. Both the zero point and the units of measurement are arbitrary.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>interval scale</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-29T17:40:04</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-29T17:40:04</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Interval scale refers to the level of measurement that should be used when the distance between any two numbers is equal and of known size.</descrip>
+							<admin type="source">http://books.google.com/books?id=fpjaAAAAMAAJ&amp;q=%E2%80%9Dinterval+scale+refers+to%E2%80%9C&amp;dq=%E2%80%9Dinterval+scale+refers+to%E2%80%9C&amp;lr=&amp;ei=AlnjSoHaOKa2Ne-kyfYL</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">一种量表,不仅能够将社会现象或事物区分为不同的类别、不同的等级，而且可以确定它们相互之间不同等级的间隔距离和数量差别。</descrip>
+						<admin type="source">风笑天</admin>
+					</descripGrp>
+					<tig>
+						<term>等距量表</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-29T17:40:04</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-29T17:40:04</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">等距量表:是一种有相等单位但没有绝对零点的量表，因此它只能做加减运算，不能做乘除运算。</descrip>
+							<admin type="source">http://baike.baidu.com/view/677493.htm</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_104">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-29T17:49:00</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-29T17:49:00</date>
+				</transacGrp>
+				<descrip type="subjectField">Statistics</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">The number of elements that are free to vary in a statistical calculation, or the number of scores minus the number of mathematical restrictions.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">If the mean of set of scores is fixed, then the number of degrees of freedom is one less than the number of scores. For example, if four individuals have a mean IQ of 100, then there are three degrees of freedom, because knowing three of the IQs determines the fourth IQ.</admin>
+						<adminNote type="noteSource">APAdictionary</adminNote>
+					</adminGrp>
+					<tig>
+						<term>degree of freedom</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-29T17:49:00</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-29T17:49:00</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">The expression degree of freedom refers to the amount of data available for estimating a parameter. The degrees of freedom associated with a sample standard deviation is equal to n-1.</descrip>
+							<admin type="source">http://books.google.com/books?id=3ice1O3kt1sC&amp;pg=PA117&amp;dq=%22degree+of+freedom+refers+to%22&amp;ei=Xh7jSqe0BpqwyATalfW9Aw#v=onepage&amp;q=%22degree%20of%20freedom%20refers%20to%22&amp;f=false</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">确定一个对象运动状态的独立变量数。“独立变量”指是这些变量彼此互不影响、互不关联、各自在自己特定范围内任意取值。</descrip>
+						<admin type="source">心理学大辞典</admin>
+					</descripGrp>
+					<tig>
+						<term>自由度</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-29T17:49:00</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-10-29T17:49:00</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">统计学上的自由度（degree of freedom, df），是指当以样本的统计量来估计总体的参数时， 样本中独立或能自由变化的资料的个数，称为该统计量的自由度。例如，在估计总体的平均数时，样本中的个数全部加起来，其中任何一个数都和其他资料相独立，从其中抽出任何一个数都不影响其他资料（这也是随机抽样所要求的）。因此一组资料中每一个资料都是独立的，所以自由度就是估计总体参数时独立资料的数目，而平均数是根据个独立资料来估计的，因此自由度为n。</descrip>
+							<admin type="source">http://baike.baidu.com/view/327514.htm</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_105">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-29T17:49:29</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-10-29T17:49:29</date>
+				</transacGrp>
+				<descrip type="subjectField">Statistics</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A numerical index reflecting the degree of relationship (usually linear) between two attributes scaled so that the value of +1 indicates a perfect positive relationship, -1 a perfect negative relationship, and 0 no relationship.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>correlation coefficient</term>
+						<descripGrp>
+							<descrip type="context">The correlation coefficient reflects the amount of variability that is shared between two variables and what they have in common.</descrip>
+							<admin type="source">http://books.google.com/books?id=GdtgReSRQSgC&amp;pg=PT138&amp;dq=%22correlation+coefficient%22&amp;ei=Rh3jSriXC6q-ygSKoNDbCw#v=onepage&amp;q=%22correlation%20coefficient%22&amp;f=false</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">相关程度度量指标。其绝对值总在0-1之间。两个变量的线性相关程度愈大，相关系数的绝对值愈接近于1，反之亦然。通常所谓相关系数，若无特别说明，则指皮尔逊积差相关系数。</descrip>
+						<admin type="source">心理学大辞典</admin>
+					</descripGrp>
+					<tig>
+						<term>相关系数</term>
+						<descripGrp>
+							<descrip type="context">相关系数是变量之间相关程度的指标。样本相关系数用r表示,总体相关系数用ρ表示,相关系数的取值范围为[-1,1]。Abs(r)值越大，误差Q越小，变量之间的线性相关程度越高；abs(r)值越接近0，Q越大，变量之间的线性相关程度越低。</descrip>
+							<admin type="source">http://baike.baidu.com/view/172091.htm</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_129">
+				<descrip type="subjectField">Statistics</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T19:43:49</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T19:43:49</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A statistical analysis that simultaneously models multiple dependent variables.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>multivariate analysis</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T19:43:49</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T19:43:49</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Multivariate analysis refers to a set of statistical procedures that are distinguished by the ability to examine several response variables within a single...</descrip>
+							<admin type="source">http://books.google.com/books?id=zzhrAAAAMAAJ&amp;q=%E2%80%9Dmultivariate+analysis+refers+to%22&amp;dq=%E2%80%9Dmultivariate+analysis+refers+to%22&amp;lr=&amp;ei=TogIS5IqirrJBOK5lL0P</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">多个变量统计分析技术在社会研究中的运用。</descrip>
+						<admin type="source">http://www.hudong.com/wiki/%E5%A4%9A%E5%8F%98%E9%87%8F%E5%88%86%E6%9E%90</admin>
+					</descripGrp>
+					<tig>
+						<term>多变量分析</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T19:43:49</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T19:43:49</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">多变量分析为统计方法的一种，包含了许多的方法，最基本的为单变量，再延伸出来的多变量分析。</descrip>
+							<admin type="source">http://baike.baidu.com/view/613565.html</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_130">
+				<descrip type="subjectField">Statistics</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T19:54:20</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T19:54:20</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">In statistics, a widely used distribution-free test , more powerful than the median test , of the null hypothesis that two independent samples come from the same population.</descrip>
+						<admin type="source">OxDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>Mann-Whitney U test</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T19:54:20</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T19:54:20</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Mann-Whitney U-Test refers to a test of significance which is applicable to two independent samples where measurement is on at least the ordinal level.</descrip>
+							<admin type="source">http://books.google.com/books?id=Bw27smOOScIC&amp;pg=PA215&amp;dq=%E2%80%9DMann-Whitney+U+test+refers+to%22&amp;lr=&amp;ei=wokIS7z2B6WWygS5sc2nDw#v=onepage&amp;q=%E2%80%9DMann-Whitney%20U%20test%20refers%20to%22&amp;f=false</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<tig>
+						<term>Mann-Whitney U检验</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T19:54:20</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T19:54:20</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">值得注意的是，一般文献上使用的方法是Mann-Whitney U 检验法并给出U统计量。</descrip>
+							<admin type="source">http://www.google.com/url?sa=t&amp;source=web&amp;ct=res&amp;cd=9&amp;ved=0CDsQFjAI&amp;url=http%3A%2F%2Fwww.hlsjyj.com%2FUploadFiles%2F200881910231384.ppt&amp;ei=_ooIS8uTHo3plAfirYyFBA&amp;usg=AFQjCNGgxKi7ErGHXgpfxmUCW4Kb9SN62w&amp;sig2=WxtXK1nyuVPP2Z3rfBw9lQ</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_139">
+				<descrip type="subjectField">Statistics</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T22:01:30</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T22:01:30</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A measure of the degree of relationshp between two variables that have each been placed in ranks.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>rank-order correlation</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T22:01:30</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T22:01:30</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Spearman Rank-Order Correlation Spearman rank-order correlation is a nonparametric measure of association based on the ranks of the data values.</descrip>
+							<admin type="source">http://books.google.com/books?id=m6jGr31fZZcC&amp;pg=PT23&amp;dq=%E2%80%9Drank-order+correlation+is%E2%80%9C&amp;lr=&amp;ei=GacIS43YB5zuygTstojJDw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">以两个变量的分数等级为基础的相关。</descrip>
+						<admin type="source">ZhuDictionary</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">它来自皮尔逊的积矩相关，并且最广泛地采用非参数相关。它常被称作等级差相关，因为系数计算中的关键因素是两个变量的等级之间的差异。</admin>
+						<adminNote type="noteSource">ZhuDictionary</adminNote>
+					</adminGrp>
+					<tig>
+						<term>等级次序相关</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T22:01:30</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T22:01:30</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Spearman 等级次序相关系数(Rank. Order Correlation Coefficient, ROCC)，它反映了客观测度. 预测的单调性。</descrip>
+							<admin type="source">http://jeit.ie.ac.cn/qikan/manage/wenzhang/20090219.pdf</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_140">
+				<descrip type="subjectField">Statistics</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T22:19:11</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T22:19:11</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">The degree of relationship between two continuous variables and can be assessed using linear correlation coefficients (r) that that range between 1 and minus 1.</descrip>
+						<admin type="source">http://books.google.com/books?id=KB-g-oBfApsC&amp;pg=PA483&amp;dq=%E2%80%9Dlinear+correlation+refers+to%E2%80%9C&amp;lr=&amp;ei=CasIS7TLD5XGywTnmrizDw</admin>
+					</descripGrp>
+					<tig>
+						<term>linear correlation</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T22:19:11</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T22:19:11</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Simple linear regression and simple linear correlation are two different ways of analyzing the relationship between variable X and variable Y in a sample of n pairs of measurements.</descrip>
+							<admin type="source">http://books.google.com/books?id=3LhPwUhrVIcC&amp;pg=PA344&amp;dq=%E2%80%9Dlinear+correlation+%E2%80%9C&amp;lr=&amp;ei=yasIS9TPFJX0zASmwPmtDw#v=onepage&amp;q=%E2%80%9Dlinear%20correlation%20%E2%80%9C&amp;f=false</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">一个变量的单位大小的变化与另一个变量单位大小的变化相联系的任何一种相关，就是说，回归线是一条直线。</descrip>
+						<admin type="source">ZhuDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>线性相关</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T22:19:11</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T22:19:11</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">给定向量组A: a1, a2, ···, am , 如果存在不全为零的数 k1, k2, ···,km , 使　　k1 a1 + k2 a2 + ··· + km am = 0则称向量组A是线性相关的, 否则称它是线性无关.</descrip>
+							<admin type="source">http://baike.baidu.com/view/1082682.htm</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_141">
+				<descrip type="subjectField">Statistics</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T22:24:58</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T22:24:58</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A numerical index of the degree of relationship between a particular variable (e.g., a dependent variable) and two or more other variables (e.g, independent variables).</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>multiple correlation</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T22:24:58</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T22:24:58</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Actually, the multiple correlation is simply a mathematical extension of Pearson's r.</descrip>
+							<admin type="source">http://books.google.com/books?id=67vpZ5VOj14C&amp;pg=PA516&amp;dq=%E2%80%9Dmultiple+correlation+%E2%80%9C&amp;lr=&amp;ei=DK4IS-DtJaq-ygSX7uCqDw#v=onepage&amp;q=%E2%80%9Dmultiple%20correlation%20%E2%80%9C&amp;f=false</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">一个（因）变量与两个或两个以上（自）变量之间的关系。</descrip>
+						<admin type="source">ZhuDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>复相关</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T22:24:58</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T22:24:58</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">三个或三个以上因素的相关关系叫做复相关，即研究涉及两个或两个以上的自变量和因变量。</descrip>
+							<admin type="source">http://baike.baidu.com/view/694530.htm</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_142">
+				<descrip type="subjectField">Statistics</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T22:39:31</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T22:39:31</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">The upper and lower end points of a confidence interval; that is, the values between which the value of the parameter is anticipanted with a known probability to be.</descrip>
+						<admin type="source">APAdictionary p. 214</admin>
+					</descripGrp>
+					<tig>
+						<term>confidence limits</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T22:39:31</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T22:39:31</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Confidence limits for the mean (Snedecor and Cochran, 1989) are an interval estimate for the mean. Interval estimates are often desirable because the estimate of the mean varies from sample to sample.</descrip>
+							<admin type="source">http://www.itl.nist.gov/div898/handbook/eda/section3/eda352.htm</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">不指望某个事件通过几个规定的概率的机遇而发生的界限。</descrip>
+						<admin type="source">ZhuDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>置信限</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T22:39:31</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T22:39:31</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">本文介绍一种找参数精确置信限和置信区间的一般方法.关键想法是在样本空间中定义一个序.</descrip>
+							<admin type="source">http://d.wanfangdata.com.cn/Periodical_yygltj200004001.aspx</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_144">
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T22:49:01</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T22:49:01</date>
+				</transacGrp>
+				<descrip type="subjectField">Statistics</descrip>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">In inferential statistics, a test to determine whether a sample mean is significantly different from a population mean, and hence whether the sample is unlikely to have come from the population.</descrip>
+						<admin type="source">OxDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>Z test</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T22:49:01</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T22:49:01</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">There are two differences between the t-test and the z-test. The first is that, although the t-test can be used with only one group, to see if its mean is different from some arbitrary or population value, its primary purpose is to compare two groups; whereas the z-test is used mainly with one group.</descrip>
+							<admin type="source">http://books.google.com/books?id=y4tWQl_8Ni8C&amp;pg=PA71&amp;dq=%22z+test+is%22&amp;lr=&amp;ei=obMIS7i6IqCeygTU06i3Dw#v=onepage&amp;q=%22z%20test%20is%22&amp;f=false</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">对服从正态分布的统计量所进行的统计检验。</descrip>
+						<admin type="source">CheDictionary</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">秩和检验法之一，属非参数检验。可用于小样本，总体为正态分布，和已和总体方差的条件下，对总体平均数的检验；也可用于大样本，总体为任何分布的条件下，对总体平均数的检验。</admin>
+						<adminNote type="noteSource">CheDictionary</adminNote>
+					</adminGrp>
+					<tig>
+						<term>Z检验</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T22:49:01</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T22:49:01</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Z检验是一般用于大样本(即样本容量大于30)平均值差异性检验的方法。它是用标准正态分布的理论来推断差异发生的概率，从而比较两个平均数的差异是否显著。当已知标准差时，验证一组数的均值是否与某一期望值相等时，用Z检验。</descrip>
+							<admin type="source">http://www.techcn.com.cn/index.php?doc-view-118440</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_150">
+				<descrip type="subjectField">Statistics</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T23:15:46</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T23:15:46</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A broad class of statistical techniques that allows inferences about characteristics of a population to be drawn from a sample of data from that population while controlling (at least partially) the extent to which errors of inference may be made.</descrip>
+						<admin type="source">APAdictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>inferential statistics</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T23:15:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T23:15:46</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Inferential statistics is the process of reaching generalizations about the whole (called the population) by examining a portion (called the sample).</descrip>
+							<admin type="source">http://books.google.com/books?id=4JdJwAq2yeIC&amp;pg=PA1&amp;dq=%E2%80%9Dinferential+statistics+is%E2%80%9C&amp;lr=&amp;ei=c7oIS7nOPKWWygS5sc2nDw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">借助抽样调查，从局部推断总体，以对不肯定的事做做出决策的一种统计。</descrip>
+						<admin type="source">CheDictionary</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">有总体参数估计与假设检验两种。前者以一次性抽样实验为依据，对整个总体的某个数字特征做出估计。后者则是对某种假设进行检验，根据计算结果推断所做的假设是否可以接受。如平均数、标准差、相关系数、回归系数等特征的总体估计及差异显著性检验。推断统计理论基础是概率论，它更多地需要借助抽样理论与方法。</admin>
+						<adminNote type="noteSource">CheDictionary</adminNote>
+					</adminGrp>
+					<tig>
+						<term>推论统计</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T23:15:46</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T23:15:46</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">推论统计的理论假设是概率论。概率论研究发现，当样本总体的样本容量达到特定值时候，则【样本总体分布】的形状为Z分布（样本容量三十以上）、T分布（样本容量为三十到八）或P分布（样本容量为十以下）的。这时，我们从样本总体中随机抽出一个样本，这个样本落在这个样本总体的中心区域的可能性较大，落在边缘区域可能性较小，出了某一区域的可能性很小。这一规律在所有定样本容量的数据分布中都存在。因此，我们可把两组数据放到一个坐标系上，然后根据两组数据的统计参数来比较两个分布是否有显著性差异，并估算出猜错的可能性。</descrip>
+							<admin type="source">http://www.hudong.com/wiki/%E6%8E%A8%E8%AE%BA%E7%BB%9F%E8%AE%A1</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_151">
+				<descrip type="subjectField">Statistics</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T23:20:38</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T23:20:38</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">Summaries of numerical data that make them more easily interpretable, including especially the mean , variance , standard deviation , range , standard error of the mean, kurtosis , and skewness of a set of scores.</descrip>
+						<admin type="source">OxDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>descriptive statistics</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T23:20:38</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T23:20:38</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">Descriptive statistics is a medium for describing data in manageable forms.</descrip>
+							<admin type="source">http://books.google.com/books?id=QySynvetGQIC&amp;pg=PT493&amp;dq=%E2%80%9Ddescriptive+statistics+is%E2%80%9C&amp;lr=&amp;ei=XLsIS77TEYa2zAS8t7TPDw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">根据搜集的大量数据资料进行整理、归类、列表、图示、计算等程序而取得具体结果的统计方法。</descrip>
+						<admin type="source">CheDictionary</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">包括：列表法、图示法、集中量数、差异量数和相关系数等。它的主要作用在于把零乱无序的数据简缩成清晰而易于了解的形式，以便从其中提取有用的信息，分数数据的分布特征，揭示研究对象的内容和实质。它还便于对不同的总体进行初步的比较。但信息对大量数据进行加工概括时，有可能会丢失一些原始资料所提供的具体的生活的内容，故要求研究者对加工概括的方法进行必要的说明，以免做出错误的结论。描述统计是推断统计的基础，而推断统计的发展也使描述统计的内容更为丰富。</admin>
+						<adminNote type="noteSource">CheDictionary</adminNote>
+					</adminGrp>
+					<tig>
+						<term>描述统计</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T23:20:38</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T23:20:38</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">描述统计又分为集中趋势分析和离中趋势分析和相关分析三大部分。集中趋势分析主要靠平均数、中数、众数等统计指标来表示数据的集中趋势。例如被试的平均成绩多少？是正偏分布还是负偏分布？离中趋势分析主要靠全距、四分差、平均差、方差、标准差等统计指标来研究数据的离中趋势。例如，我们想知道两个教学班的语文成绩中，哪个班级内的成绩分布更分散，就可以用两个班级的四分差或百分点来比较。</descrip>
+							<admin type="source">http://baike.baidu.com/view/334065.htm</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_153">
+				<descrip type="subjectField">Statistics</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T23:28:46</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T23:28:46</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A test of a general linear hypothesis based on an F-statistic, that is, a statistic that under the null hypothesis has an F-distribution.</descrip>
+						<admin type="source">BlackDictionary</admin>
+					</descripGrp>
+					<tig>
+						<term>F-test</term>
+						<descripGrp>
+							<descrip type="context">The use of an F-test requires, like all other hypothesis tests, a determination of the degrees of freedom and the critical value to be used.</descrip>
+							<admin type="source">http://books.google.com/books?id=6i0R25426RgC&amp;pg=PA303&amp;dq=F-test+hypothesis&amp;lr=&amp;ei=g70IS-O0GamwyAT5td3cDw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">运用服从F分布的统计量或方差比所做的统计检验。</descrip>
+						<admin type="source">CheDictionary</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">F检验有广泛的用途：1）检验两个独立样本的总体方差的齐性；2）在一个分类基础上或在一个维度上检验各处理效应是否有差异；3）分析多个维度设计中，每一维度的各个处理效应是否有差异，以及是否存在各个维度之间的交互作用；4）检验总体的复相关系数是否为0；5）检验总体的相关比是否等于0；6）检验回归是否为直线回归等等。进行F检验需要满足的条件是：1）总体的正态性；2）抽样的随机性和独立性；3）方差分析中的效应的可加性；4)方差分析中的组内方差的齐性。若这些条件不能满足，F检验的有效性就会受到影响，F检验常用于方差的齐性检验。</admin>
+						<adminNote type="noteSource">CheDictionary</adminNote>
+					</adminGrp>
+					<tig>
+						<term>F检验</term>
+						<descripGrp>
+							<descrip type="context">F检验又叫方差齐性检验。在两样本t检验中要用到F检验。从两研究总体中随机抽取样本，要对这两个样本进行比较的时候，首先要判断两总体方差是否相同，即方差齐性。若两总体方差相等，则直接用t检验，若不等，可采用t'检验或变量变换或秩和检验等方法。其中要判断两总体方差是否相等，就可以用F检验。简单的说就是 检验两个样本的 方差是否有显著性差异 这是选择何种T检验（等方差双样本检验，异方差双样本检验）的前提条件。</descrip>
+							<admin type="source">http://baike.baidu.com/view/557343.html</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+			<termEntry id="_154">
+				<descrip type="subjectField">Statistics</descrip>
+				<transacGrp>
+					<transac type="transactionType">origination</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T23:33:23</date>
+				</transacGrp>
+				<transacGrp>
+					<transac type="transactionType">modification</transac>
+					<transacNote type="responsibility">PhD Student</transacNote>
+					<date>2009-11-21T23:33:23</date>
+				</transacGrp>
+				<langSet xml:lang="EN">
+					<descripGrp>
+						<descrip type="definition">A mathematical procedure for reducing a set of intercorrelations to a small number of descriptive or explanatory concepts.</descrip>
+						<admin type="source">APAdictionary p.363</admin>
+					</descripGrp>
+					<tig>
+						<term>factor analysis</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T23:33:23</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T23:33:23</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">In this sense, factor analysis refers to all methods of data analysis using matrix factors, including component analysis and common factor analysis.</descrip>
+							<admin type="source">http://books.google.com/books?id=y7gDP_ELM3gC&amp;pg=PA1124&amp;dq=%22factor+analysis+refers+to%22&amp;lr=&amp;ei=Rb4IS5jkNoOgzASs8JzQDw</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+				<langSet xml:lang="ZH">
+					<descripGrp>
+						<descrip type="definition">指研究多个观测变量(observed variables)之间的关系及结构的一种多元统计技术，指在用较少数量的潜伏变量(latent variables)即因素来解释各观测变量之间的关系。</descrip>
+						<admin type="source">CheDictionary</admin>
+					</descripGrp>
+					<adminGrp>
+						<admin type="annotatedNote">观测变量与因素之间的相关称为因素负荷(factor loadings),范围由-0.01至+1.00之间的数值。因素负荷越大，越有意义，表示因素对观测变量的影响大。在应用因素分析技术时，研究者一般认为因素分析技术时，研究者一般认为因素负荷应大于0.4或0.5才有意义。包括探索性因素分析（EFA）和验证性因素分析(CFA)两类。</admin>
+						<adminNote type="noteSource">CheDictionary</adminNote>
+					</adminGrp>
+					<tig>
+						<term>因素分析</term>
+						<transacGrp>
+							<transac type="transactionType">origination</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T23:33:23</date>
+						</transacGrp>
+						<transacGrp>
+							<transac type="transactionType">modification</transac>
+							<transacNote type="responsibility">PhD Student</transacNote>
+							<date>2009-11-21T23:33:23</date>
+						</transacGrp>
+						<descripGrp>
+							<descrip type="context">因素分析法是用来测定受多种因素影响的某种经济现象总变动中各个因素的影响的方向和影响程度的一种统计分析方法。</descrip>
+							<admin type="source">http://www.stats-tj.gov.cn/Article/ljtj/tjzswd/tjylhff/200612/5440.html</admin>
+						</descripGrp>
+					</tig>
+				</langSet>
+			</termEntry>
+		</body>
+	</text>
+</martif>

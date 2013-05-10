@@ -1,0 +1,369 @@
+[
+	"TBX",
+	"cls.xcs",
+	{
+		"language" : {
+			"ReliabilityIndex" : [[[
+				"@auxInfo",
+				"<descrip type='reliabilityCode' />",
+				{
+					"high" : "9",
+					"medium" : "5",
+					"low" : "1"
+				},
+				"content"
+			]]]
+		},
+		"concept" : {
+			"Audience" : [[[
+				"@auxInfo",
+				"<admin type='businessUnitSubset' />",
+		"null",
+				"content"
+			]]],
+			"Business Unit" : [[[
+				"@auxInfo",
+				"<admin type='businessUnitSubset' />",
+				"null",
+				"content"
+			]]],
+			"Client" : [[[
+				"@auxInfo",
+				"<admin type='customerSubset' />",
+				"null",
+				"content"
+			]]],
+			"Graphic" : [[[
+				"@Graphic",
+				"<xref type='xGraphic'>Graphic</xref>",
+				"null",
+				"target"
+			]]],
+			"Origin" : [[[
+				"@auxInfo",
+				"<admin type='originatingInstitution' />",
+				"null",
+				"content"
+			]]],
+			"Project" : [[[
+				"@auxInfo",
+				"<admin type='projectSubset' />",
+				"null",
+				"content"
+			]]],
+			"Source_Graph" : [[[
+				"@Source_Graph",
+				"<admin type='source' />",
+				"null",
+				"content"
+			]]],
+			"Status" : [
+				[
+					[
+						"@unhandled",
+						"<admin type='Status' />",
+						"null",
+						"content"
+					],
+					[
+						"Internal"
+					],
+					[
+						"OBSOLETE",
+						"Processing"
+					]
+				],
+				[
+					"@auxInfo",
+					"<admin type='securitySubset' />",
+					{
+						"Internal" : "confidential"
+					},
+					"content"
+				],
+				[
+					"@auxInfo",
+					"<admin type='elementWorkingStatus' />",
+					{
+						"Processing" : "workingElement",
+						"OBSOLETE" : "archiveElement"
+					},
+					"content"
+				]
+			],
+			"Subject1" : [[[
+				"@auxInfo",
+				"<descrip type='subjectField' />",
+				"null",
+				"content"
+			]]],
+			"Subject2" : [[[
+				"@auxInfo",
+				"<descrip type='subjectField' />",
+				"null",
+				"content"
+			]]],
+			"Subject3" : [[[
+				"@auxInfo",
+				"<descrip type='subjectField' />",
+				"null",
+				"content"
+			]]],
+			"Subject4" : [[[
+				"@auxInfo",
+				"<descrip type='subjectField' />",
+				"null",
+				"content"
+			]]]
+		},
+		"term" : {
+			"Definition" : [[[
+				"@Definition",
+				"<descrip type='definition' />",
+				"null",
+				"content"
+			]]],
+			"Grammar" : [
+				[
+					[
+						"@unhandled",
+						"<termNote type='Grammar' />",
+						"null",
+						"content"
+					],
+					[
+						"f", "m", "n", 
+						"fpl", "mpl", "npl"
+					],
+					[
+						"pl", "fpl", "mpl", "npl"
+					],
+					[
+						"Abbreviation",
+						"Phrase"
+					],
+					[
+						"adj", "adv", "v",
+						"Proper name"
+					]
+				],
+				[
+					"@termNote",
+					"<termNote type='grammaticalGender' />",
+					{
+						"f" : "feminine",
+						"fpl" : "feminine",
+						"m" : "masculine",
+						"mpl" : "masculine",
+						"n" : "neuter",
+						"npl" : "neuter"
+					},
+					"content"
+				],
+				[
+					"@termNote",
+					"<termNote type='grammaticalNumber' />",
+					{
+						"fpl" : "plural",
+						"mpl" : "plural",
+						"npl" : "plural",
+						"pl" : "plural"
+					},
+					"content"
+				],
+				[
+					"@termNote",
+					"<termNote type='termType' />",
+					{
+						"Abbreviation" : "abbreviation",
+						"Phrase" : "phraseologicalUnit"
+					},
+					"content"
+				],
+				[
+					"@termNote",
+					"<termNote type='partOfSpeech' />",
+					{
+						"adj" : "adjective",
+						"adv" : "adverb",
+						"Proper name" : "properNoun",
+						"v" : "verb"
+					},
+					"content"
+				]
+			],
+			"Note" : [[[
+				"@Note",
+				"<note />",
+				"null",
+				"content"
+			]]],
+			"Phraseology" : [[[
+				"@Phraseology",
+				"<termNote type='usageNote' />",
+				"null",
+				"content"
+			]]],
+			"Region" : [[[
+				"@termNote",
+				"<termNote type='geographicalUsage' />",
+				"null",
+				"content"
+			]]],
+			"Quote" : [[[
+				"@Quote",
+				"<descrip type='context' />",
+				"null",
+				"content"
+			]]],
+			"See" : [[[
+				"@auxInfo",
+				"<descrip type='relatedConcept' />",
+				"null",
+				"content"
+			]]],
+			"Source" : [[[
+				"@auxInfo",
+				"<admin type='source' />",
+				"null",
+				"content"
+			]]],
+			"Source_D" : [[[
+				"@Source_D",
+				"<admin type='source' />",
+				"null",
+				"content"
+			]]],
+			"Source_N" : [[[
+				"@Source_N",
+				"<adminNote type='noteSource' />",
+				"null",
+				"content"
+			]]],
+			"Source_Ph" : [[[
+				"@Source_Ph",
+				"<admin type='source' />",
+				"null",
+				"content"
+			]]],
+			"Source_Q" : [[[
+				"@Source_Q",
+				"<admin type='source' />",
+				"null",
+				"content"
+			]]],
+			"StatusTerm" : [
+				[
+					[
+						"@unhandled",
+						"<descrip type='StatusTerm' />",
+						"null",
+						"content"
+					],
+					[
+						"TO BE AVOIDED",
+						"OBSOLETE",
+						"OFFICIAL",
+						"PREFERRED",
+						"UNOFFICIAL"
+					],
+					[
+						"RARE"
+					],
+					[
+						"COLLOQUIAL",
+						"POPULAIRE",
+						"SCIENTIFIC",
+						"WISSENSCHAFTLICH"
+					],
+					[
+						"EXTERNAL",
+						"INTERNAL"
+					],
+					[
+						"NEW"
+					],
+					[
+						"SHORT FORM"
+					],
+					[
+						"WITHOUT ARTICLE"
+					]
+				],
+				[
+					"@termNote",
+					"<termNote type='administrativeStatus' />",
+					{
+						"TO BE AVOIDED" : "deprecatedTerm-admn-sts",
+						"PREFERRED" : "preferredTerm-admn-sts",
+						"OFFICIAL" : "standardizedTerm-admn-sts",
+						"OBSOLETE" : "supersededTerm-admn-sts",
+						"UNOFFICIAL" : "admittedTerm-admn-sts"
+					},
+					"content"
+				],
+				[
+					"@termNote",
+					"<termNote type='frequency'>rarelyUsed</termNote>",
+					"null",
+					"null"
+				],
+				[
+					"@termNote",
+					"<termNote type='register' />",
+					{
+						"COLLOQUIAL" : "colloquialRegister",
+						"POPULAIRE" : "colloquialRegister",
+						"SCIENTIFIC" : "technicalRegister",
+						"WISSENSCHAFTLICH" : "technicalRegister"
+					},
+					"content"
+				],
+				[
+					"@auxInfo",
+					"<admin type='securitySubset' />",
+					{
+						"EXTERNAL" : "public",
+						"INTERNAL" : "confidential"
+					},
+					"content"
+				],
+				[
+					"@termNote",
+					"<termNote type='termProvenance' />",
+					{
+						"NEW" : "neologism"
+					},
+					"content"
+				],
+				[
+					"@termNote",
+					"<termNote type='termType' />",
+					{
+						"SHORT FORM" : "shortForm"
+					},
+					"content"
+				],
+				[
+					"@termNote",
+					"<termNote type='usageNote' />",
+					"lowercase",
+					"content"
+				]
+			]
+		}
+	},
+	{
+		"languageGrp" : [],
+		"termGrp" : [
+			["Quote", "Source_Q", "auxInfo"],
+			["Definition", "Source_D", "auxInfo"],
+			["Note", "Source_N", "auxInfo"],
+			["Phraseology", "Source_Ph", "termNote"]
+		],
+		"conceptGrp" : [
+			["Graphic", "Source_Graph", "auxInfo"]
+		]
+	},
+	{}
+]

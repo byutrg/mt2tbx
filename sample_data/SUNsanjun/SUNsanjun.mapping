@@ -1,0 +1,92 @@
+[
+   "TBX-Sanjun",
+   "SUNsanjun.xcs",
+   {
+      "language" : {
+         "N_Source" : [[[
+                  "@N_Source",
+                  "<admin type='source'/>",
+                  "null",
+                  "content"
+         ]]],
+         "Definition" : [[[
+                  "@Definition",
+                  "<descrip type='definition'/>",
+                  "null",
+                  "content"
+         ]]],
+         "D_Source" : [[[
+                  "@D_Source",
+                  "<admin type='source'/>",
+                  "null",
+                  "content"
+         ]]],
+         "Note" : [[[
+                  "@Note",
+                  "<note/>",
+                  "null",
+                  "content"
+         ]]]
+      },
+      "concept" : {
+         "N_Source" : [[[
+                  "@N_Source",
+                  "<admin type='source'/>",
+                  "null",
+                  "content"
+         ]]],
+         "Subject" : [[[
+                  "@auxInfo",
+                  "<descrip type='subjectField'/>",
+                  "null",
+                  "content"
+         ]]],
+         "Note" : [[[
+                  "@Note",
+                  "<note/>",
+                  "null",
+                  "content"
+         ]]]
+      },
+      "term" : {
+         "N_Source" : [[[
+                  "@N_Source",
+                  "<admin type='source'/>",
+                  "null",
+                  "content"
+         ]]],
+         "C_Source" : [[[
+                  "@C_Source",
+                  "<admin type='source'/>",
+                  "null",
+                  "content"
+         ]]],
+         "Note" : [[[
+                  "@Note",
+                  "<note/>",
+                  "null",
+                  "content"
+         ]]],
+         "Context" : [[[
+                  "@Context",
+                  "<descrip type='context'/>",
+                  "null",
+                  "content"
+         ]]]
+      }
+   },
+   {
+      "languageGrp" : [
+         ["Definition", "D_Source", "auxInfo"],
+         ["Note", "N_Source", "auxInfo"]
+      ],
+      "termGrp" : [
+         ["Context", "C_Source", "auxInfo"],
+         ["Note", "N_Source", "auxInfo"]
+      ],
+      "conceptGrp" : [
+         ["Note", "N_Source", "auxInfo"]
+      ]
+   },
+   {}
+]
