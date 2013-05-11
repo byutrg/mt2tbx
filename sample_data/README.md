@@ -4,4 +4,4 @@ The files in this directory are examples of converting MultiTerm XML files to TB
 
 ###MultiTerm Template Files
 
-The mapping and XCS files in [MTTemplate][./MTTemplate] allow one to convert any MultiTerm termbase which was created using *only* default values and data categories. We expect them to be extremely useful, as they allow one to skip the entire process of creating a mapping file. If you constrain yourself to using MultiTerm's default termbase definitions, then converting to TBX is trivial.
+The mapping and XCS files in [MTTemplate](./MTTemplate) allow one to convert any MultiTerm termbase which was created using *only* default values and data categories. We expect them to be extremely useful, as they allow one to skip the entire process of creating a mapping file. If you constrain yourself to using MultiTerm's default termbase definitions, then converting to TBX is trivial.
