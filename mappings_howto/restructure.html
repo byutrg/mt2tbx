@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us" >
+<head>
+<title>TBX Convert | Home </title>
+<link href="/static/css/basic.css" rel="stylesheet" type="text/css">
+</head>
+<body class="">
+<!-- Header -->
+	<div id="header">
+		<h2 id="site-name">TBX Convert: MultiTerm: Writing Mappings</h2>
+	</div>
+<!-- End Header -->
+
+<!-- Container -->
+	<div id="container">
+    <!-- Content -->
+		<div id="content">
+			<h1>Do I need to restructure my MultiTerm fields?</h1>
+			
+			<p>Both MultiTerm and TBX provide a hierarchical organization for your termbase: Concept entries contain language sections, which contain term sections; descriptive or administrative data can be attached at any of these levels. Both architectures carry the hierarchy further by allowing data to be attached to other data. For example, if you provide a definition, you might need to cite the source of that definition. In MultiTerm, you would create a nested entry structure with a Source field subordinate to the Definition field, creating a parent/child relationship. TBX uses grouping elements for the same purpose.</p>
+
+			<p>Often, however, a termbase definition in MultiTerm does not use this structure. Instead, there will be a field with a name like Source_of_Definition, placed not underneath Definition but alongside it&mdash;a sibling, not a child.</p>
+
+			<p>It is possible to carry this sibling structure over into TBX, but it is not desirable. One reason is that it misrepresents the facts about the data. The source citation is really information about the definition, not about the concept itself. The parent/child structure makes this relationship explicit and usable, whereas the sibling structure leaves it implicit. Another reason is that the standardized data categories do not differentiate sources of definitions from sources of contextual examples etc., but provide one data category to represent this single concept. Of course, one could define a new data category corresponding to Source_of_Definition, but this would impede blind interchange by requiring an explanation of its meaning.</p>
+
+			<p>Our TBX conversion program accounts for this problem by allowing you to restructure sibling relationships into parent/child relationships. If you have any data categories that fit this description, note their names, which should be the parent, and which should be the child. Later we will incorporate this information into the mapping file.</p>
+
+			<br class="clear" />
+		</div>
+    <!-- END Content -->
+		<div id="footer">
+			<p>&copy; 2012 LTAC Global. This website is not affiliated with SDL plc. Trademarks are property of their owners. Tautologies are in the public domain.</p>
+			<p><a href="index.html">Back to Writing Mappings</a></p>
+	</div>
+	</div>
+<!-- END Container -->
+</body>
+</html>

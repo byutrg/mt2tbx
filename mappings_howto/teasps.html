@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us" >
+<head>
+<title>TBX Convert | Home </title>
+<link href="/static/css/basic.css" rel="stylesheet" type="text/css">
+</head>
+<body class="">
+<!-- Header -->
+	<div id="header">
+		<h2 id="site-name">TBX Convert: MultiTerm: Writing Mappings</h2>
+	</div>
+<!-- End Header -->
+
+<!-- Container -->
+	<div id="container">
+    <!-- Content -->
+		<div id="content">
+			<h1>Writing templates for TBX elements</h1>
+			
+			<p>A large part of the mapping file consists of templates for TBX elements. When processing your data, the converter program will refer to these templates to determine what kind of element to create, how to derive its content from the content of your MultiTerm fields, where to place it in the new TBX document, etc. This information can be collected under five headings, whose initials spell <strong>TEASP,</strong> and therefore we have adopted the name <em>teasp</em> for these templates.</p>
+			
+			<p>You will need to write at least one teasp for each field. If one field (or multiple fields with the same name) are used on different structural levels (concept, index, term), you will need a teasp for each. Finally, if one field corresponds to two or more TBX data categories, each TBX data category will also need its own teasp, and you may choose to write an additional teasp as that field's default (or fallback) mapping.</p>
+			
+			<p>The pages below will show how to collect the information for a teasp and how to encode it in <a href="http://www.json.org/">JSON format</a> for our converter. The letters of TEASP stand for Target, Element, Attributes, Substitution, and Placement, but we will alter this order slightly for easier learning:
+			<ol>
+				<li><a href="teasp/s.html">Substitution</a> of picklist values, and other transformations of your field's content.</li>
+				<li><a href="teasp/ea.html">Element and Attributes</a> used in TBX for your data category.</li>
+				<li><a href="teasp/p.html">Placement</a> of your (transformed) data within the TBX element.</li>
+				<li><a href="teasp/t.html">Target</a> of the TBX element within its containing structure.</li>
+				<li><a href="teasp/json-teasp.html">Assembling one teasp.</a></li>
+				<li><a href="teasp/json-template-set.html">Assembling one field's teasps.</a></li>
+			</ol></p>
+			
+			<p></p>
+			
+
+			<br class="clear" />
+		</div>
+    <!-- END Content -->
+		<div id="footer">
+			<p>&copy; 2012 LTAC Global. This website is not affiliated with SDL plc. Trademarks are property of their owners. Tautologies are in the public domain.</p>
+			<p><a href="index.html">Back to Writing Mappings</a></p>
+	</div>
+	</div>
+<!-- END Container -->
+</body>
+</html>

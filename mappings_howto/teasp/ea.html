@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us" >
+<head>
+<title>TBX Convert | Home </title>
+<link href="/static/css/basic.css" rel="stylesheet" type="text/css">
+</head>
+<body class="">
+<!-- Header -->
+	<div id="header">
+		<h2 id="site-name">TBX Convert: MultiTerm: Writing Mappings</h2>
+	</div>
+<!-- End Header -->
+
+<!-- Container -->
+	<div id="container">
+    <!-- Content -->
+		<div id="content">
+			<h1>Writing teasps: Element and attributes</h1>
+			
+			<h2>Choice of element</h2>
+			
+			<p>TBX provides a set of <em>meta data elements,</em> which are customized with a <em>type</em> attribute to represent various data categories. If you have adopted data categories from the default data category selection in the <a href="http://www.ttt.org/oscarstandards/tbx/tbx_oscar.pdf">TBX specification,</a> the "meta data-category" listed there is the name of the element you should use.</p>
+
+			<p>If you create novel data categories, you should choose an element consistent with the usage of the TBX specification. A complete list is in section 8.7 of the TBX spec, but these are the most relevant: <ul>
+				<li><strong>admin:</strong> for administrative data categories</li>
+				<li><strong>descrip:</strong> for descriptive data categories in general</li>
+				<li><strong>note:</strong> for human-readable notes (element serves only this data category)</li>
+				<li><strong>termNote:</strong> for data categories that give the properties of a term or term component</li>
+				<li><strong>ref:</strong> for data categories that cross-reference within the termbase</li>
+				<li><strong>xref:</strong> for data categories that refer to external files or URLs</li>
+			</ul>
+			If your termbase includes term components, you will use <strong>termComp</strong> elements to map fields that contain them. If the term component fields are placed directly at the term level, this is all you will need. If you have some field such as "Syllabification" or "Morphology," and the term component fields are subordinate to it, you will map it to <strong>termCompList.</strong></p>
+			
+			<p>If your termbase includes parent fields and child fields, the elements mentioned above are always suitable for parent fields. They are usually suitable for child fields also, but TBX has <a href="#subordinates">complex rules</a> about which elements may be subordinated to which. Fortunately, our program knows these rules and can help. If your data map out to an illegal combination, it will wrap the subordinate element in an XML comment (to preserve the validity of the TBX file) and issue a warning (to allow you to revise your mapping).</p>
+
+			<h2>Choice of attributes</h2>
+			
+			<p>Meta data elements use the <em>type</em> attribute to carry the name of the specific data category they represent, and <em>type</em> is therefore mandatory on nearly every element listed on this page. Exceptions are as follows: <ul>
+				<li><strong>note</strong> cannot have a <em>type</em> because it only represents one data category.</li>
+				<li><strong>xref</strong> is technically valid without <em>type,</em> but in our usage scenario such a thing is nonsense.</li>
+				<li><strong>termComp</strong> has no <em>type.</em> In TBX, the kind of term component is indicated by the surrounding <strong>termCompList.</strong> If your termbase definition does not include a parent field that maps to <strong>termCompList,</strong> our program will supply one based on the <a href="t.html">target</a> that the <strong>termComp</strong>s are sent to.</li>
+				<li><em>type</em> is generally supplied literally in the mapping, but termbase data can also be <a href="p.html">placed</a> in it at processing time. This functionality is intended for the scenario where one MultiTerm field maps to multiple <strong>termCompList</strong>-based data categories. It may have other uses, but we don't know of any.</li>
+			</ul></p>
+
+			<p>The <em>target</em> attribute is mandatory on <strong>xref</strong>s to give the filename or URI targeted, but most of the time it will be <a href="p.html">placed</a> there from user data, rather than being supplied by the mapping. It is allowed on other meta data elements, but we doubt you will find much use for it.</p>
+
+			<h2>JSON syntax</h2>
+			
+			<p>In each teasp in the mapping file, you will need a JSON string containing one nearly literal XML element: <pre><tt>"&lt;descrip type=\"definition\"/>"</tt></pre> or <pre><tt>"&lt;xref type='xGraphic'>Graphic&lt;/xref>"</tt></pre> for example. We say "nearly literal" for two reasons. First, JSON strings are delimited by double quotation marks, and so any double quotation marks inside the string must be escaped with backslashes, as shown in the first example. (XML also allows single quotation marks around attribute values, as shown in the second example, and we find we prefer this to escaping backslashes.) Second, the element will of course be modified when user data is placed in it. The first example will acquire textual content (and our program will take care of dividing it into a start tag and an end tag at that time). The second example has generic textual content, to which user data will add a <em>target</em> attribute.</p>
+
+			<h2>Miscellaneous</h2>
+			
+			<p><a name="subordinates"/>On rules for subordinating one element to another, see the TBX spec, Annex D.4. If the parent field maps to an <strong>admin</strong> or to <strong>note,</strong> see the "May contain" list under <strong>adminGrp</strong> (which includes the element <strong>adminNote</strong>). If the parent field maps to a <strong>descrip, ref, or xref,</strong> see under <strong>descripGrp</strong> (including <strong>descripNote</strong>). For a parent <strong>termNote,</strong> see under <strong>termNoteGrp;</strong> for a <strong>termComp,</strong> under <strong>termCompGrp;</strong> and for a <strong>termCompList,</strong> under <strong>termCompList</strong> itself.</p>
+
+			<p>TBX includes two other meta data elements, which you will (probably) not use in your mapping. <strong>refObjectList</strong> is used to organize reference material in the back matter of a TBX document, but to use this feature requires cross-referencing information that MultiTerm does not export, and so this element is not supported by our converter program. <strong>transac</strong> documents changes to the termbase, and it is usually generated by MultiTerm and our converter without user intervention. It is conceivable that user-created data categories might map to further transactional information, but that possibility is beyond the scope of this manual.</p>
+
+			<br class="clear" />
+		</div>
+    <!-- END Content -->
+		<div id="footer">
+			<p>&copy; 2012 LTAC Global. This website is not affiliated with SDL plc. Trademarks are property of their owners. Tautologies are in the public domain.</p>
+			<p><a href="../teasps.html">Back to Writing Templates</a></p>
+	</div>
+	</div>
+<!-- END Container -->
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us" >
+<head>
+<title>TBX Convert | Home </title>
+<link href="/static/css/basic.css" rel="stylesheet" type="text/css">
+</head>
+<body class="">
+<!-- Header -->
+	<div id="header">
+		<h2 id="site-name">TBX Convert: MultiTerm: Writing Mappings</h2>
+	</div>
+<!-- End Header -->
+
+<!-- Container -->
+	<div id="container">
+    <!-- Content -->
+		<div id="content">
+			<h1>Identifying your MultiTerm fields</h1>
+			
+			<p>If you have your termbase open in MultiTerm, view the termbase definition (Catalog view -> Definition, or Termbase menu -> Modify Termbase Definition). The entry structure will give a list of all the descriptive fields in your termbase. Copy them out to three working lists of your own: One for the entry/concept level, one for the index/language level, and one for the term level. Be sure to copy them exactly, including capitalization.</p>
+
+			<p>If you only have access to the exported XML, you will find it full of elements like this: <pre><tt>&lt;descrip type=&quot;FieldName&quot;&gt;value&lt;/descrip&gt;</tt></pre></p>
+			
+			<p>Searching for "descrip type" will help you find all the names of the fields, or you can enlist your local scripting expert to automate the process further. Running the XML through a pretty-printer will make it easier to determine which list to put the field on: a <tt>&lt;descrip&gt;</tt> indented three times is at concept level. If it is indented four times it is either at language level or subordinate to another data category at concept level; likewise five indents is either at term level or subordinate to a four-indents data category. If you miss any fields, we'll catch them later.</p>
+
+			<p>If any fields take their values from a picklist, you will need a copy of the list. In MultiTerm, these are listed with the descriptive fields. If you have only the XML, again we recommend that you enlist a local scripting expert to extract them. As before, capitalization matters, and as before, we'll later catch any values that you missed.</p>
+
+			<p>Finally, you need to know the meaning of every field and picklist value. If you have questions about any of them, study the data and/or ask the person who created or maintains the termbase. You will need to be clear on their meanings in order to choose TBX data categories to correspond to them.</p>
+
+			<br class="clear" />
+		</div>
+    <!-- END Content -->
+		<div id="footer">
+			<p>&copy; 2012 LTAC Global. This website is not affiliated with SDL plc. Trademarks are property of their owners. Tautologies are in the public domain.</p>
+			<p><a href="index.html">Up to Writing Mappings.</a> <a href="datcats.html">Forward to Choosing TBX Data Categories.</a> </p></p>
+	</div>
+	</div>
+<!-- END Container -->
+</body>
+</html>

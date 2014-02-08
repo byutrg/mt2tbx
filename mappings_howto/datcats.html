@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us" >
+<head>
+<title>TBX Convert | Home </title>
+<link href="/static/css/basic.css" rel="stylesheet" type="text/css">
+</head>
+<body class="">
+<!-- Header -->
+	<div id="header">
+		<h2 id="site-name">TBX Convert: MultiTerm: Writing Mappings</h2>
+	</div>
+<!-- End Header -->
+
+<!-- Container -->
+	<div id="container">
+    <!-- Content -->
+		<div id="content">
+			<h1>Choosing TBX data categories</h1>
+			
+			<p>TBX is an extensible format. Any kind of terminological data can be formalized as a TBX data category. Many data categories have already been defined and standardized, and it is best to use these whenever possible, because they are widely understood and because they clearly document the meaning of your data. We will discuss how to find the ones that correspond to your MultiTerm fields. In case no standardized data category is suitable, we will also discuss how to define your own.</p>
+			
+			<p>The <em>note</em> data category is built into TBX, so it is always available for general purposes. Many other data categories are described in the <a href="http://www.ttt.org/oscarstandards/tbx/tbx_oscar.pdf">TBX specification.</a> 
+			For each of your MultiTerm fields: <ol>
+				<li>Scan Section 9.3 ('Data-categories specialized from meta data-categories through the default XCS file', pp. 17-21), which is a list of TBX data categories, sorted by function. Take note of any data-category whose name suggests it may be equivalent to your MultiTerm field. Note also its meta data-category and its levels.</li> 
+				<li>Check the description of the data category in Annex D, part 5 ('Default data-categories', pp. 61-72). The list is sorted by meta data-category. You want the description to match or include the meaning of your MultiTerm field. Don't worry if picklist values differ, so long as they express the same information. Merely make a note of how your values correspond to the standard ones.</li>
+				<li>The levels in TBX correspond to the structure of MultiTerm, and each data category can be used only on certain levels. Verify that the TBX data category is available where you need it: MultiTerm's concept level corresponds to TBX's <em>termEntry</em> (terminological entry). MultiTerm's index level corresponds to TBX's <em>langSet</em> (language section). Levels named <em>term</em> correspond. If you have a term-level field that describes only part of a term, such as a morpheme or syllable, any fields subordinated to it are on the equivalent of TBX's <em>termComponent</em> level.</li> 
+			</ol></p>
+
+			<p>Ideally, your MultiTerm field will have been anticipated among the TBX default data categories. If this is the case, simply take note of it. This also suffices if the TBX data category is broader than your MultiTerm field.</p>
+
+			<p>You may find that your MultiTerm field corresponds to more than one TBX data category. For example, a field named 'Grammar' might contain values that pertain to both <em>grammaticalGender</em> and <em>grammaticalNumber</em> in TBX. In this case, record both, and list the values that belong to each (some may belong to both).</p>
+			
+			<p>You may find that the TBX data category slightly mismatches your MultiTerm field: you need a value TBX does not provide, you have the field at a level where TBX does not allow it, etc. You must decide whether to extend the TBX data category, or match some values of your field to the unextended TBX data category and other values to a new one that you create. Either approach will require some private documentation about a data category's meaning.</p>
+			
+			<p>The <a href="http://www.isocat.org/interface/index.html">ISOcat data registry</a> contains numerous standardized data categories beyond those provided in TBX, which may help you meet additional needs. It can be searched or browsed by application area, and is intended to be the continuing authority on data categories for the future. It also contains definitions and explanations of TBX's standard data categories, in case you are in doubt whether they match.</p>
+			
+			<p>Failing all of these, you can define your own data category. Determine and document what it means and what values it can take, and assign it an ID of some kind. Recipients of your data will need to consult this documentation. One approach is to put the documentation online and use its URL for the ID.</p>
+			
+			<p>TBX uses a file format called XCS to document which data categories are in use. If all of your data categories are found in the TBX spec, you can simply use the default XCS file, or you can make a subset of it that only covers the data categories you need. If you extend a data category, adopt one from ISOcat, or create one from scratch, you will need your own XCS file. The TBX spec documents the XCS format.</p>
+			
+
+			<br class="clear" />
+		</div>
+    <!-- END Content -->
+		<div id="footer">
+			<p>&copy; 2012 LTAC Global. This website is not affiliated with SDL plc. Trademarks are property of their owners. Tautologies are in the public domain.</p>
+			<p><a href="index.html">Back to Writing Mappings</a></p>
+	</div>
+	</div>
+<!-- END Container -->
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us" >
+<head>
+<title>TBX Convert | Home </title>
+<link href="/static/css/basic.css" rel="stylesheet" type="text/css">
+</head>
+<body class="">
+<!-- Header -->
+	<div id="header">
+		<h2 id="site-name">TBX Convert: MultiTerm: Writing Mappings</h2>
+	</div>
+<!-- End Header -->
+
+<!-- Container -->
+	<div id="container">
+    <!-- Content -->
+		<div id="content">
+			<h1>Writing teasps: Substitutions</h1>
+			
+			<p>Substitutions replace data values found in the MultiTerm termbase with standardized values for TBX. Some kinds of data, such as definitions, do not have a limited, standardized set of values, and need no substitution. In these cases, simply note down the substitution <tt>"null"</tt> (including the quotation marks) and move on. Null substitution means the values received from MultiTerm will not be changed.</p>
+
+			<p>Data fields that require a substitution are most often those that take values from a picklist, such as grammatical gender. A substitution for grammatical gender might look like this: <pre><tt>	{
+		"fem" : "feminine",
+		"masc" : "masculine",
+		"neut" : "neuter"
+	}
+</tt></pre> The values on the left (<em>fem,</em> <em>masc,</em> and <em>neut</em>) are the values we expect to see in the MultiTerm data. Those on the right (<em>feminine,</em> <em>masculine,</em> and <em>neuter</em>) are the standard values in TBX. The surrounding punctuation is <a href="http://www.json.org/">JSON</a> syntax that shows how the substitution fits together. Because this substitution is our first large piece of JSON, we will take a moment to describe this syntax.</p>
+
+			<p>Each expected or standardized value is placed between double quotation marks, making it a string. Each expected value is followed by a colon and its corresponding standardized value, making a pair. The pairs are separated from one another by commas, and the complete list of pairs is enclosed by curly braces, making a <em>JSON object.</em> Spaces, tabs, and newlines arrange the object for human readability and are recommended, but not required.</p>
+
+			<p>This example covers only three pairs of values, but a substitution can contain as many pairs as it needs to. It does not need to include pairs where the expected value is the same as the standardized value.</p>
+
+			<p>Three special substitutions are defined for rare needs. These are like the null substitution in that they are requested with a string, rather than a JSON object. <ul>
+				<li>The <tt>"lowercase"</tt> substitution substitutes lowercase letters for capitals.</li>
+				<li>The <tt>"camel case"</tt> substitution removes spaces from any value, and marks the start of a new word with a capital letter instead.</li>
+				<li>The <tt>"category tag"</tt> substitution marks the data with the name of the MultiTerm data field. It is intended to distinguish among data fields that might all be mapped to a TBX <tt>&lt;note&gt;</tt>. The marking is human-readable only. To distinguish among kinds of data in a machine-readable way, map them to different data categories.</li>
+			</ul> In each case (as also with <tt>"null"</tt>), the quotation marks are required to identify the name of the substitution as a string. Future versions of the converter may recognize additional special substitutions if needed.</p>
+
+			<br class="clear" />
+		</div>
+    <!-- END Content -->
+		<div id="footer">
+			<p>&copy; 2012 LTAC Global. This website is not affiliated with SDL plc. Trademarks are property of their owners. Tautologies are in the public domain.</p>
+			<p><a href="../teasps.html">Back to Writing Templates</a></p>
+	</div>
+	</div>
+<!-- END Container -->
+</body>
+</html>
