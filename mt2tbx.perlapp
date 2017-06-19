@@ -1,0 +1,33 @@
+#!C:\Program Files\ActiveState Perl Dev Kit 9.5\bin\perlapp-gui.exe
+PAP-Version: 1.0
+Packer: C:\Program Files\ActiveState Perl Dev Kit 9.5\bin\perlapp.exe
+Script: mt2tbx.pl
+Cwd: Z:\Users\Serdo\git\Csh-MultitermTBXMapper\MultiTermTBXMapper\MultiTermTBXMapper\Perl
+Clean: 0
+Date: 2017-06-12 15:45:57
+Debug: 
+Dependent: 0
+Dyndll: 0
+Exe: mt2tbx.exe
+Force: 0
+Gui: 1
+Hostname: SERDO-DESKTOP
+Manifest: 
+No-Compress: 0
+No-Logo: 0
+Runlib: 
+Shared: none
+Tmpdir: 
+Verbose: 0
+Version-Comments: 
+Version-CompanyName: Translation Research Group, Brigham Young University
+Version-FileDescription: 
+Version-FileVersion: 
+Version-InternalName: 
+Version-LegalCopyright: Perl5
+Version-LegalTrademarks: 
+Version-OriginalFilename: 
+Version-ProductName: MultiTerm 2 TBX Comverter
+Version-ProductVersion: 1.0
+Warnings: 0
+Xclude: 0
