@@ -39,7 +39,11 @@ my ($dialect_name, $xcs_name, $categorial, $queue_orders, $misc); # mapping
 ### Main code ###
 
 my ($mappingFile, $xmlInput) = @ARGV;
-die ('Usage: $ perl mt2tbx.pl [JSON Mapping] [MultiTerm XML]') unless defined($mappingFile) && defined($xmlInput);
+if (!(defined($mappingFile) && defined($xmlInput)))
+{
+	print ('Usage: $ perl mt2tbx.pl [JSON Mapping] [MultiTerm XML]');
+	exit();
+}
 
 my $tbxOutput = $xmlInput =~ s/\.xml$/.tbx/ri;
 my ($volume, $directories, $tbxFile) = File::Spec->splitpath($tbxOutput);
