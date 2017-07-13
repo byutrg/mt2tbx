@@ -46,6 +46,20 @@ if (!(defined($mappingFile) && defined($xmlInput)))
 	exit();
 }
 
+#  This is specifically for the MultiTerm Converter,
+#  which has issues sending whitespace characters to the perl script.
+#  Instead of whitespace it uses "%%%%", which then needs converted back to whitespace.
+$mappingFile =~ s/%%%%/ /g;
+$xmlInput =~ s/%%%%/ /g;
+
+if (!(-e $mappingFile && -e $xmlInput))
+{
+	print("One or more of the input files do not exist:\n
+	\t$mappingFile\n
+	\t$xmlInput");
+	exit();
+}
+
 my $tbxOutput = $xmlInput =~ s/\.xml$/.tbx/ri;
 my ($volume, $directories, $tbxFile) = File::Spec->splitpath($tbxOutput);
 process_file();
