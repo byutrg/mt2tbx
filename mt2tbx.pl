@@ -23,6 +23,7 @@ use warnings;
 # data-processing libraries
 use JSON; # to read mapping
 use XML::Rules; # to map MultiTerm data to TBX
+use PerlIO::encoding;
 use Encode; # to write TBX
 use File::Spec;
 
@@ -42,6 +43,20 @@ my ($mappingFile, $xmlInput) = @ARGV;
 if (!(defined($mappingFile) && defined($xmlInput)))
 {
 	print ('Usage: $ perl mt2tbx.pl [JSON Mapping] [MultiTerm XML]');
+	exit();
+}
+
+#  This is specifically for the MultiTerm Converter,
+#  which has issues sending whitespace characters to the perl script.
+#  Instead of whitespace it uses "%%%%", which then needs converted back to whitespace.
+$mappingFile =~ s/%%%%/ /g;
+$xmlInput =~ s/%%%%/ /g;
+
+if (!(-e $mappingFile && -e $xmlInput))
+{
+	print("One or more of the input files do not exist:\n
+	\t$mappingFile\n
+	\t$xmlInput");
 	exit();
 }
 
