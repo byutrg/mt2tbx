@@ -23,6 +23,7 @@ use warnings;
 # data-processing libraries
 use JSON; # to read mapping
 use XML::Rules; # to map MultiTerm data to TBX
+use PerlIO::encoding;
 use Encode; # to write TBX
 use File::Spec;
 
